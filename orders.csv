@@ -1,0 +1,1040 @@
+order_no,order_date,customer name,address,city,state,customer_type,account_id,order_priority,product_id,product_container,ship_mode,ship_date,cost_price,retail_price,order_quantity,sub_total,discount_%,discount_$,order_total,shipping_cost,total
+5014-1,2/11/2013,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,High,1,Small Box,Regular Air,2/12/2013,3.52,5.58,29,161.82,0.03,4.85,161.79,2.99,164.78
+5016-1,2/11/2013,Alex Russell,"99 Lygon Street,East Brunswick",Melbourne,VIC,Home Office,8,High,2,Wrap Bag,Regular Air,2/12/2013,2.39,4.26,29,123.54,0.03,3.71,123.51,1.2,124.71
+5018-1,2/12/2013,Tamara Dahlen,"61 York St,Sydney",Sydney,NSW,Corporate,5,Critical,3,Wrap Bag,Express Air,2/14/2013,2.41,3.71,42,155.82,0.07,10.91,155.75,1.93,157.68
+5019-1,2/13/2013,Susan Vittorini,"3 Carrington Road ,Box Hill",Melbourne,VIC,Home Office,9,High,4,Jumbo Drum,Delivery Truck,2/15/2013,75,120.97,6,725.82,0.08,58.07,725.74,26.3,752.04
+5020-1,2/14/2013,Muhammed Yedwab,"18 Whistler St,Sydney",Sydney,NSW,Consumer,12,Critical,5,Wrap Bag,Regular Air,2/15/2013,0.9,2.1,17,35.7,0.03,1.07,35.67,0.7,36.37
+5022-1,2/15/2013,Jasper Cacioppo,"24 Addison Rd,Marrickville",Sydney,NSW,Home Office,13,Medium,6,Small Box,Regular Air,2/16/2013,1.19,1.98,3,5.94,0.05,0.3,5.89,4.77,10.66
+5023-1,2/17/2013,Olvera Toch,"3 Carrington Road ,Box Hill",Melbourne,VIC,Home Office,9,Low,7,Wrap Bag,Regular Air,2/22/2013,1.09,2.6,47,122.2,0.1,12.22,122.1,2.4,124.5
+5024-1,2/18/2013,Sean Wendt,"145 Ramsay St,Haberfield",Sydney,NSW,Corporate,4,Critical,8,Small Box,Regular Air,2/20/2013,99.39,162.93,32,5213.76,0.09,469.24,5213.67,19.99,5233.66
+5025-1,2/20/2013,Rick Reed,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,Critical,9,Wrap Bag,Regular Air,2/22/2013,1.09,1.68,33,55.44,0.04,2.22,55.4,1,56.4
+5027-1,2/22/2013,Toby Swindell,"273 George Street,Sydney",Sydney,NSW,Small Business,5,Not Specified,10,Small Box,Regular Air,2/23/2013,54.29,90.48,8,723.84,0.07,50.67,723.77,19.99,743.76
+5029-1,2/23/2013,Giulietta Weimer,"48 Albion St,Surry Hills",Sydney,NSW,Corporate,6,Not Specified,11,Small Box,Regular Air,2/23/2013,5.33,8.6,48,412.8,0,0,412.8,6.19,418.99
+5030-1,2/24/2013,Sylvia Foulston,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Medium,12,Wrap Bag,Regular Air,2/25/2013,0.87,1.81,41,74.21,0.03,2.23,74.18,0.75,74.93
+5031-1,2/25/2013,Paul Prost,"120 Hardware St,Melbourne",Melbourne,VIC,Corporate,8,Medium,13,Small Box,Regular Air,2/27/2013,4.89,7.64,18,137.52,0.1,13.75,137.42,1.39,138.81
+5033-1,2/25/2013,Katherine Ducich,"61A Bay Road,Wollstonecraft",Sydney,NSW,Corporate,2,Medium,10,Small Box,Regular Air,2/27/2013,54.29,90.48,3,271.44,0.03,8.14,271.41,19.99,291.4
+5034-1,2/26/2013,Natalie Webber,"98-104 Parramatta Rd,Camperdown",Sydney,NSW,Corporate,4,High,14,Small Box,Regular Air,2/26/2013,36.02,58.1,50,2905,0.05,145.25,2904.95,1.49,2906.44
+5036-1,3/7/2013,Sean ODonnell,"541 Church St ,Richmond",Melbourne,VIC,Corporate,9,Critical,15,Wrap Bag,Regular Air,3/10/2013,0.71,1.14,50,57,0.06,3.42,56.94,0.7,57.64
+5037-1,3/11/2013,Art Foster,"Westfield Parramatta,Parramatta",Sydney,NSW,Home Office,11,Critical,16,Small Pack,Regular Air,3/13/2013,3.42,8.34,16,133.44,0.03,4,133.41,2.64,136.05
+5038-1,3/13/2013,Darren Powers,"120 Hardware St,Melbourne",Melbourne,VIC,Corporate,8,Low,15,Wrap Bag,Regular Air,3/13/2013,0.71,1.14,38,43.32,0.02,0.87,43.3,0.7,44
+5039-1,3/15/2013,Michael Grace,"402 Argyle St,Moss Vale",Sydney,NSW,Corporate,6,Medium,17,Small Box,Regular Air,3/16/2013,4.59,7.28,22,160.16,0.01,1.6,160.15,11.15,171.3
+5040-1,3/16/2013,Christina Vanderzanden,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Low,18,Wrap Bag,Regular Air,3/20/2013,1.3,2.88,48,138.24,0.07,9.68,138.17,1.01,139.18
+5042-1,3/21/2013,Thais Sissman,"53-55 Liverpool St,Sydney",Sydney,NSW,Small Business,1,Low,19,Small Pack,Regular Air,3/28/2013,5.5,12.22,5,61.1,0.04,2.44,61.06,2.85,63.91
+5043-1,3/23/2013,Aaron Smayling,"1737 Botany Rd,Banksmeadow",Sydney,NSW,Small Business,12,High,20,Wrap Bag,Regular Air,3/26/2013,1.82,2.98,22,65.56,0.04,2.62,65.52,1.58,67.1
+5045-1,3/26/2013,Mick Brown,"523 King St,Newtown",Sydney,NSW,Consumer,7,Not Specified,21,Small Box,Regular Air,3/28/2013,81.59,159.99,30,4799.7,0.01,48,4799.69,5.5,4805.19
+5047-1,3/27/2013,Edward Becker,"501 George St,Sydney",Sydney,NSW,Home Office,2,Low,11,Small Box,Regular Air,4/3/2013,5.33,8.6,37,318.2,0.04,12.73,318.16,6.19,324.35
+5048-1,3/27/2013,Erica Smith,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Medium,22,Small Box,Regular Air,3/27/2013,3.52,5.68,24,136.32,0.06,8.18,136.26,1.39,137.65
+5049-1,3/30/2013,Justin Knight,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Corporate,12,Not Specified,23,Small Pack,Regular Air,3/31/2013,0.94,2.08,4,8.32,0.02,0.17,8.3,2.56,10.86
+5050-1,4/19/2013,Craig Carroll,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,Not Specified,11,Small Box,Regular Air,4/20/2013,5.33,8.6,36,309.6,0.06,18.58,309.54,6.19,315.73
+5052-1,4/20/2013,Laura Armstrong,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Small Business,8,Not Specified,24,Wrap Bag,Regular Air,4/22/2013,2.52,4,31,124,0.01,1.24,123.99,1.3,125.29
+5053-1,4/26/2013,Thomas Boland,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Corporate,3,Critical,25,Medium Box,Regular Air,4/26/2013,8.82,20.99,19,398.81,0.01,3.99,398.8,4.81,403.61
+5055-1,4/27/2013,Noah Childs,"78 Stanley St,Darlinghurst",Sydney,NSW,Home Office,4,High,26,Small Box,Express Air,4/28/2013,7.61,12.28,29,356.12,0,0,356.12,6.35,362.47
+5057-1,4/28/2013,Rob Haberlin,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Corporate,8,Medium,27,Small Box,Regular Air,4/30/2013,1.59,2.61,9,23.49,0.06,1.41,23.43,0.5,23.93
+5059-1,4/28/2013,Barry Weirich,"105 Pitt St,Sydney",Sydney,NSW,Corporate,10,Medium,28,Small Box,Regular Air,4/28/2013,6.39,19.98,7,139.86,0.01,1.4,139.85,4,143.85
+5060-1,4/30/2013,Kelly Williams,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,Medium,29,Small Box,Express Air,5/1/2013,32.02,152.48,16,2439.68,0.1,243.97,2439.58,4,2443.58
+5061-1,4/30/2013,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Not Specified,26,Small Box,Regular Air,5/2/2013,7.61,12.28,27,331.56,0.03,9.95,331.53,6.35,337.88
+5062-1,4/30/2013,Pamela Stobb,"273 George Street,Sydney",Sydney,NSW,Consumer,5,Not Specified,30,Small Box,Regular Air,5/2/2013,10.07,15.98,39,623.22,0.09,56.09,623.13,4,627.13
+5063-1,5/1/2013,William Brown,"3 Carrington Road ,Box Hill",Melbourne,VIC,Corporate,9,Not Specified,31,Small Pack,Regular Air,5/3/2013,4.79,11.97,7,83.79,0.05,4.19,83.74,5.81,89.55
+5064-1,5/2/2013,Nat Carroll,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Not Specified,32,Small Box,Regular Air,5/3/2013,8.71,14.28,42,599.76,0.1,59.98,599.66,2.99,602.65
+5066-1,5/2/2013,Troy Staebel,"1-2/299 Sussex St,Sydney",Sydney,NSW,Small Business,7,Critical,10,Small Box,Regular Air,5/3/2013,54.29,90.48,15,1357.2,0.05,67.86,1357.15,19.99,1377.14
+5068-1,5/3/2013,Dario Medina,"60 York St,Sydney",Sydney,NSW,Small Business,10,Critical,22,Small Box,Regular Air,5/5/2013,3.52,5.68,20,113.6,0.07,7.95,113.53,1.39,114.92
+5070-1,5/4/2013,Lynn Smith,"61A Bay Road,Wollstonecraft",Sydney,NSW,Corporate,2,Critical,33,Wrap Bag,Regular Air,5/6/2013,3.47,6.68,41,273.88,0.08,21.91,273.8,1.5,275.3
+5071-1,5/5/2013,Christopher Schild,"4A Lyons St,Strathfield",Sydney,NSW,Corporate,1,Medium,34,Small Pack,Regular Air,5/6/2013,1.87,8.12,41,332.92,0.06,19.98,332.86,2.83,335.69
+5071-2,5/5/2013,Christopher Schild,"4A Lyons St,Strathfield",Sydney,NSW,Corporate,1,Medium,33,Wrap Bag,Regular Air,5/6/2013,3.47,6.68,2,13.36,0.01,0.13,13.35,1.5,14.85
+5075-1,5/5/2013,Dave Kipp,"221 Barkly St,St Kilda",Melbourne,VIC,Corporate,9,Low,30,Small Box,Regular Air,5/10/2013,10.07,15.98,34,543.32,0.1,54.33,543.22,4,547.22
+5077-1,5/7/2013,Grant Carroll,"10 O'Connell St,Sydney",Sydney,NSW,Small Business,7,Not Specified,31,Small Pack,Regular Air,5/9/2013,4.79,11.97,18,215.46,0.08,17.24,215.38,5.81,221.19
+5079-1,5/9/2013,Liz Pelletier,"79 Elliott St,Balmain",Sydney,NSW,Home Office,7,Critical,25,Medium Box,Express Air,5/10/2013,8.82,20.99,8,167.92,0.09,15.11,167.83,4.81,172.64
+5081-1,5/9/2013,Thea Hudgings,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Consumer,8,Critical,9,Wrap Bag,Regular Air,5/11/2013,1.09,1.68,18,30.24,0.06,1.81,30.18,1,31.18
+5083-1,5/10/2013,Thomas Boland,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Corporate,3,Not Specified,35,Small Box,Regular Air,5/11/2013,54.52,100.97,15,1514.55,0.1,151.46,1514.45,7.18,1521.63
+5084-1,5/13/2013,Alex Russell,"99 Lygon Street,East Brunswick",Melbourne,VIC,Home Office,8,Medium,24,Wrap Bag,Express Air,5/15/2013,2.52,4,19,76,0.09,6.84,75.91,1.3,77.21
+5086-1,5/14/2013,Eudokia Martin,"412 Brunswick St,Fitzroy",Melbourne,VIC,Home Office,8,High,36,Small Box,Regular Air,5/15/2013,13.88,22.38,26,581.88,0.1,58.19,581.78,15.1,596.88
+5087-1,5/14/2013,Scot Wooten,"438 Victoria Avenue,Chatswood",Sydney,NSW,Corporate,6,Not Specified,37,Wrap Bag,Regular Air,5/16/2013,21.56,36.55,45,1644.75,0.1,164.48,1644.65,13.89,1658.54
+5089-1,5/15/2013,Jenna Caffey,"470 Anzac Parade,Kingsford",Sydney,NSW,Consumer,1,High,38,Small Box,Express Air,5/16/2013,19.78,45.99,14,643.86,0.02,12.88,643.84,4.99,648.83
+5090-1,5/18/2013,Roy Collins,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Not Specified,10,Small Box,Regular Air,5/20/2013,54.29,90.48,11,995.28,0.04,39.81,995.24,19.99,1015.23
+5091-1,5/19/2013,Brad Thomas,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Home Office,1,High,39,Medium Box,Regular Air,5/20/2013,9.91,15.99,7,111.93,0.03,3.36,111.9,11.28,123.18
+5093-1,5/19/2013,Nat Carroll,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Not Specified,40,Wrap Bag,Regular Air,5/20/2013,3.75,7.08,29,205.32,0.04,8.21,205.28,2.35,207.63
+5095-1,5/20/2013,Roy Skaria,"2/797 Botany Rd,Rosebery",Sydney,NSW,Corporate,2,High,19,Small Pack,Regular Air,5/21/2013,5.5,12.22,35,427.7,0,0,427.7,2.85,430.55
+5097-1,5/20/2013,Brad Eason,"1737 Botany Rd,Banksmeadow",Sydney,NSW,Small Business,12,Not Specified,41,Small Box,Regular Air,5/22/2013,13.64,20.98,47,986.06,0.1,98.61,985.96,1.49,987.45
+5099-1,5/21/2013,Dave Kipp,"221 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,High,16,Small Pack,Regular Air,5/21/2013,3.42,8.34,24,200.16,0.1,20.02,200.06,2.64,202.7
+5101-1,5/22/2013,Thais Sissman,"53-55 Liverpool St,Sydney",Sydney,NSW,Small Business,1,Critical,17,Small Box,Express Air,5/23/2013,4.59,7.28,2,14.56,0.08,1.16,14.48,11.15,25.63
+5103-1,5/22/2013,Andy Reiter,"Cnr Williams Road & Lechlade Ave,South Yarra",Melbourne,VIC,Corporate,9,Critical,42,Small Box,Regular Air,5/24/2013,1.18,1.88,1,1.88,0.05,0.09,1.83,1.49,3.32
+5104-1,5/23/2013,Becky Martin,"53-55 Liverpool Street,Sydney",Sydney,NSW,Home Office,1,Medium,43,Small Box,Express Air,5/25/2013,6.4,29.1,33,960.3,0.01,9.6,960.29,4,964.29
+5106-1,5/26/2013,Denny Ordway,"523 King St,Newtown",Sydney,NSW,Small Business,7,Critical,44,Small Box,Regular Air,5/26/2013,3.84,6.3,42,264.6,0.07,18.52,264.53,0.5,265.03
+5108-1,5/27/2013,Luke Schmidt,"73 York St,Sydney",Sydney,NSW,Home Office,1,Medium,45,Small Box,Regular Air,5/28/2013,156.5,300.97,14,4213.58,0.1,421.36,4213.48,7.18,4220.66
+5109-1,5/28/2013,Kelly Lampkin,"310 Wattle St,Ultimo",Sydney,NSW,Corporate,7,Low,46,Wrap Bag,Regular Air,6/1/2013,2.29,3.58,38,136.04,0.06,8.16,135.98,1.63,137.61
+5111-1,5/29/2013,Eugene Moren,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Home Office,3,High,47,Small Box,Express Air,5/29/2013,2.25,3.69,35,129.15,0.03,3.87,129.12,2.5,131.62
+5112-1,5/29/2013,Anthony Rawles,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Small Business,3,Medium,48,Small Box,Express Air,5/29/2013,12.39,19.98,13,259.74,0.1,25.97,259.64,5.77,265.41
+5113-1,5/31/2013,Rick Duston,"260 Marrickville Rd,Marrickville",Sydney,NSW,Corporate,12,Medium,49,Small Box,Regular Air,5/31/2013,8.92,29.74,14,416.36,0.02,8.33,416.34,6.64,422.98
+5114-1,5/31/2013,Raymond Fair,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Not Specified,50,Small Box,Regular Air,6/2/2013,60.59,100.98,33,3332.34,0.05,166.62,3332.29,7.18,3339.47
+5115-1,5/31/2013,Joy Smith,"221 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,Low,51,Wrap Bag,Regular Air,6/4/2013,3.48,5.43,29,157.47,0.07,11.02,157.4,0.95,158.35
+5117-1,6/2/2013,Jim Epp,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Small Business,12,Low,52,Small Pack,Regular Air,6/4/2013,20.18,35.41,38,1345.58,0.03,40.37,1345.55,1.99,1347.54
+5119-1,6/4/2013,Mike Vittorini,"211/25-29 Dixon St,Haymarket",Sydney,NSW,Small Business,14,Not Specified,53,Wrap Bag,Regular Air,6/6/2013,1.76,3.38,34,114.92,0.07,8.04,114.85,0.85,115.7
+5120-1,6/5/2013,Neil Knudson,"4A Lyons St,Strathfield",Sydney,NSW,Home Office,1,Critical,14,Small Box,Express Air,6/7/2013,36.02,58.1,10,581,0.09,52.29,580.91,1.49,582.4
+5122-1,6/5/2013,Deborah Brumfield,"501 George St,Sydney",Sydney,NSW,Corporate,2,Low,45,Small Box,Regular Air,6/5/2013,156.5,300.97,38,11436.86,0.09,1029.32,11436.77,7.18,11443.95
+5124-1,6/6/2013,Erica Hernandez,"12 Princess Hwy,Sylvania",Sydney,NSW,Small Business,12,Medium,16,Small Pack,Regular Air,6/8/2013,3.42,8.34,30,250.2,0.02,5,250.18,2.64,252.82
+5125-1,6/7/2013,Janet Martin,"24 Addison Rd,Marrickville",Sydney,NSW,Corporate,13,Not Specified,50,Small Box,Regular Air,6/8/2013,60.59,100.98,29,2928.42,0.03,87.85,2928.39,7.18,2935.57
+5127-1,6/9/2013,Beth Thompson,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Corporate,3,Not Specified,54,Small Box,Regular Air,6/9/2013,178.83,415.88,2,831.76,0.07,58.22,831.69,11.37,843.06
+5128-1,6/10/2013,Nora Paige,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Small Business,3,Medium,24,Wrap Bag,Regular Air,6/12/2013,2.52,4,39,156,0.08,12.48,155.92,1.3,157.22
+5129-1,6/11/2013,Jim Kriz,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Consumer,3,Low,55,Small Box,Regular Air,6/13/2013,19.83,30.98,49,1518.02,0.09,136.62,1517.93,19.51,1537.44
+5131-1,6/15/2013,Steve Nguyen,"61 York St,Sydney",Sydney,NSW,Small Business,5,Medium,45,Small Box,Regular Air,6/17/2013,156.5,300.97,5,1504.85,0.07,105.34,1504.78,7.18,1511.96
+5133-1,6/15/2013,Scott Cohen,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Consumer,8,High,56,Wrap Bag,Express Air,6/17/2013,2.9,4.76,27,128.52,0.07,9,128.45,0.88,129.33
+5134-1,6/16/2013,Liz MacKendrick,"224A Gertrude St,Fitzroy",Melbourne,VIC,Corporate,8,Low,45,Small Box,Regular Air,6/16/2013,156.5,300.97,1,300.97,0.06,18.06,300.91,7.18,308.09
+5135-1,6/20/2013,Aaron Smayling,"1737 Botany Rd,Banksmeadow",Sydney,NSW,Small Business,12,Medium,46,Wrap Bag,Regular Air,6/21/2013,2.29,3.58,10,35.8,0.05,1.79,35.75,1.63,37.38
+5137-1,6/21/2013,Carlos Meador,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Medium,8,Small Box,Regular Air,6/22/2013,99.39,162.93,7,1140.51,0.03,34.22,1140.48,19.99,1160.47
+5138-1,6/21/2013,Giulietta Dortch,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,High,57,Wrap Bag,Express Air,6/23/2013,1.6,2.62,34,89.08,0.08,7.13,89,0.8,89.8
+5140-1,6/24/2013,Paul Lucas,"8 Quay Street,Haymarket",Sydney,NSW,Corporate,5,High,58,Small Box,Regular Air,6/25/2013,3.4,5.4,25,135,0.09,12.15,134.91,7.78,142.69
+5142-1,6/25/2013,Aleksandra Gannaway,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Home Office,1,High,59,Wrap Bag,Regular Air,6/26/2013,11.11,19.84,26,515.84,0.07,36.11,515.77,4.1,519.87
+5144-1,6/26/2013,Roy Collins,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Critical,20,Wrap Bag,Regular Air,6/27/2013,1.82,2.98,3,8.94,0.09,0.8,8.85,1.58,10.43
+5145-1,6/29/2013,Cyma Kinney,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Small Business,4,Low,60,Wrap Bag,Express Air,7/4/2013,3.32,5.18,1,5.18,0.02,0.1,5.16,2.04,7.2
+5145-2,6/29/2013,Cyma Kinney,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Small Business,4,Low,61,Wrap Bag,Regular Air,7/3/2013,2.98,5.84,4,23.36,0.09,2.1,23.27,0.83,24.1
+5148-1,6/29/2013,Eugene Hildebrand,"120 Hardware St,Melbourne",Melbourne,VIC,Home Office,9,Medium,62,Small Box,Regular Air,7/1/2013,1.33,2.08,44,91.52,0.04,3.66,91.48,1.49,92.97
+5150-1,6/29/2013,Adam Bellavance,"106 Ebley Street,Bondi Junction",Sydney,NSW,Small Business,5,Not Specified,63,Medium Box,Regular Air,7/1/2013,7.92,12.99,49,636.51,0.07,44.56,636.44,9.44,645.88
+5152-1,6/30/2013,Mitch Gastineau,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Low,28,Small Box,Regular Air,7/4/2013,6.39,19.98,19,379.62,0.08,30.37,379.54,4,383.54
+5154-1,7/2/2013,Stuart Calhoun,"359 Crown Street,Surry Hills",Sydney,NSW,Consumer,4,High,34,Small Pack,Express Air,7/3/2013,1.87,8.12,32,259.84,0.08,20.79,259.76,2.83,262.59
+5156-1,7/3/2013,Denise Leinenbach,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Home Office,8,High,64,Small Box,Regular Air,7/5/2013,1.98,3.15,23,72.45,0.01,0.72,72.44,0.49,72.93
+5158-1,7/3/2013,Mitch Webber,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Corporate,1,Not Specified,65,Small Box,Regular Air,7/5/2013,16.85,27.18,34,924.12,0.1,92.41,924.02,8.23,932.25
+5159-1,7/4/2013,Sara Luxemburg,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Critical,57,Wrap Bag,Regular Air,7/5/2013,1.6,2.62,21,55.02,0.05,2.75,54.97,0.8,55.77
+5160-1,7/5/2013,Berenike Kampe,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Not Specified,25,Medium Box,Regular Air,7/7/2013,8.82,20.99,41,860.59,0.02,17.21,860.57,4.81,865.38
+5160-2,7/5/2013,Berenike Kampe,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Not Specified,58,Small Box,Express Air,7/7/2013,3.4,5.4,26,140.4,0.05,7.02,140.35,7.78,148.13
+5163-1,7/6/2013,Aaron Smayling,"1737 Botany Rd,Banksmeadow",Sydney,NSW,Small Business,12,Medium,66,Small Box,Regular Air,7/6/2013,21.56,35.94,28,1006.32,0.01,10.06,1006.31,6.66,1012.97
+5165-1,7/10/2013,Julie Kriz,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Corporate,12,Critical,67,Small Box,Regular Air,7/10/2013,2.74,4.49,11,49.39,0.08,3.95,49.31,1.49,50.8
+5166-1,7/10/2013,Craig Carroll,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,Not Specified,68,Wrap Bag,Regular Air,7/13/2013,4.37,9.11,6,54.66,0.04,2.19,54.62,2.25,56.87
+5168-1,7/15/2013,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Critical,69,Wrap Bag,Regular Air,7/16/2013,3.88,6.47,20,129.4,0.02,2.59,129.38,1.22,130.6
+5168-2,7/15/2013,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Critical,70,Wrap Bag,Regular Air,7/17/2013,1.31,2.84,39,110.76,0.07,7.75,110.69,0.93,111.62
+5171-1,7/16/2013,George Zrebassa,"81 MacLeay St,Potts Point",Sydney,NSW,Home Office,2,Critical,71,Wrap Bag,Regular Air,7/17/2013,0.24,1.26,10,12.6,0.1,1.26,12.5,0.7,13.2
+5173-1,7/16/2013,Rob Haberlin,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Corporate,8,High,56,Wrap Bag,Regular Air,7/16/2013,2.9,4.76,13,61.88,0.07,4.33,61.81,0.88,62.69
+5174-1,7/17/2013,Pauline Webber,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Consumer,9,Low,35,Small Box,Express Air,7/17/2013,54.52,100.97,35,3533.95,0.05,176.7,3533.9,7.18,3541.08
+5175-1,7/18/2013,Ben Wallace,"120 Hardware St,Melbourne",Melbourne,VIC,Home Office,9,Critical,16,Small Pack,Express Air,7/20/2013,3.42,8.34,15,125.1,0,0,125.1,2.64,127.74
+5177-1,7/20/2013,Giulietta Dortch,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Critical,11,Small Box,Express Air,7/22/2013,5.33,8.6,23,197.8,0.02,3.96,197.78,6.19,203.97
+5178-1,7/21/2013,Adam Shillingsburg,"Westfield Parramatta,Parramatta",Sydney,NSW,Corporate,11,High,72,Jumbo Drum,Delivery Truck,7/23/2013,278.99,449.99,12,5399.88,0.06,323.99,5399.82,49,5448.82
+5180-1,7/22/2013,Rick Hansen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Corporate,12,High,62,Small Box,Express Air,7/23/2013,1.33,2.08,11,22.88,0.01,0.23,22.87,1.49,24.36
+5181-1,7/22/2013,Edward Becker,"501 George St,Sydney",Sydney,NSW,Corporate,2,Low,73,Small Box,Regular Air,7/26/2013,6.51,30.98,29,898.42,0.03,26.95,898.39,6.5,904.89
+5183-1,7/23/2013,Sean ODonnell,"541 Church St ,Richmond",Melbourne,VIC,Corporate,9,Not Specified,61,Wrap Bag,Regular Air,7/25/2013,2.98,5.84,11,64.24,0.01,0.64,64.23,0.83,65.06
+5185-1,7/24/2013,Karl Brown,"470 Anzac Parade,Kingsford",Sydney,NSW,Home Office,1,Critical,74,Small Box,Regular Air,7/26/2013,3.65,5.98,14,83.72,0.09,7.53,83.63,1.49,85.12
+5186-1,7/26/2013,Eric Barreto,"359 Crown Street,Surry Hills",Sydney,NSW,Consumer,4,Low,75,Small Box,Regular Air,7/31/2013,4.46,10.89,37,402.93,0.06,24.18,402.87,4.5,407.37
+5188-1,7/26/2013,Charles Sheldon,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Low,73,Small Box,Regular Air,7/28/2013,6.51,30.98,8,247.84,0.01,2.48,247.83,6.5,254.33
+5189-1,7/27/2013,Jesus Ocampo,"60 Commercial Rd,Prahran",Melbourne,VIC,Small Business,9,Low,29,Small Box,Regular Air,7/29/2013,39.64,152.48,31,4726.88,0.07,330.88,4726.81,6.5,4733.31
+5191-1,7/28/2013,Thais Sissman,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Not Specified,76,Wrap Bag,Regular Air,7/30/2013,1.95,3.98,30,119.4,0.1,11.94,119.3,0.83,120.13
+5193-1,7/29/2013,Nick Zandusky,"224A Gertrude St,Fitzroy",Melbourne,VIC,Small Business,8,Not Specified,77,Small Box,Regular Air,7/30/2013,1.94,3.08,38,117.04,0.04,4.68,117,0.99,117.99
+5194-1,7/30/2013,Corinna Mitchell,"27 Greenfield Parade,Bankstown",Sydney,NSW,Corporate,12,Not Specified,78,Jumbo Drum,Delivery Truck,7/31/2013,76.79,119.99,24,2879.76,0.02,57.6,2879.74,14,2893.74
+5195-1,7/31/2013,Alex Grayson,"644 George St,Sydney",Sydney,NSW,Consumer,13,Medium,79,Small Box,Regular Air,8/1/2013,1.84,2.88,11,31.68,0.09,2.85,31.59,1.49,33.08
+5195-2,7/31/2013,Alex Grayson,"644 George St,Sydney",Sydney,NSW,Consumer,13,Medium,28,Small Box,Regular Air,8/2/2013,6.39,19.98,43,859.14,0.1,85.91,859.04,4,863.04
+5198-1,8/2/2013,Chuck Magee,"1-2/299 Sussex St,Sydney",Sydney,NSW,Corporate,7,Not Specified,80,Wrap Bag,Express Air,8/4/2013,1.53,2.78,40,111.2,0.03,3.34,111.17,1.34,112.51
+5200-1,8/6/2013,Seth Vernon,"541 Church St,Richmond",Melbourne,VIC,Home Office,9,Critical,81,Small Box,Regular Air,8/8/2013,2.26,3.58,46,164.68,0.06,9.88,164.62,5.47,170.09
+5201-1,8/7/2013,Vivian Mathis,"Crown Complex,Southbank",Melbourne,VIC,Home Office,9,High,82,Small Pack,Regular Air,8/9/2013,1.46,3.57,23,82.11,0.09,7.39,82.02,4.17,86.19
+5202-1,8/8/2013,Harold Ryan,"4A Lyons St,Strathfield",Sydney,NSW,Home Office,1,Not Specified,73,Small Box,Express Air,8/9/2013,6.51,30.98,44,1363.12,0.02,27.26,1363.1,6.5,1369.6
+5204-1,8/9/2013,Kean Takahito,"21 Wentworth St,Parramatta",Sydney,NSW,Home Office,7,Not Specified,83,Small Box,Regular Air,8/10/2013,18.38,29.17,8,233.36,0.02,4.67,233.34,6.27,239.61
+5206-1,8/9/2013,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Small Business,9,Low,72,Large Box,Regular Air,8/13/2013,216,449.99,40,17999.6,0.04,719.98,17999.56,24.49,18024.05
+5207-1,8/9/2013,Aaron Bergman,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Low,4,Jumbo Drum,Delivery Truck,8/16/2013,75,120.97,35,4233.95,0.08,338.72,4233.87,26.3,4260.17
+5208-1,8/10/2013,Edward Hooks,"224A Gertrude St,Fitzroy",Melbourne,VIC,Consumer,8,High,84,Small Box,Regular Air,8/12/2013,3.5,5.74,50,287,0.1,28.7,286.9,5.01,291.91
+5209-1,8/11/2013,Liz Willingham,"60 Commercial Rd,Prahran",Melbourne,VIC,Corporate,9,Low,85,Wrap Bag,Regular Air,8/13/2013,0.93,1.48,19,28.12,0.09,2.53,28.03,0.7,28.73
+5211-1,8/12/2013,Dave Poirier,"402 Argyle St,Moss Vale",Sydney,NSW,Small Business,6,High,86,Small Box,Express Air,8/14/2013,67.73,165.2,37,6112.4,0.04,244.5,6112.36,19.99,6132.35
+5212-1,8/14/2013,Justin Knight,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Corporate,12,Low,87,Small Box,Regular Air,8/23/2013,2.18,3.52,12,42.24,0.04,1.69,42.2,6.83,49.03
+5213-1,8/15/2013,Aaron Bergman,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,High,70,Wrap Bag,Express Air,8/16/2013,1.31,2.84,13,36.92,0.01,0.37,36.91,0.93,37.84
+5214-1,8/17/2013,Valerie Dominguez,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Not Specified,24,Wrap Bag,Regular Air,8/17/2013,2.52,4,41,164,0.02,3.28,163.98,1.3,165.28
+5215-1,8/20/2013,Jennifer Patt,"523 King St,Newtown",Sydney,NSW,Home Office,7,High,88,Large Box,Express Air,8/22/2013,56.16,136.98,41,5616.18,0.04,224.65,5616.14,24.49,5640.63
+5216-1,8/20/2013,Cynthia Arntzen,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Small Business,1,Low,33,Wrap Bag,Regular Air,8/22/2013,3.47,6.68,5,33.4,0.09,3.01,33.31,1.5,34.81
+5218-1,8/22/2013,Bradley Drucker,"1 John St,Waterloo",Sydney,NSW,Small Business,10,Low,86,Small Box,Regular Air,8/24/2013,67.73,165.2,23,3799.6,0.07,265.97,3799.53,19.99,3819.52
+5220-1,8/24/2013,Skye Norling,"48 Albion St,Surry Hills",Sydney,NSW,Home Office,6,Not Specified,89,Small Pack,Regular Air,8/27/2013,5.19,12.98,45,584.1,0.02,11.68,584.08,3.14,587.22
+5221-1,8/25/2013,Bruce Degenhardt,"501 George St,Sydney",Sydney,NSW,Home Office,2,Not Specified,42,Small Box,Regular Air,8/26/2013,1.18,1.88,42,78.96,0,0,78.96,1.49,80.45
+5222-1,8/25/2013,John Castell,"38/133-145 Castlereagh St,Sydney",Sydney,NSW,Small Business,6,Medium,22,Small Box,Regular Air,8/26/2013,3.52,5.68,32,181.76,0.05,9.09,181.71,1.39,183.1
+5224-1,8/28/2013,Neil French,"523 King St,Newtown",Sydney,NSW,Consumer,7,Not Specified,77,Small Box,Regular Air,8/29/2013,1.94,3.08,45,138.6,0.04,5.54,138.56,0.99,139.55
+5225-1,8/29/2013,John Castell,"38/133-145 Castlereagh St,Sydney",Sydney,NSW,Consumer,6,Not Specified,32,Small Box,Regular Air,8/30/2013,8.71,14.28,8,114.24,0.01,1.14,114.23,2.99,117.22
+5226-1,8/29/2013,Nancy Lomonaco,"523 King St,Newtown",Sydney,NSW,Home Office,7,Low,50,Small Box,Regular Air,9/3/2013,60.59,100.98,12,1211.76,0.04,48.47,1211.72,7.18,1218.9
+5227-1,8/30/2013,Nancy Lomonaco,"523 King St,Newtown",Sydney,NSW,Home Office,7,Medium,90,Small Box,Express Air,9/1/2013,2.45,3.89,32,124.48,0.09,11.2,124.39,7.01,131.4
+5229-1,9/1/2013,Carol Triggs,"644 George St,Sydney",Sydney,NSW,Home Office,13,Critical,42,Small Box,Regular Air,9/2/2013,1.18,1.88,43,80.84,0.03,2.43,80.81,1.49,82.3
+5231-1,9/2/2013,Andrew Allen,"797 Botany Rd,Rosebery",Sydney,NSW,Corporate,4,High,75,Small Box,Regular Air,9/3/2013,4.46,10.89,9,98.01,0.03,2.94,97.98,4.5,102.48
+5232-1,9/3/2013,Rob Haberlin,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Corporate,8,Low,82,Small Pack,Regular Air,9/5/2013,1.46,3.57,26,92.82,0.04,3.71,92.78,4.17,96.95
+5234-1,9/4/2013,Darrin Martin,"221 Barkly St,St Kilda",Melbourne,VIC,Small Business,9,Not Specified,60,Wrap Bag,Express Air,9/6/2013,3.32,5.18,37,191.66,0.07,13.42,191.59,2.04,193.63
+5235-1,9/4/2013,Max Ludwig,"6-8 O'Connell Street,Newtown",Sydney,NSW,Corporate,12,Low,44,Small Box,Regular Air,9/9/2013,3.84,6.3,39,245.7,0.1,24.57,245.6,0.5,246.1
+5236-1,9/9/2013,Liz Price,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Corporate,4,Not Specified,77,Small Box,Regular Air,9/10/2013,1.94,3.08,24,73.92,0.04,2.96,73.88,0.99,74.87
+5238-1,9/10/2013,Grant Thornton,"98 Holdsworth Street,Woollahra",Sydney,NSW,Corporate,6,Not Specified,53,Wrap Bag,Regular Air,9/12/2013,1.76,3.38,27,91.26,0.08,7.3,91.18,0.85,92.03
+5239-1,9/12/2013,Victoria Brennan,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Small Business,12,Critical,75,Small Box,Regular Air,9/14/2013,4.46,10.89,37,402.93,0.1,40.29,402.83,4.5,407.33
+5240-1,9/12/2013,Sarah Brown,"10 O'Connell St,Sydney",Sydney,NSW,Consumer,7,Not Specified,13,Small Box,Regular Air,9/15/2013,4.89,7.64,44,336.16,0.01,3.36,336.15,1.39,337.54
+5241-1,9/12/2013,Michael Granlund,"359 Crown Street,Surry Hills",Sydney,NSW,Corporate,4,Medium,91,Small Box,Regular Air,9/14/2013,42.11,80.98,34,2753.32,0.07,192.73,2753.25,7.18,2760.43
+5242-1,9/14/2013,Jasper Cacioppo,"24 Addison Rd,Marrickville",Sydney,NSW,Home Office,13,Low,92,Small Pack,Express Air,9/18/2013,2.5,5.68,46,261.28,0.1,26.13,261.18,3.6,264.78
+5244-1,9/17/2013,Marina Lichtenstein,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,High,84,Small Box,Regular Air,9/19/2013,3.5,5.74,3,17.22,0.08,1.38,17.14,5.01,22.15
+5246-1,9/18/2013,Fred Wasserman,"61 York St,Sydney",Sydney,NSW,Home Office,5,Low,36,Small Box,Express Air,9/25/2013,13.88,22.38,16,358.08,0,0,358.08,15.1,373.18
+5247-1,9/20/2013,Ann Chong,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Corporate,14,High,14,Small Box,Regular Air,9/21/2013,36.02,58.1,7,406.7,0.1,40.67,406.6,1.49,408.09
+5248-1,9/22/2013,Mick Crebagga,"53-55 Liverpool St,Sydney",Sydney,NSW,Home Office,1,Critical,23,Small Pack,Regular Air,9/24/2013,0.94,2.08,43,89.44,0.05,4.47,89.39,2.56,91.95
+5250-1,9/23/2013,Chloris Kastensmidt,"7/370-374 Victoria Ave,Chatswood",Sydney,NSW,Consumer,11,Low,39,Medium Box,Regular Air,9/30/2013,9.91,15.99,27,431.73,0.01,4.32,431.72,11.28,443
+5251-1,9/26/2013,Aleksandra Gannaway,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Home Office,1,Medium,60,Wrap Bag,Regular Air,9/28/2013,3.32,5.18,23,119.14,0.05,5.96,119.09,2.04,121.13
+5253-1,9/26/2013,Maribeth Dona,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Home Office,8,High,93,Small Box,Regular Air,9/28/2013,14.95,34.76,15,521.4,0.09,46.93,521.31,8.22,529.53
+5254-1,9/27/2013,Michael Grace,"402 Argyle St,Moss Vale",Sydney,NSW,Corporate,6,Low,94,Small Box,Regular Air,10/2/2013,22.18,54.1,19,1027.9,0.1,102.79,1027.8,19.99,1047.79
+5256-1,9/30/2013,Cynthia Delaney,"1/160 Anzac Parade,Kensington",Sydney,NSW,Corporate,6,Not Specified,60,Wrap Bag,Regular Air,10/2/2013,3.32,5.18,10,51.8,0.01,0.52,51.79,2.04,53.83
+5257-1,10/1/2013,John Dryer,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Corporate,8,Medium,52,Small Pack,Express Air,10/2/2013,20.18,35.41,16,566.56,0,0,566.56,1.99,568.55
+5259-1,10/3/2013,Eric Barreto,"359 Crown Street,Surry Hills",Sydney,NSW,Consumer,4,High,37,Wrap Bag,Express Air,10/4/2013,21.56,36.55,46,1681.3,0.05,84.07,1681.25,13.89,1695.14
+5260-1,10/4/2013,Carlos Daly,"5/63-71 Enmore Rd,Newtown",Sydney,NSW,Corporate,10,High,54,Small Box,Regular Air,10/5/2013,178.83,415.88,2,831.76,0.08,66.54,831.68,11.37,843.05
+5261-1,10/5/2013,Joni Wasserman,"Westfield Sydney,Sydney",Sydney,NSW,Consumer,6,Low,95,Small Box,Regular Air,10/12/2013,41.28,95.99,17,1631.83,0.09,146.86,1631.74,8.99,1640.73
+5263-1,10/5/2013,Neil Knudson,"4A Lyons St,Strathfield",Sydney,NSW,Corporate,1,Medium,62,Small Box,Regular Air,10/7/2013,1.33,2.08,16,33.28,0.04,1.33,33.24,1.49,34.73
+5265-1,10/6/2013,Roy Skaria,"2/797 Botany Rd,Rosebery",Sydney,NSW,Corporate,2,Medium,25,Medium Box,Regular Air,10/7/2013,8.82,20.99,25,524.75,0.05,26.24,524.7,4.81,529.51
+5267-1,10/9/2013,Frank Merwin,"24 Addison Rd,Marrickville",Sydney,NSW,Corporate,13,Medium,80,Wrap Bag,Regular Air,10/11/2013,1.53,2.78,6,16.68,0.01,0.17,16.67,1.34,18.01
+5268-1,10/11/2013,Stephanie Ulpright,"541 Church St ,Richmond",Melbourne,VIC,Consumer,9,Not Specified,90,Small Box,Regular Air,10/13/2013,2.45,3.89,2,7.78,0.07,0.54,7.71,7.01,14.72
+5268-2,10/11/2013,Stephanie Ulpright,"541 Church St ,Richmond",Melbourne,VIC,Consumer,9,Not Specified,86,Small Box,Regular Air,10/12/2013,67.73,165.2,6,991.2,0.09,89.21,991.11,19.99,1011.1
+5272-1,10/11/2013,Amy Cox,"523 King St,Newtown",Sydney,NSW,Small Business,7,Critical,9,Wrap Bag,Regular Air,10/12/2013,1.09,1.68,38,63.84,0.07,4.47,63.77,1,64.77
+5274-1,10/13/2013,Sylvia Foulston,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Critical,96,Small Box,Regular Air,10/14/2013,62.4,155.99,48,7487.52,0.04,299.5,7487.48,8.08,7495.56
+5274-2,10/13/2013,Sylvia Foulston,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Critical,58,Small Box,Regular Air,10/13/2013,3.4,5.4,8,43.2,0.08,3.46,43.12,7.78,50.9
+5277-1,10/20/2013,Paul MacIntyre,"60 Commercial Rd,Prahran",Melbourne,VIC,Corporate,9,Critical,7,Wrap Bag,Regular Air,10/22/2013,1.09,2.6,36,93.6,0,0,93.6,2.4,96
+5278-1,10/20/2013,Cindy Stewart,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,Critical,27,Small Box,Express Air,10/20/2013,1.59,2.61,1,2.61,0.06,0.16,2.55,0.5,3.05
+5279-1,10/20/2013,Tamara Willingham,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Corporate,4,Medium,74,Small Box,Regular Air,10/21/2013,3.65,5.98,21,125.58,0.02,2.51,125.56,1.49,127.05
+5280-1,10/21/2013,Darrin Sayre,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,Not Specified,74,Small Box,Regular Air,10/23/2013,3.65,5.98,40,239.2,0,0,239.2,1.49,240.69
+5282-1,10/21/2013,Amy Cox,"523 King St,Newtown",Sydney,NSW,Small Business,7,Not Specified,42,Small Box,Regular Air,10/23/2013,1.18,1.88,33,62.04,0.07,4.34,61.97,1.49,63.46
+5284-1,10/24/2013,Ed Jacobs,"22 Civic Rd,Auburn",Sydney,NSW,Small Business,3,High,97,Small Box,Regular Air,10/27/2013,4.53,7.3,31,226.3,0.03,6.79,226.27,7.72,233.99
+5286-1,10/25/2013,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Small Business,5,High,98,Small Box,Regular Air,10/27/2013,11.04,16.98,27,458.46,0.1,45.85,458.36,12.39,470.75
+5288-1,10/26/2013,Shahid Shariari,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Consumer,3,Not Specified,58,Small Box,Regular Air,10/28/2013,3.4,5.4,47,253.8,0.03,7.61,253.77,7.78,261.55
+5290-1,10/28/2013,Toby Knight,"Crown Complex,Southbank",Melbourne,VIC,Corporate,8,High,34,Small Pack,Regular Air,10/29/2013,1.87,8.12,37,300.44,0,0,300.44,2.83,303.27
+5291-1,10/28/2013,Paul Prost,"120 Hardware St,Melbourne",Melbourne,VIC,Corporate,8,High,99,Small Pack,Express Air,10/29/2013,16.8,40.97,11,450.67,0.03,13.52,450.64,8.99,459.63
+5292-1,10/29/2013,Sung Chung,"127 Liverpool St,Sydney",Sydney,NSW,Home Office,2,Critical,77,Small Box,Regular Air,10/30/2013,1.94,3.08,41,126.28,0.04,5.05,126.24,0.99,127.23
+5294-1,11/1/2013,Kristina Nunn,"22 Civic Rd,Auburn",Sydney,NSW,Consumer,3,Critical,34,Small Pack,Regular Air,11/2/2013,1.87,8.12,16,129.92,0.03,3.9,129.89,2.83,132.72
+5296-1,11/2/2013,Eugene Hildebrand,"120 Hardware St,Melbourne",Melbourne,VIC,Home Office,9,Medium,97,Small Box,Regular Air,11/3/2013,4.53,7.3,45,328.5,0.04,13.14,328.46,7.72,336.18
+5298-1,11/3/2013,Jeremy Lonsdale,"163 Concord Road,North Strathfield",Sydney,NSW,Corporate,10,Critical,89,Small Pack,Regular Air,11/3/2013,5.19,12.98,40,519.2,0.05,25.96,519.15,3.14,522.29
+5299-1,11/5/2013,Victoria Pisteka,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Not Specified,100,Small Box,Regular Air,11/7/2013,2.29,3.69,42,154.98,0.04,6.2,154.94,0.5,155.44
+5300-1,11/5/2013,Liz Carlisle,"797 Botany Rd,Rosebery",Sydney,NSW,Corporate,4,Critical,101,Wrap Bag,Regular Air,11/6/2013,5.22,9.85,27,265.95,0.1,26.6,265.85,4.82,270.67
+5302-1,11/7/2013,Dennis Kane,"33/4 Barangaroo Avenue,Sydney",Sydney,NSW,Small Business,6,Medium,40,Wrap Bag,Express Air,11/8/2013,3.75,7.08,29,205.32,0.07,14.37,205.25,2.35,207.6
+5303-1,11/9/2013,Tom Prescott,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Low,60,Wrap Bag,Regular Air,11/9/2013,3.32,5.18,8,41.44,0.06,2.49,41.38,2.04,43.42
+5304-1,11/12/2013,Jas OCarroll,"3 Carrington Road ,Box Hill",Melbourne,VIC,Corporate,9,Medium,102,Small Box,Regular Air,11/14/2013,3.37,5.53,17,94.01,0.02,1.88,93.99,6.98,100.97
+5305-1,11/15/2013,Liz Price,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,Not Specified,48,Small Box,Regular Air,11/17/2013,12.39,19.98,47,939.06,0.04,37.56,939.02,5.77,944.79
+5307-1,11/16/2013,Pamela Stobb,"273 George Street,Sydney",Sydney,NSW,Consumer,5,Not Specified,19,Small Pack,Regular Air,11/16/2013,5.5,12.22,27,329.94,0.07,23.1,329.87,2.85,332.72
+5309-1,11/16/2013,Peter Fuller,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Corporate,14,Critical,103,Wrap Bag,Regular Air,11/17/2013,1.76,2.94,23,67.62,0.07,4.73,67.55,0.81,68.36
+5310-1,11/17/2013,Erin Ashbrook,"61 York St,Sydney",Sydney,NSW,Consumer,5,Critical,29,Small Box,Express Air,11/19/2013,39.64,152.48,2,304.96,0.02,6.1,304.94,6.5,311.44
+5311-1,11/17/2013,Allen Armold,"224A Gertrude St,Fitzroy",Melbourne,VIC,Home Office,8,Critical,104,Small Pack,Regular Air,11/18/2013,3.51,8.57,24,205.68,0.06,12.34,205.62,6.14,211.76
+5312-1,11/17/2013,Eugene Barchas,"Crown Complex,Southbank",Melbourne,VIC,Corporate,8,High,90,Small Box,Regular Air,11/17/2013,2.45,3.89,47,182.83,0,0,182.83,7.01,189.84
+5313-1,11/18/2013,Phillip Flathmann,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Small Business,12,Low,57,Wrap Bag,Regular Air,11/20/2013,1.6,2.62,26,68.12,0.09,6.13,68.03,0.8,68.83
+5314-1,11/18/2013,Thomas Boland,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Corporate,3,High,66,Small Box,Regular Air,11/20/2013,21.56,35.94,19,682.86,0.09,61.46,682.77,6.66,689.43
+5315-1,11/19/2013,Chuck Magee,"1-2/299 Sussex St,Sydney",Sydney,NSW,Corporate,7,Medium,17,Small Box,Regular Air,11/21/2013,4.59,7.28,3,21.84,0.01,0.22,21.83,11.15,32.98
+5316-1,11/20/2013,Cindy Stewart,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Consumer,5,Low,78,Jumbo Drum,Delivery Truck,11/27/2013,76.79,119.99,4,479.96,0.06,28.8,479.9,14,493.9
+5318-1,11/20/2013,Toby Knight,"Crown Complex,Southbank",Melbourne,VIC,Corporate,8,Not Specified,33,Wrap Bag,Regular Air,11/21/2013,3.47,6.68,15,100.2,0.03,3.01,100.17,1.5,101.67
+5319-1,11/23/2013,Justin Hirsh,"Qantas Domestic Terminal,Mascot",Sydney,NSW,Consumer,4,Not Specified,105,Small Pack,Regular Air,11/24/2013,11.38,18.65,19,354.35,0.07,24.8,354.28,3.77,358.05
+5321-1,11/23/2013,Sarah Foster,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Corporate,4,Medium,84,Small Box,Express Air,11/25/2013,3.5,5.74,27,154.98,0.08,12.4,154.9,5.01,159.91
+5323-1,11/27/2013,Tanja Norvell,"541 Church St,Richmond",Melbourne,VIC,Consumer,9,Critical,21,Small Box,Regular Air,11/29/2013,81.59,159.99,50,7999.5,0.05,399.98,7999.45,5.5,8004.95
+5324-1,11/29/2013,Maya Herman,"273 George Street,Sydney",Sydney,NSW,Corporate,5,High,78,Jumbo Drum,Delivery Truck,12/1/2013,76.79,119.99,8,959.92,0.09,86.39,959.83,14,973.83
+5326-1,12/5/2013,Trudy Brown,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Not Specified,99,Small Pack,Express Air,12/7/2013,16.8,40.97,49,2007.53,0.09,180.68,2007.44,8.99,2016.43
+5328-1,12/8/2013,Gary Hwang,"60 York St,Sydney",Sydney,NSW,Home Office,10,Low,57,Wrap Bag,Regular Air,12/15/2013,1.6,2.62,47,123.14,0.1,12.31,123.04,0.8,123.84
+5330-1,12/8/2013,Larry Tron,"4A Lyons St,Strathfield",Sydney,NSW,Home Office,1,Medium,106,Wrap Bag,Regular Air,12/8/2013,0.93,1.6,25,40,0.1,4,39.9,1.29,41.19
+5332-1,12/9/2013,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,Critical,71,Wrap Bag,Regular Air,12/9/2013,0.24,1.26,9,11.34,0.06,0.68,11.28,0.7,11.98
+5334-1,12/10/2013,Eric Barreto,"359 Crown Street,Surry Hills",Sydney,NSW,Small Business,4,Not Specified,74,Small Box,Regular Air,12/12/2013,3.65,5.98,25,149.5,0.03,4.49,149.47,1.49,150.96
+5335-1,12/11/2013,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Low,11,Small Box,Regular Air,12/13/2013,5.33,8.6,6,51.6,0.04,2.06,51.56,6.19,57.75
+5335-2,12/11/2013,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Low,46,Wrap Bag,Regular Air,12/15/2013,2.29,3.58,30,107.4,0.01,1.07,107.39,1.63,109.02
+5336-1,12/11/2013,Bill Stewart,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Low,83,Small Box,Regular Air,12/15/2013,18.38,29.17,16,466.72,0.07,32.67,466.65,6.27,472.92
+5340-1,12/13/2013,Joseph Airdo,"Westfield Sydney,Sydney",Sydney,NSW,Consumer,6,Not Specified,107,Small Box,Regular Air,12/14/2013,3.75,5.77,9,51.93,0,0,51.93,4.97,56.9
+5342-1,12/13/2013,Ben Peterman,"485 Crown St,Surry Hills",Sydney,NSW,Corporate,5,Critical,108,Wrap Bag,Regular Air,12/15/2013,1.92,3.26,6,19.56,0.01,0.2,19.55,1.86,21.41
+5343-1,12/16/2013,Henry Goldwyn,"541 Church St,Richmond",Melbourne,VIC,Small Business,9,Critical,100,Small Box,Regular Air,12/19/2013,2.29,3.69,45,166.05,0.08,13.28,165.97,0.5,166.47
+5345-1,12/17/2013,Tony Molinari,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Corporate,3,Critical,11,Small Box,Regular Air,12/19/2013,5.33,8.6,23,197.8,0.02,3.96,197.78,6.19,203.97
+5346-1,12/19/2013,Joy Smith,"221 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,High,91,Small Box,Regular Air,12/21/2013,42.11,80.98,13,1052.74,0.03,31.58,1052.71,7.18,1059.89
+5347-1,12/23/2013,Brian Dahlen,"1-2/299 Sussex St,Sydney",Sydney,NSW,Small Business,7,Critical,29,Small Box,Regular Air,12/25/2013,39.64,152.48,41,6251.68,0.07,437.62,6251.61,6.5,6258.11
+5349-1,12/23/2013,Don Miller,"120 Hardware St,Melbourne",Melbourne,VIC,Home Office,8,Medium,109,Small Box,Regular Air,12/23/2013,3.14,4.91,12,58.92,0.04,2.36,58.88,0.5,59.38
+5350-1,12/27/2013,Denise Monton,"2/797 Botany Rd,Rosebery",Sydney,NSW,Home Office,2,Low,83,Small Box,Regular Air,12/29/2013,18.38,29.17,37,1079.29,0.09,97.14,1079.2,6.27,1085.47
+5352-1,12/29/2013,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Medium,2,Wrap Bag,Regular Air,12/30/2013,2.39,4.26,26,110.76,0.1,11.08,110.66,1.2,111.86
+5354-1,12/29/2013,John Castell,"38/133-145 Castlereagh St,Sydney",Sydney,NSW,Small Business,6,Not Specified,50,Small Box,Regular Air,12/30/2013,60.59,100.98,1,100.98,0.1,10.1,100.88,7.18,108.06
+5355-1,12/30/2013,Duane Huffman,"98 Holdsworth Street,Woollahra",Sydney,NSW,Small Business,6,High,110,Small Pack,Regular Air,12/31/2013,4.1,9.31,18,167.58,0.01,1.68,167.57,3.98,171.55
+5357-1,12/30/2013,Trudy Brown,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Low,41,Small Box,Regular Air,12/30/2013,13.64,20.98,23,482.54,0.03,14.48,482.51,1.49,484
+5358-1,1/4/2014,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Consumer,14,Critical,1,Small Box,Regular Air,1/6/2014,3.52,5.58,49,273.42,0.02,5.47,273.4,2.99,276.39
+5358-2,1/4/2014,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Consumer,14,Critical,94,Small Box,Regular Air,1/5/2014,22.18,54.1,42,2272.2,0.02,45.44,2272.18,19.99,2292.17
+5360-1,1/7/2014,Philip Fox,"73 York St,Sydney",Sydney,NSW,Home Office,1,High,86,Small Box,Regular Air,1/7/2014,67.73,165.2,49,8094.8,0.05,404.74,8094.75,19.99,8114.74
+5362-1,1/7/2014,Charlotte Melton,"211/25-29 Dixon St,Haymarket",Sydney,NSW,Home Office,14,Medium,111,Wrap Bag,Regular Air,1/8/2014,2.31,3.78,47,177.66,0.02,3.55,177.64,0.71,178.35
+5364-1,1/8/2014,Dionis Lloyd,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Low,36,Small Box,Regular Air,1/15/2014,13.88,22.38,21,469.98,0.04,18.8,469.94,15.1,485.04
+5365-1,1/8/2014,Sean ODonnell,"541 Church St ,Richmond",Melbourne,VIC,Corporate,9,Low,18,Wrap Bag,Regular Air,1/12/2014,1.3,2.88,46,132.48,0.04,5.3,132.44,1.01,133.45
+5367-1,1/10/2014,Anne Pryor,"1-2/299 Sussex St,Sydney",Sydney,NSW,Home Office,7,Medium,58,Small Box,Express Air,1/10/2014,3.4,5.4,9,48.6,0.09,4.37,48.51,7.78,56.29
+5367-2,1/10/2014,Anne Pryor,"1-2/299 Sussex St,Sydney",Sydney,NSW,Home Office,7,Medium,23,Small Pack,Regular Air,1/11/2014,0.94,2.08,43,89.44,0.05,4.47,89.39,2.56,91.95
+5369-1,1/10/2014,Nick Zandusky,"224A Gertrude St,Fitzroy",Melbourne,VIC,Small Business,8,Not Specified,88,Large Box,Express Air,1/11/2014,56.16,136.98,18,2465.64,0.02,49.31,2465.62,24.49,2490.11
+5373-1,1/13/2014,Ashley Jarboe,"180 High Street,Windsor",Melbourne,VIC,Home Office,8,Low,66,Small Box,Regular Air,1/18/2014,21.56,35.94,13,467.22,0.09,42.05,467.13,6.66,473.79
+5375-1,1/14/2014,Nat Gilpin,"274 Canley Vale Rd,Canley Heights",Sydney,NSW,Consumer,5,Not Specified,58,Small Box,Express Air,1/16/2014,3.4,5.4,14,75.6,0.09,6.8,75.51,7.78,83.29
+5377-1,1/14/2014,Fred Wasserman,"61 York St,Sydney",Sydney,NSW,Home Office,5,Not Specified,76,Wrap Bag,Regular Air,1/17/2014,1.95,3.98,41,163.18,0.07,11.42,163.11,0.83,163.94
+5379-1,1/15/2014,Aleksandra Gannaway,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Corporate,1,Medium,89,Small Pack,Express Air,1/17/2014,5.19,12.98,34,441.32,0.04,17.65,441.28,3.14,444.42
+5381-1,1/15/2014,Sanjit Engle,"12 Princess Hwy,Sylvania",Sydney,NSW,Home Office,12,Medium,112,Jumbo Drum,Delivery Truck,1/17/2014,219.61,535.64,1,535.64,0.05,26.78,535.59,14.7,550.29
+5383-1,1/17/2014,Patrick OBrill,"53 Riley Street,Woolloomooloo",Sydney,NSW,Home Office,1,Critical,44,Small Box,Regular Air,1/19/2014,3.84,6.3,32,201.6,0.04,8.06,201.56,0.5,202.06
+5384-1,1/23/2014,Mark Van Huff,"1 John Street,Waterloo",Sydney,NSW,Home Office,10,Not Specified,85,Wrap Bag,Regular Air,1/25/2014,0.93,1.48,27,39.96,0,0,39.96,0.7,40.66
+5386-1,1/24/2014,Helen Andreada,"470 Anzac Parade,Kingsford",Sydney,NSW,Corporate,1,High,78,Jumbo Drum,Delivery Truck,1/26/2014,76.79,119.99,13,1559.87,0.04,62.39,1559.83,14,1573.83
+5388-1,1/25/2014,Darrin Van Huff,"53-55 Liverpool St,Sydney",Sydney,NSW,Home Office,1,Medium,7,Wrap Bag,Regular Air,1/27/2014,1.09,2.6,27,70.2,0.09,6.32,70.11,2.4,72.51
+5389-1,1/26/2014,Sarah Jordon,"180 High Street,Windsor",Melbourne,VIC,Consumer,8,Low,19,Small Pack,Regular Air,2/2/2014,5.5,12.22,19,232.18,0.09,20.9,232.09,2.85,234.94
+5391-1,1/26/2014,Bill Eplett,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Critical,30,Small Box,Regular Air,1/27/2014,10.07,15.98,8,127.84,0.04,5.11,127.8,4,131.8
+5392-1,1/27/2014,Ken Lonsdale,"99 Lygon Street,East Brunswick",Melbourne,VIC,Consumer,8,High,11,Small Box,Regular Air,1/27/2014,5.33,8.6,4,34.4,0.04,1.38,34.36,6.19,40.55
+5393-1,1/29/2014,Michael Nguyen,"48 Albion St,Surry Hills",Sydney,NSW,Small Business,6,High,10,Small Box,Regular Air,2/1/2014,54.29,90.48,27,2442.96,0,0,2442.96,19.99,2462.95
+5394-1,1/30/2014,Hilary Holden,"2a/285A Crown St,Surry Hills",Sydney,NSW,Corporate,4,Critical,41,Small Box,Regular Air,2/1/2014,13.64,20.98,31,650.38,0.09,58.53,650.29,1.49,651.78
+5395-1,1/30/2014,Brooke Gillingham,"21 Wentworth St,Parramatta",Sydney,NSW,Small Business,7,Medium,51,Wrap Bag,Regular Air,2/1/2014,3.48,5.43,2,10.86,0.1,1.09,10.76,0.95,11.71
+5396-1,2/2/2014,Suzanne McNair,"Crown Complex,Southbank",Melbourne,VIC,Small Business,8,Low,47,Small Box,Regular Air,2/7/2014,2.25,3.69,20,73.8,0.08,5.9,73.72,2.5,76.22
+5398-1,2/3/2014,Mathew Reese,"27 Greenfield Parade,Bankstown",Sydney,NSW,Small Business,12,Critical,35,Small Box,Regular Air,2/4/2014,54.52,100.97,15,1514.55,0.08,121.16,1514.47,7.18,1521.65
+5400-1,2/5/2014,Dennis Kane,"33/4 Barangaroo Avenue,Sydney",Sydney,NSW,Small Business,6,Medium,72,Jumbo Drum,Delivery Truck,2/6/2014,278.99,449.99,39,17549.61,0.08,1403.97,17549.53,49,17598.53
+5402-1,2/7/2014,Logan Haushalter,"222 Barkly St,St Kilda",Melbourne,VIC,Corporate,9,Low,113,Large Box,Regular Air,2/16/2014,377.99,599.99,48,28799.52,0.08,2303.96,28799.44,24.49,28823.93
+5402-2,2/7/2014,Logan Haushalter,"222 Barkly St,St Kilda",Melbourne,VIC,Corporate,9,Low,114,Wrap Bag,Express Air,2/12/2014,2.59,3.98,11,43.78,0.1,4.38,43.68,2.97,46.65
+5404-1,2/9/2014,Susan MacKendrick,"53 Riley Street,Woolloomooloo",Sydney,NSW,Corporate,1,Low,81,Small Box,Regular Air,2/13/2014,2.26,3.58,42,150.36,0.01,1.5,150.35,5.47,155.82
+5405-1,2/10/2014,Dennis Pardue,"412 Brunswick St,Fitzroy",Melbourne,VIC,Small Business,8,Critical,25,Medium Box,Regular Air,2/11/2014,8.82,20.99,42,881.58,0.07,61.71,881.51,4.81,886.32
+5407-1,2/10/2014,Elpida Rittenbach,"163 Concord Road,North Strathfield",Sydney,NSW,Consumer,10,Low,115,Small Box,Express Air,2/12/2014,52.07,83.98,9,755.82,0.05,37.79,755.77,5.01,760.78
+5409-1,2/12/2014,Julie Prescott,"438 Victoria Avenue,Chatswood",Sydney,NSW,Home Office,6,High,72,Large Box,Regular Air,2/13/2014,216,449.99,5,2249.95,0.02,45,2249.93,24.49,2274.42
+5411-1,2/13/2014,Steve Nguyen,"61 York St,Sydney",Sydney,NSW,Consumer,5,High,116,Wrap Bag,Regular Air,2/13/2014,2.16,3.85,31,119.35,0.09,10.74,119.26,0.7,119.96
+5413-1,2/15/2014,Sandra Glassco,"224A Gertrude St,Fitzroy",Melbourne,VIC,Home Office,8,Medium,117,Wrap Bag,Regular Air,2/16/2014,1.15,2.67,19,50.73,0.03,1.52,50.7,0.86,51.56
+5415-1,2/15/2014,Yana Sorensen,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Low,118,Wrap Bag,Express Air,2/20/2014,1.57,3.28,44,144.32,0,0,144.32,0.98,145.3
+5416-1,2/16/2014,Pamela Coakley,"120 Hardware St,Melbourne",Melbourne,VIC,Corporate,9,High,25,Medium Box,Regular Air,2/18/2014,8.82,20.99,24,503.76,0.01,5.04,503.75,4.81,508.56
+5418-1,2/22/2014,Amy Cox,"523 King St,Newtown",Sydney,NSW,Corporate,7,Critical,119,Small Pack,Regular Air,2/23/2014,4.19,10.23,9,92.07,0.07,6.44,92,4.68,96.68
+5420-1,2/22/2014,Sanjit Jacobs,"541 Church St,Richmond",Melbourne,VIC,Consumer,9,High,85,Wrap Bag,Regular Air,2/23/2014,0.93,1.48,46,68.08,0,0,68.08,0.7,68.78
+5421-1,2/22/2014,Grant Thornton,"98 Holdsworth Street,Woollahra",Sydney,NSW,Corporate,6,High,66,Small Box,Regular Air,2/23/2014,21.56,35.94,13,467.22,0.03,14.02,467.19,6.66,473.85
+5423-1,2/23/2014,Erica Hackney,"221 Barkly St,St Kilda",Melbourne,VIC,Small Business,9,Medium,91,Small Box,Regular Air,2/26/2014,42.11,80.98,45,3644.1,0,0,3644.1,7.18,3651.28
+5424-1,2/24/2014,Chad McGuire,"73 MacLeay St,Potts Point",Sydney,NSW,Small Business,6,Critical,67,Small Box,Regular Air,2/25/2014,2.74,4.49,6,26.94,0.03,0.81,26.91,1.49,28.4
+5426-1,2/24/2014,Pauline Chand,"501 George St,Sydney",Sydney,NSW,Small Business,2,Not Specified,24,Wrap Bag,Regular Air,2/26/2014,2.52,4,33,132,0.08,10.56,131.92,1.3,133.22
+5428-1,2/25/2014,Bobby Elias,"506 Swan Street,Richmond",Melbourne,VIC,Small Business,8,Not Specified,118,Wrap Bag,Regular Air,2/26/2014,1.57,3.28,26,85.28,0.08,6.82,85.2,0.98,86.18
+5430-1,2/25/2014,Gary Hwang,"60 York St,Sydney",Sydney,NSW,Home Office,10,Critical,33,Wrap Bag,Regular Air,2/27/2014,3.47,6.68,33,220.44,0.03,6.61,220.41,1.5,221.91
+5432-1,2/28/2014,Lena Radford,"4A Lyons St,Strathfield",Sydney,NSW,Small Business,1,Medium,5,Wrap Bag,Regular Air,3/1/2014,0.9,2.1,21,44.1,0.04,1.76,44.06,0.7,44.76
+5433-1,3/2/2014,Edward Nazzal,"2a/285A Crown St,Surry Hills",Sydney,NSW,Home Office,4,Medium,83,Small Box,Regular Air,3/3/2014,18.38,29.17,1,29.17,0.02,0.58,29.15,6.27,35.42
+5434-1,3/6/2014,Delfina Latchford,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Critical,75,Small Box,Regular Air,3/7/2014,4.46,10.89,32,348.48,0.1,34.85,348.38,4.5,352.88
+5435-1,3/10/2014,Adam Hart,"2a/285A Crown St,Surry Hills",Sydney,NSW,Corporate,4,Not Specified,77,Small Box,Regular Air,3/11/2014,1.94,3.08,1,3.08,0.08,0.25,3,0.99,3.99
+5436-1,3/11/2014,Rick Duston,"260 Marrickville Rd,Marrickville",Sydney,NSW,Corporate,12,Medium,120,Small Box,Regular Air,3/12/2014,52.04,83.93,50,4196.5,0.1,419.65,4196.4,19.99,4216.39
+5438-1,3/12/2014,Matt Collister,"99 Glebe Point Rd,Glebe",Sydney,NSW,Home Office,6,High,50,Small Box,Express Air,3/13/2014,60.59,100.98,5,504.9,0.02,10.1,504.88,7.18,512.06
+5439-1,3/13/2014,Dennis Pardue,"412 Brunswick St,Fitzroy",Melbourne,VIC,Corporate,8,Low,40,Wrap Bag,Regular Air,3/13/2014,3.75,7.08,34,240.72,0.03,7.22,240.69,2.35,243.04
+5440-1,3/15/2014,Toby Swindell,"273 George Street,Sydney",Sydney,NSW,Small Business,5,Critical,84,Small Box,Regular Air,3/15/2014,3.5,5.74,45,258.3,0,0,258.3,5.01,263.31
+5442-1,3/17/2014,Troy Blackwell,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Home Office,3,Critical,7,Wrap Bag,Regular Air,3/18/2014,1.09,2.6,43,111.8,0.01,1.12,111.79,2.4,114.19
+5444-1,3/17/2014,Carl Ludwig,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,Not Specified,49,Small Box,Regular Air,3/18/2014,8.92,29.74,25,743.5,0,0,743.5,6.64,750.14
+5445-1,3/17/2014,Chad Cunningham,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Small Business,9,Not Specified,121,Small Box,Regular Air,3/18/2014,21.97,35.44,21,744.24,0,0,744.24,4.92,749.16
+5446-1,3/19/2014,Michael Paige,"506 Swan Street,Richmond",Melbourne,VIC,Small Business,8,Critical,81,Small Box,Regular Air,3/21/2014,2.26,3.58,39,139.62,0,0,139.62,5.47,145.09
+5448-1,3/21/2014,Justin Ellison,"163 Concord Road,North Strathfield",Sydney,NSW,Home Office,10,Low,77,Small Box,Regular Air,3/26/2014,1.94,3.08,5,15.4,0.06,0.92,15.34,0.99,16.33
+5449-1,3/28/2014,Dionis Lloyd,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,High,98,Small Box,Regular Air,3/28/2014,11.04,16.98,31,526.38,0.03,15.79,526.35,12.39,538.74
+5450-1,3/29/2014,Ralph Knight,"5/63-71 Enmore Rd,Newtown",Sydney,NSW,Consumer,10,Not Specified,97,Small Box,Regular Air,3/30/2014,4.53,7.3,18,131.4,0.05,6.57,131.35,7.72,139.07
+5451-1,3/31/2014,Roland Murray,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Home Office,12,Not Specified,68,Wrap Bag,Regular Air,3/31/2014,4.37,9.11,1,9.11,0.1,0.91,9.01,2.25,11.26
+5453-1,4/1/2014,Anne Pryor,"1-2/299 Sussex St,Sydney",Sydney,NSW,Consumer,7,Critical,99,Small Pack,Regular Air,4/2/2014,16.8,40.97,44,1802.68,0.08,144.21,1802.6,8.99,1811.59
+5455-1,4/2/2014,Rob Haberlin,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Corporate,8,Medium,122,Small Box,Regular Air,4/4/2014,7.13,20.98,39,818.22,0.04,32.73,818.18,5.42,823.6
+5456-1,4/2/2014,Patrick Bzostek,"1/50-58 Hunter St,Sydney",Sydney,NSW,Consumer,14,Critical,82,Small Pack,Regular Air,4/4/2014,1.46,3.57,41,146.37,0.03,4.39,146.34,4.17,150.51
+5457-1,4/3/2014,Alex Grayson,"644 George St,Sydney",Sydney,NSW,Consumer,13,Medium,123,Wrap Bag,Regular Air,4/5/2014,2.13,3.49,46,160.54,0.01,1.61,160.53,0.76,161.29
+5458-1,4/4/2014,Jesus Ocampo,"60 Commercial Rd,Prahran",Melbourne,VIC,Small Business,9,Not Specified,44,Small Box,Regular Air,4/5/2014,3.84,6.3,18,113.4,0.1,11.34,113.3,0.5,113.8
+5460-1,4/6/2014,Steve Chapman,"1/50-58 Hunter St,Sydney",Sydney,NSW,Corporate,14,Low,124,Wrap Bag,Regular Air,4/11/2014,1.05,1.95,31,60.45,0.02,1.21,60.43,1.63,62.06
+5461-1,4/7/2014,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,Critical,71,Wrap Bag,Regular Air,4/7/2014,0.24,1.26,35,44.1,0.09,3.97,44.01,0.7,44.71
+5463-1,4/7/2014,Carlos Daly,"5/63-71 Enmore Rd,Newtown",Sydney,NSW,Home Office,10,Not Specified,125,Jumbo Drum,Delivery Truck,4/7/2014,315.61,500.97,31,15530.07,0.06,931.8,15530.01,69.3,15599.31
+5465-1,4/7/2014,Harold Dahlen,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Medium,113,Large Box,Regular Air,4/9/2014,377.99,599.99,30,17999.7,0.09,1619.97,17999.61,24.49,18024.1
+5467-1,4/11/2014,Brenda Bowman,"73 York St,Sydney",Sydney,NSW,Small Business,1,Medium,7,Wrap Bag,Regular Air,4/12/2014,1.09,2.6,2,5.2,0.03,0.16,5.17,2.4,7.57
+5469-1,4/15/2014,Xylona Price,"98-104 Parramatta Rd,Camperdown",Sydney,NSW,Corporate,4,High,73,Small Box,Regular Air,4/16/2014,6.51,30.98,36,1115.28,0,0,1115.28,6.5,1121.78
+5470-1,4/17/2014,Kelly Collister,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Consumer,9,High,17,Small Box,Regular Air,4/19/2014,4.59,7.28,11,80.08,0.07,5.61,80.01,11.15,91.16
+5471-1,4/17/2014,Dean Percer,"222 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Medium,119,Small Pack,Regular Air,4/18/2014,4.19,10.23,22,225.06,0.07,15.75,224.99,4.68,229.67
+5473-1,4/17/2014,Anemone Ratner,"157 Norton St,Leichhardt",Sydney,NSW,Small Business,11,Critical,16,Small Pack,Express Air,4/18/2014,3.42,8.34,16,133.44,0.04,5.34,133.4,2.64,136.04
+5475-1,5/2/2014,Brian Stugart,"88 Oxford St,Woollahra",Sydney,NSW,Consumer,10,Low,126,Small Box,Regular Air,5/4/2014,84.22,210.55,32,6737.6,0.1,673.76,6737.5,9.99,6747.49
+5476-1,5/2/2014,Michelle Tran,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Corporate,3,Not Specified,122,Small Box,Express Air,5/3/2014,7.13,20.98,14,293.72,0.1,29.37,293.62,5.42,299.04
+5477-1,5/2/2014,Vivek Sundaresam,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Home Office,1,Critical,46,Wrap Bag,Regular Air,5/3/2014,2.29,3.58,15,53.7,0.05,2.69,53.65,1.63,55.28
+5478-1,5/3/2014,Liz Willingham,"60 Commercial Rd,Prahran",Melbourne,VIC,Home Office,9,Low,70,Wrap Bag,Regular Air,5/7/2014,1.31,2.84,48,136.32,0.1,13.63,136.22,0.93,137.15
+5479-1,5/6/2014,Tracy Blumstein,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Home Office,1,Not Specified,81,Small Box,Regular Air,5/8/2014,2.26,3.58,25,89.5,0,0,89.5,5.47,94.97
+5479-2,5/6/2014,Tracy Blumstein,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Home Office,1,Not Specified,12,Wrap Bag,Regular Air,5/8/2014,0.87,1.81,45,81.45,0.08,6.52,81.37,0.75,82.12
+5483-1,5/8/2014,Ritsa Hightower,"1/160 Anzac Parade,Kensington",Sydney,NSW,Corporate,6,Low,85,Wrap Bag,Regular Air,5/13/2014,0.93,1.48,33,48.84,0.07,3.42,48.77,0.7,49.47
+5485-1,5/8/2014,Michelle Moray,"310 Wattle St,Ultimo",Sydney,NSW,Corporate,7,Low,62,Small Box,Regular Air,5/12/2014,1.33,2.08,40,83.2,0,0,83.2,1.49,84.69
+5487-1,5/9/2014,Jim Radford,"222 Barkly St,St Kilda",Melbourne,VIC,Corporate,9,Critical,88,Large Box,Regular Air,5/10/2014,56.16,136.98,44,6027.12,0.08,482.17,6027.04,24.49,6051.53
+5489-1,5/11/2014,Aleksandra Gannaway,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Corporate,1,Medium,101,Wrap Bag,Regular Air,5/12/2014,5.22,9.85,20,197,0.06,11.82,196.94,4.82,201.76
+5491-1,5/13/2014,Jennifer Patt,"523 King St,Newtown",Sydney,NSW,Home Office,7,Not Specified,127,Small Box,Regular Air,5/14/2014,2.76,4.38,29,127.02,0.08,10.16,126.94,6.21,133.15
+5493-1,5/15/2014,Eric Barreto,"359 Crown Street,Surry Hills",Sydney,NSW,Consumer,4,Medium,77,Small Box,Regular Air,5/16/2014,1.94,3.08,9,27.72,0.01,0.28,27.71,0.99,28.7
+5494-1,5/17/2014,Deborah Brumfield,"501 George St,Sydney",Sydney,NSW,Small Business,2,Not Specified,89,Small Pack,Regular Air,5/18/2014,5.19,12.98,20,259.6,0.04,10.38,259.56,3.14,262.7
+5496-1,5/19/2014,Richard Eichhorn,"506 Swan Street,Richmond",Melbourne,VIC,Consumer,8,Medium,19,Small Pack,Express Air,5/20/2014,5.5,12.22,18,219.96,0.04,8.8,219.92,2.85,222.77
+5497-1,5/19/2014,Juliana Krohn,"2/797 Botany Rd,Rosebery",Sydney,NSW,Corporate,2,Low,111,Wrap Bag,Express Air,5/24/2014,2.31,3.78,15,56.7,0.03,1.7,56.67,0.71,57.38
+5498-1,5/25/2014,Clytie Kelty,"8 Khartoum Rd,Macquarie Park",Sydney,NSW,Small Business,13,Low,72,Jumbo Drum,Delivery Truck,5/29/2014,278.99,449.99,47,21149.53,0.1,2114.95,21149.43,49,21198.43
+5500-1,5/29/2014,Ken Dana,"73 York St,Sydney",Sydney,NSW,Corporate,1,Low,29,Small Box,Regular Air,6/2/2014,32.02,152.48,49,7471.52,0.03,224.15,7471.49,4,7475.49
+5502-1,5/29/2014,Andy Yotov,"33/4 Barangaroo Avenue,Sydney",Sydney,NSW,Corporate,6,High,36,Small Box,Regular Air,5/29/2014,13.88,22.38,26,581.88,0.07,40.73,581.81,15.1,596.91
+5504-1,5/29/2014,Melanie Page,"541 Church St,Richmond",Melbourne,VIC,Corporate,9,Medium,31,Small Pack,Regular Air,5/29/2014,4.79,11.97,46,550.62,0.07,38.54,550.55,5.81,556.36
+5505-1,6/2/2014,Arthur Gainer,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Critical,25,Medium Box,Regular Air,6/4/2014,8.82,20.99,10,209.9,0,0,209.9,4.81,214.71
+5506-1,6/3/2014,Jeremy Lonsdale,"163 Concord Road,North Strathfield",Sydney,NSW,Corporate,10,Not Specified,128,Wrap Bag,Regular Air,6/4/2014,1.09,1.82,40,72.8,0.1,7.28,72.7,1,73.7
+5507-1,6/3/2014,Christopher Martinez,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,High,40,Wrap Bag,Regular Air,6/5/2014,3.75,7.08,45,318.6,0.06,19.12,318.54,2.35,320.89
+5508-1,6/4/2014,Frank Merwin,"24 Addison Rd,Marrickville",Sydney,NSW,Consumer,13,High,54,Small Box,Regular Air,6/5/2014,178.83,415.88,43,17882.84,0.07,1251.8,17882.77,11.37,17894.14
+5510-1,6/4/2014,Dianna Wilson,"310 Wattle St,Ultimo",Sydney,NSW,Small Business,7,Not Specified,45,Small Box,Regular Air,6/5/2014,156.5,300.97,6,1805.82,0.04,72.23,1805.78,7.18,1812.96
+5512-1,6/5/2014,Lindsay Castell,"Qantas Domestic Terminal,Mascot",Sydney,NSW,Corporate,4,Medium,48,Small Box,Regular Air,6/7/2014,12.39,19.98,10,199.8,0.1,19.98,199.7,5.77,205.47
+5513-1,6/7/2014,Chuck Sachs,"1/41B Elizabeth Bay Rd,Elizabeth Bay",Sydney,NSW,Consumer,10,Medium,72,Jumbo Drum,Delivery Truck,6/8/2014,278.99,449.99,5,2249.95,0.01,22.5,2249.94,49,2298.94
+5514-1,6/8/2014,John Lee,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Not Specified,81,Small Box,Express Air,6/10/2014,2.26,3.58,44,157.52,0.06,9.45,157.46,5.47,162.93
+5516-1,6/9/2014,Anthony Rawles,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Small Business,3,High,105,Small Pack,Regular Air,6/9/2014,11.38,18.65,18,335.7,0.1,33.57,335.6,3.77,339.37
+5518-1,6/13/2014,Fred Chung,"81 MacLeay St,Potts Point",Sydney,NSW,Corporate,2,Low,55,Small Box,Express Air,6/22/2014,19.83,30.98,46,1425.08,0.04,57,1425.04,19.51,1444.55
+5520-1,6/16/2014,Julie Prescott,"438 Victoria Avenue,Chatswood",Sydney,NSW,Home Office,6,Low,22,Small Box,Regular Air,6/21/2014,3.52,5.68,32,181.76,0.1,18.18,181.66,1.39,183.05
+5521-1,6/17/2014,Edward Becker,"501 George St,Sydney",Sydney,NSW,Home Office,2,Medium,42,Small Box,Regular Air,6/18/2014,1.18,1.88,19,35.72,0.07,2.5,35.65,1.49,37.14
+5523-1,6/18/2014,Bill Donatelli,"359 Crown Street,Surry Hills",Sydney,NSW,Corporate,4,High,3,Wrap Bag,Regular Air,6/18/2014,2.41,3.71,39,144.69,0.06,8.68,144.63,1.93,146.56
+5525-1,6/18/2014,Toby Swindell,"273 George Street,Sydney",Sydney,NSW,Small Business,5,Critical,129,Wrap Bag,Regular Air,6/18/2014,1.88,3.14,32,100.48,0.03,3.01,100.45,1.14,101.59
+5526-1,6/19/2014,Barry Pond,"99 Lygon Street,East Brunswick",Melbourne,VIC,Consumer,8,Medium,37,Wrap Bag,Regular Air,6/21/2014,21.56,36.55,48,1754.4,0.07,122.81,1754.33,13.89,1768.22
+5527-1,6/19/2014,Jim Mitchum,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Consumer,3,Not Specified,52,Small Pack,Regular Air,6/21/2014,20.18,35.41,21,743.61,0.01,7.44,743.6,1.99,745.59
+5529-1,6/19/2014,Bruce Degenhardt,"501 George St,Sydney",Sydney,NSW,Home Office,2,High,8,Small Box,Regular Air,6/21/2014,99.39,162.93,16,2606.88,0.1,260.69,2606.78,19.99,2626.77
+5531-1,6/22/2014,Luke Weiss,"88 Oxford St,Woollahra",Sydney,NSW,Corporate,10,Not Specified,88,Large Box,Express Air,6/24/2014,56.16,136.98,17,2328.66,0,0,2328.66,24.49,2353.15
+5533-1,6/22/2014,Craig Leslie,"10 Bligh St,Melbourne",Melbourne,VIC,Consumer,10,Medium,109,Small Box,Express Air,6/24/2014,3.14,4.91,24,117.84,0.01,1.18,117.83,0.5,118.33
+5534-1,6/23/2014,Frank Hawley,"Shop 1 797 Botany Rd,Rosebery",Sydney,NSW,Home Office,4,Medium,130,Small Box,Regular Air,6/23/2014,1.84,2.88,8,23.04,0.07,1.61,22.97,0.99,23.96
+5536-1,6/25/2014,Nora Paige,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Small Business,3,Not Specified,99,Small Pack,Regular Air,6/25/2014,16.8,40.97,47,1925.59,0.06,115.54,1925.53,8.99,1934.52
+5537-1,6/27/2014,Alejandro Ballentine,"412 Brunswick St,Fitzroy",Melbourne,VIC,Small Business,8,High,82,Small Pack,Regular Air,6/28/2014,1.46,3.57,46,164.22,0.01,1.64,164.21,4.17,168.38
+5539-1,6/29/2014,Daniel Byrd,"127 Liverpool St,Sydney",Sydney,NSW,Home Office,2,Not Specified,97,Small Box,Regular Air,6/30/2014,4.53,7.3,50,365,0.02,7.3,364.98,7.72,372.7
+5539-2,6/29/2014,Daniel Byrd,"127 Liverpool St,Sydney",Sydney,NSW,Home Office,2,Not Specified,131,Wrap Bag,Regular Air,6/30/2014,1.53,2.47,43,106.21,0.02,2.12,106.19,1.02,107.21
+5541-1,6/29/2014,Christine Abelman,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Corporate,4,Medium,27,Small Box,Regular Air,6/29/2014,1.59,2.61,44,114.84,0.09,10.34,114.75,0.5,115.25
+5544-1,6/29/2014,William Brown,"3 Carrington Road ,Box Hill",Melbourne,VIC,Corporate,9,Not Specified,132,Small Box,Regular Air,6/30/2014,14.7,29.99,20,599.8,0,0,599.8,5.5,605.3
+5546-1,6/30/2014,Monica Federle,"834 Bourke St,Waterloo",Sydney,NSW,Corporate,10,Medium,49,Small Box,Regular Air,7/3/2014,8.92,29.74,4,118.96,0.05,5.95,118.91,6.64,125.55
+5547-1,7/4/2014,Mike Gockenbach,"180 High Street,Windsor",Melbourne,VIC,Consumer,8,High,60,Wrap Bag,Regular Air,7/6/2014,3.32,5.18,43,222.74,0.03,6.68,222.71,2.04,224.75
+5548-1,7/5/2014,James Galang,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Consumer,12,Critical,133,Small Box,Regular Air,7/8/2014,1.84,2.88,47,135.36,0.03,4.06,135.33,5.33,140.66
+5549-1,7/11/2014,Sanjit Jacobs,"541 Church St,Richmond",Melbourne,VIC,Consumer,9,High,30,Small Box,Regular Air,7/13/2014,8.31,15.98,40,639.2,0.03,19.18,639.17,6.5,645.67
+5551-1,7/12/2014,Raymond Book,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Medium,134,Small Box,Regular Air,7/14/2014,1.82,2.84,19,53.96,0,0,53.96,5.44,59.4
+5552-1,7/15/2014,Bobby Odegard,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Corporate,8,Not Specified,34,Small Pack,Regular Air,7/17/2014,1.87,8.12,4,32.48,0.07,2.27,32.41,2.83,35.24
+5554-1,7/17/2014,Eric Barreto,"359 Crown Street,Surry Hills",Sydney,NSW,Small Business,4,High,127,Small Box,Regular Air,7/18/2014,2.76,4.38,18,78.84,0.03,2.37,78.81,6.21,85.02
+5556-1,7/18/2014,Art Miller,"8 Quay Street,Haymarket",Sydney,NSW,Corporate,5,Medium,130,Small Box,Regular Air,7/19/2014,1.84,2.88,10,28.8,0.01,0.29,28.79,0.99,29.78
+5558-1,7/18/2014,Julia Dunbar,"Qantas Domestic Terminal,Mascot",Sydney,NSW,Consumer,4,Low,135,Wrap Bag,Regular Air,7/20/2014,0.92,1.81,8,14.48,0.05,0.72,14.43,1.56,15.99
+5558-2,7/18/2014,Julia Dunbar,"Qantas Domestic Terminal,Mascot",Sydney,NSW,Consumer,4,Low,136,Wrap Bag,Regular Air,7/25/2014,1.9,3.28,41,134.48,0.05,6.72,134.43,1.95,136.38
+5560-1,7/22/2014,Gene Hale,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Consumer,5,Low,62,Small Box,Regular Air,7/24/2014,1.33,2.08,20,41.6,0.04,1.66,41.56,1.49,43.05
+5562-1,7/24/2014,Sonia Sunley,"1/50-58 Hunter St,Sydney",Sydney,NSW,Small Business,14,Critical,57,Wrap Bag,Express Air,7/26/2014,1.6,2.62,25,65.5,0.09,5.9,65.41,0.8,66.21
+5564-1,7/25/2014,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Low,64,Small Box,Regular Air,7/27/2014,1.98,3.15,46,144.9,0.1,14.49,144.8,0.49,145.29
+5566-1,7/26/2014,Victoria Wilson,"1/160 Anzac Parade,Kensington",Sydney,NSW,Home Office,6,Low,113,Large Box,Regular Air,8/4/2014,377.99,599.99,25,14999.75,0.07,1049.98,14999.68,24.49,15024.17
+5566-2,7/26/2014,Victoria Wilson,"1/160 Anzac Parade,Kensington",Sydney,NSW,Home Office,6,Low,57,Wrap Bag,Regular Air,8/2/2014,1.6,2.62,10,26.2,0.08,2.1,26.12,0.8,26.92
+5569-1,7/28/2014,Maria Zettner,"531 King St,Newtown",Sydney,NSW,Corporate,3,Medium,25,Medium Box,Regular Air,7/30/2014,8.82,20.99,9,188.91,0.08,15.11,188.83,4.81,193.64
+5570-1,7/30/2014,Keith Herrera,"120 Hardware St,Melbourne",Melbourne,VIC,Small Business,9,High,133,Small Box,Regular Air,7/31/2014,1.84,2.88,11,31.68,0.02,0.63,31.66,5.33,36.99
+5572-1,7/30/2014,Mark Packer,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Small Business,4,High,36,Small Box,Regular Air,8/1/2014,13.88,22.38,34,760.92,0.01,7.61,760.91,15.1,776.01
+5574-1,7/30/2014,Denny Joy,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,Medium,13,Small Box,Regular Air,8/1/2014,4.89,7.64,7,53.48,0.06,3.21,53.42,1.39,54.81
+5576-1,8/3/2014,Shirley Jackson,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Corporate,14,Medium,84,Small Box,Regular Air,8/4/2014,3.5,5.74,7,40.18,0.04,1.61,40.14,5.01,45.15
+5578-1,8/5/2014,Ed Ludwig,"221 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,High,7,Wrap Bag,Regular Air,8/7/2014,1.09,2.6,43,111.8,0.06,6.71,111.74,2.4,114.14
+5579-1,8/6/2014,Carol Adams,"181 Enmore Rd,Enmore",Sydney,NSW,Corporate,13,Low,74,Small Box,Regular Air,8/6/2014,3.65,5.98,32,191.36,0.1,19.14,191.26,1.49,192.75
+5581-1,8/7/2014,John Lucas,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Critical,60,Wrap Bag,Regular Air,8/9/2014,3.32,5.18,17,88.06,0.02,1.76,88.04,2.04,90.08
+5583-1,8/11/2014,Benjamin Patterson,"1-2/299 Sussex St,Sydney",Sydney,NSW,Corporate,7,Critical,71,Wrap Bag,Regular Air,8/12/2014,0.24,1.26,2,2.52,0.06,0.15,2.46,0.7,3.16
+5584-1,8/11/2014,Sara Luxemburg,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Critical,37,Wrap Bag,Regular Air,8/14/2014,21.56,36.55,24,877.2,0.07,61.4,877.13,13.89,891.02
+5586-1,8/11/2014,Adrian Hane,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Medium,40,Wrap Bag,Regular Air,8/13/2014,3.75,7.08,47,332.76,0.1,33.28,332.66,2.35,335.01
+5588-1,8/11/2014,Tonja Turnell,"221 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,High,56,Wrap Bag,Express Air,8/13/2014,2.9,4.76,11,52.36,0.08,4.19,52.28,0.88,53.16
+5589-1,8/12/2014,Brad Thomas,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Home Office,1,Low,28,Small Box,Regular Air,8/19/2014,6.39,19.98,5,99.9,0.09,8.99,99.81,4,103.81
+5591-1,8/22/2014,Dorris Love,"359 Crown Street,Surry Hills",Sydney,NSW,Home Office,4,Not Specified,137,Small Box,Regular Air,8/23/2014,4.03,9.38,17,159.46,0.09,14.35,159.37,7.28,166.65
+5593-1,8/25/2014,John Lee,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,High,19,Small Pack,Regular Air,8/27/2014,5.5,12.22,37,452.14,0.09,40.69,452.05,2.85,454.9
+5594-1,8/25/2014,Jill Fjeld,"53 Riley Street,Woolloomooloo",Sydney,NSW,Home Office,1,High,59,Wrap Bag,Regular Air,8/27/2014,11.11,19.84,28,555.52,0.06,33.33,555.46,4.1,559.56
+5596-1,8/26/2014,Valerie Dominguez,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Medium,30,Small Box,Regular Air,8/26/2014,10.07,15.98,46,735.08,0.02,14.7,735.06,4,739.06
+5597-1,8/27/2014,Maribeth Yedwab,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Home Office,8,Not Specified,57,Wrap Bag,Express Air,8/28/2014,1.6,2.62,45,117.9,0.01,1.18,117.89,0.8,118.69
+5599-1,8/28/2014,Ruben Ausman,"Crown Complex,Southbank",Melbourne,VIC,Corporate,9,High,72,Jumbo Drum,Delivery Truck,8/28/2014,278.99,449.99,15,6749.85,0.04,269.99,6749.81,49,6798.81
+5599-2,8/28/2014,Ruben Ausman,"Crown Complex,Southbank",Melbourne,VIC,Corporate,9,High,24,Wrap Bag,Regular Air,8/29/2014,2.52,4,14,56,0.06,3.36,55.94,1.3,57.24
+5603-1,8/28/2014,Jim Kriz,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Consumer,3,Low,73,Small Box,Regular Air,9/1/2014,6.51,30.98,37,1146.26,0.03,34.39,1146.23,6.5,1152.73
+5604-1,9/2/2014,Vivek Sundaresam,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Home Office,1,Low,30,Small Box,Regular Air,9/4/2014,10.07,15.98,29,463.42,0.04,18.54,463.38,4,467.38
+5605-1,9/3/2014,Odella Nelson,"523 King St,Newtown",Sydney,NSW,Small Business,7,Medium,108,Wrap Bag,Regular Air,9/5/2014,1.92,3.26,31,101.06,0,0,101.06,1.86,102.92
+5606-1,9/3/2014,Kean Thornton,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Low,61,Wrap Bag,Regular Air,9/10/2014,2.98,5.84,22,128.48,0.1,12.85,128.38,0.83,129.21
+5607-1,9/4/2014,Aaron Bergman,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Not Specified,92,Small Pack,Regular Air,9/5/2014,2.5,5.68,23,130.64,0.01,1.31,130.63,3.6,134.23
+5609-1,9/7/2014,Eugene Moren,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Home Office,3,Not Specified,42,Small Box,Regular Air,9/7/2014,1.18,1.88,47,88.36,0.06,5.3,88.3,1.49,89.79
+5609-2,9/7/2014,Eugene Moren,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Home Office,3,Not Specified,70,Wrap Bag,Regular Air,9/9/2014,1.31,2.84,39,110.76,0.08,8.86,110.68,0.93,111.61
+5612-1,9/10/2014,Victoria Pisteka,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Not Specified,105,Small Pack,Regular Air,9/12/2014,11.38,18.65,7,130.55,0.01,1.31,130.54,3.77,134.31
+5613-1,9/11/2014,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Critical,85,Wrap Bag,Regular Air,9/13/2014,0.93,1.48,15,22.2,0.03,0.67,22.17,0.7,22.87
+5615-1,9/12/2014,Jack Garza,"2a/285A Crown St,Surry Hills",Sydney,NSW,Corporate,4,Critical,128,Wrap Bag,Regular Air,9/13/2014,1.09,1.82,36,65.52,0.09,5.9,65.43,1,66.43
+5616-1,9/12/2014,Gary Hansen,"273 George Street,Sydney",Sydney,NSW,Consumer,5,Low,93,Small Box,Regular Air,9/19/2014,14.95,34.76,34,1181.84,0.03,35.46,1181.81,8.22,1190.03
+5618-1,9/13/2014,Christina Vanderzanden,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Low,97,Small Box,Regular Air,9/17/2014,4.53,7.3,26,189.8,0.03,5.69,189.77,7.72,197.49
+5619-1,9/17/2014,Bart Watters,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Corporate,12,Critical,81,Small Box,Regular Air,9/18/2014,2.26,3.58,19,68.02,0,0,68.02,5.47,73.49
+5621-1,9/21/2014,George Ashbrook,"506 Swan Street,Richmond",Melbourne,VIC,Consumer,8,Medium,38,Small Box,Regular Air,9/23/2014,19.78,45.99,23,1057.77,0.1,105.78,1057.67,4.99,1062.66
+5621-2,9/21/2014,George Ashbrook,"506 Swan Street,Richmond",Melbourne,VIC,Consumer,8,Medium,85,Wrap Bag,Regular Air,9/22/2014,0.93,1.48,33,48.84,0.06,2.93,48.78,0.7,49.48
+5625-1,9/23/2014,Nathan Mautz,"412 Brunswick St,Fitzroy",Melbourne,VIC,Corporate,8,High,68,Wrap Bag,Express Air,9/25/2014,4.37,9.11,48,437.28,0.06,26.24,437.22,2.25,439.47
+5627-1,9/27/2014,Cindy Chapman,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Low,23,Small Pack,Regular Air,10/2/2014,0.94,2.08,36,74.88,0.01,0.75,74.87,2.56,77.43
+5629-1,9/28/2014,Charles McCrossin,"81 MacLeay St,Potts Point",Sydney,NSW,Corporate,2,High,131,Wrap Bag,Regular Air,9/29/2014,1.53,2.47,49,121.03,0.03,3.63,121,1.02,122.02
+5630-1,9/28/2014,Giulietta Baptist,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Home Office,1,High,33,Wrap Bag,Regular Air,9/29/2014,3.47,6.68,16,106.88,0.1,10.69,106.78,1.5,108.28
+5631-1,9/29/2014,Christopher Martinez,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Low,15,Wrap Bag,Regular Air,9/29/2014,0.71,1.14,8,9.12,0,0,9.12,0.7,9.82
+5633-1,10/1/2014,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,High,29,Small Box,Regular Air,10/3/2014,39.64,152.48,48,7319.04,0.04,292.76,7319,6.5,7325.5
+5635-1,10/1/2014,Jamie Kunitz,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Corporate,4,Not Specified,59,Wrap Bag,Express Air,10/2/2014,11.11,19.84,15,297.6,0,0,297.6,4.1,301.7
+5637-1,10/2/2014,Carl Jackson,"6 Mary St,Newtown",Sydney,NSW,Home Office,2,High,100,Small Box,Regular Air,10/4/2014,2.29,3.69,30,110.7,0.09,9.96,110.61,0.5,111.11
+5639-1,10/2/2014,Ritsa Hightower,"1/160 Anzac Parade,Kensington",Sydney,NSW,Corporate,6,High,121,Small Box,Regular Air,10/4/2014,21.97,35.44,29,1027.76,0.03,30.83,1027.73,4.92,1032.65
+5641-1,10/3/2014,Nathan Mautz,"412 Brunswick St,Fitzroy",Melbourne,VIC,Corporate,8,Not Specified,15,Wrap Bag,Regular Air,10/5/2014,0.71,1.14,4,4.56,0,0,4.56,0.7,5.26
+5643-1,10/4/2014,Liz Price,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,Low,67,Small Box,Express Air,10/11/2014,2.74,4.49,44,197.56,0.03,5.93,197.53,1.49,199.02
+5644-1,10/4/2014,Patrick OBrill,"53 Riley Street,Woolloomooloo",Sydney,NSW,Home Office,1,Low,52,Small Pack,Regular Air,10/6/2014,20.18,35.41,5,177.05,0,0,177.05,1.99,179.04
+5645-1,10/6/2014,Sanjit Jacobs,"541 Church St,Richmond",Melbourne,VIC,Consumer,9,Critical,77,Small Box,Regular Air,10/7/2014,1.94,3.08,46,141.68,0.04,5.67,141.64,0.99,142.63
+5646-1,10/8/2014,Christopher Schild,"4A Lyons St,Strathfield",Sydney,NSW,Corporate,1,High,19,Small Pack,Regular Air,10/10/2014,5.5,12.22,1,12.22,0.1,1.22,12.12,2.85,14.97
+5647-1,10/9/2014,Trudy Bell,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Consumer,12,High,119,Small Pack,Regular Air,10/9/2014,4.19,10.23,37,378.51,0.08,30.28,378.43,4.68,383.11
+5648-1,10/10/2014,Harold Dahlen,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Low,6,Small Box,Regular Air,10/17/2014,1.19,1.98,38,75.24,0.05,3.76,75.19,4.77,79.96
+5650-1,10/11/2014,Arthur Prichep,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Home Office,4,Medium,59,Wrap Bag,Regular Air,10/11/2014,11.11,19.84,43,853.12,0.03,25.59,853.09,4.1,857.19
+5651-1,10/15/2014,Vicky Freymann,"501 George St,Sydney",Sydney,NSW,Home Office,2,Low,115,Small Box,Express Air,10/19/2014,52.07,83.98,34,2855.32,0.06,171.32,2855.26,5.01,2860.27
+5653-1,10/16/2014,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Critical,24,Wrap Bag,Regular Air,10/17/2014,2.52,4,36,144,0.01,1.44,143.99,1.3,145.29
+5655-1,10/17/2014,Sam Craven,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Home Office,8,Medium,89,Small Pack,Regular Air,10/17/2014,5.19,12.98,11,142.78,0.08,11.42,142.7,3.14,145.84
+5655-2,10/17/2014,Sam Craven,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Home Office,8,Medium,24,Wrap Bag,Regular Air,10/19/2014,2.52,4,19,76,0.01,0.76,75.99,1.3,77.29
+5658-1,10/18/2014,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Not Specified,44,Small Box,Regular Air,10/20/2014,3.84,6.3,8,50.4,0.01,0.5,50.39,0.5,50.89
+5659-1,10/19/2014,Barry Franz,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,High,75,Small Box,Express Air,10/20/2014,4.46,10.89,4,43.56,0.05,2.18,43.51,4.5,48.01
+5661-1,10/20/2014,George Ashbrook,"506 Swan Street,Richmond",Melbourne,VIC,Small Business,8,Not Specified,30,Small Box,Regular Air,10/22/2014,8.31,15.98,38,607.24,0.1,60.72,607.14,6.5,613.64
+5663-1,10/21/2014,Roger Demir,"2/86 Enmore Rd,Enmore",Sydney,NSW,Consumer,2,Not Specified,138,Wrap Bag,Regular Air,10/22/2014,4.48,8.14,46,374.44,0,0,374.44,3.12,377.56
+5665-1,10/21/2014,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,Medium,31,Small Pack,Regular Air,10/21/2014,4.79,11.97,8,95.76,0.03,2.87,95.73,5.81,101.54
+5667-1,10/22/2014,Kelly Collister,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Consumer,9,High,58,Small Box,Regular Air,10/23/2014,3.4,5.4,22,118.8,0.1,11.88,118.7,7.78,126.48
+5669-1,10/23/2014,Caroline Jumper,"145 Ramsay St,Haberfield",Sydney,NSW,Corporate,4,Not Specified,49,Small Box,Regular Air,10/25/2014,8.92,29.74,19,565.06,0.1,56.51,564.96,6.64,571.6
+5670-1,10/26/2014,Catherine Glotzbach,"188 Pitt Street,Sydney",Sydney,NSW,Home Office,1,Medium,74,Small Box,Regular Air,10/27/2014,3.65,5.98,19,113.62,0.01,1.14,113.61,1.49,115.1
+5671-1,10/27/2014,Mike Gockenbach,"180 High Street,Windsor",Melbourne,VIC,Consumer,8,Low,116,Wrap Bag,Regular Air,10/31/2014,2.16,3.85,10,38.5,0.06,2.31,38.44,0.7,39.14
+5672-1,10/28/2014,Eugene Moren,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Home Office,3,Medium,139,Small Box,Regular Air,10/29/2014,17.84,34.99,29,1014.71,0.09,91.32,1014.62,5.5,1020.12
+5674-1,10/29/2014,Brendan Murry,"2/797 Botany Rd,Rosebery",Sydney,NSW,Corporate,2,High,31,Small Pack,Regular Air,10/31/2014,4.79,11.97,23,275.31,0.01,2.75,275.3,5.81,281.11
+5676-1,11/1/2014,John Murray,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Small Business,4,Not Specified,115,Small Box,Regular Air,11/3/2014,52.07,83.98,24,2015.52,0.05,100.78,2015.47,5.01,2020.48
+5677-1,11/2/2014,Lindsay Shagiari,"5/250 Old Northern Road ,Castle Hill",Sydney,NSW,Home Office,12,High,13,Small Box,Regular Air,11/4/2014,4.89,7.64,12,91.68,0.02,1.83,91.66,1.39,93.05
+5679-1,11/3/2014,Pete Armstrong,"506 Swan Street,Richmond",Melbourne,VIC,Consumer,8,Low,24,Wrap Bag,Regular Air,11/7/2014,2.52,4,32,128,0.09,11.52,127.91,1.3,129.21
+5680-1,11/3/2014,Becky Castell,"333-339 Enmore Rd,Marrickville",Sydney,NSW,Consumer,14,Medium,73,Small Box,Regular Air,11/4/2014,6.51,30.98,12,371.76,0,0,371.76,6.5,378.26
+5681-1,11/7/2014,Ritsa Hightower,"1/160 Anzac Parade,Kensington",Sydney,NSW,Corporate,6,Medium,113,Large Box,Express Air,11/9/2014,377.99,599.99,41,24599.59,0.07,1721.97,24599.52,24.49,24624.01
+5682-1,11/10/2014,Toby Carlisle,"6/15 Cross Street,Double Bay",Sydney,NSW,Home Office,5,High,113,Large Box,Regular Air,11/12/2014,377.99,599.99,20,11999.8,0.07,839.99,11999.73,24.49,12024.22
+5684-1,11/11/2014,Greg Hansen,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Critical,140,Wrap Bag,Regular Air,11/12/2014,0.94,1.88,36,67.68,0.1,6.77,67.58,0.79,68.37
+5685-1,11/16/2014,Julia Dunbar,"Qantas Domestic Terminal,Mascot",Sydney,NSW,Consumer,4,Not Specified,96,Small Box,Regular Air,11/18/2014,62.4,155.99,6,935.94,0.02,18.72,935.92,8.08,944
+5686-1,11/16/2014,Jill Stevenson,"181 Enmore Rd,Enmore",Sydney,NSW,Consumer,13,Low,75,Small Box,Regular Air,11/21/2014,4.46,10.89,8,87.12,0.09,7.84,87.03,4.5,91.53
+5687-1,11/17/2014,Giulietta Weimer,"48 Albion St,Surry Hills",Sydney,NSW,Corporate,6,High,85,Wrap Bag,Regular Air,11/19/2014,0.93,1.48,28,41.44,0.04,1.66,41.4,0.7,42.1
+5689-1,11/18/2014,Jamie Kunitz,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Corporate,4,Critical,70,Wrap Bag,Regular Air,11/20/2014,1.31,2.84,12,34.08,0.1,3.41,33.98,0.93,34.91
+5690-1,11/19/2014,Brendan Murry,"2/797 Botany Rd,Rosebery",Sydney,NSW,Corporate,2,Medium,86,Small Box,Express Air,11/21/2014,67.73,165.2,46,7599.2,0.02,151.98,7599.18,19.99,7619.17
+5692-1,11/21/2014,Harold Ryan,"4A Lyons St,Strathfield",Sydney,NSW,Home Office,1,Medium,29,Small Box,Regular Air,11/23/2014,32.02,152.48,29,4421.92,0.09,397.97,4421.83,4,4425.83
+5693-1,11/22/2014,Julia Barnett,"485 Crown St,Surry Hills",Sydney,NSW,Home Office,5,High,36,Small Box,Regular Air,11/22/2014,13.88,22.38,10,223.8,0.01,2.24,223.79,15.1,238.89
+5695-1,11/22/2014,Joseph Airdo,"Westfield Sydney,Sydney",Sydney,NSW,Consumer,6,Critical,70,Wrap Bag,Regular Air,11/24/2014,1.31,2.84,39,110.76,0.05,5.54,110.71,0.93,111.64
+5696-1,11/23/2014,Nicole Hansen,"184 King Street,Newtown",Sydney,NSW,Small Business,10,Critical,49,Small Box,Express Air,11/26/2014,8.92,29.74,34,1011.16,0.09,91,1011.07,6.64,1017.71
+5698-1,11/23/2014,Giulietta Dortch,"180 High Street,Windsor",Melbourne,VIC,Consumer,8,Low,72,Jumbo Drum,Delivery Truck,11/27/2014,278.99,449.99,34,15299.66,0.02,305.99,15299.64,49,15348.64
+5699-1,11/26/2014,Maurice Satty,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,High,30,Small Box,Regular Air,11/28/2014,8.31,15.98,5,79.9,0.08,6.39,79.82,6.5,86.32
+5701-1,11/30/2014,Lena Creighton,"127 Liverpool St,Sydney",Sydney,NSW,Home Office,2,High,60,Wrap Bag,Express Air,12/2/2014,3.32,5.18,9,46.62,0.09,4.2,46.53,2.04,48.57
+5702-1,12/1/2014,Ritsa Hightower,"1/160 Anzac Parade,Kensington",Sydney,NSW,Corporate,6,Low,76,Wrap Bag,Express Air,12/5/2014,1.95,3.98,4,15.92,0.02,0.32,15.9,0.83,16.73
+5703-1,12/1/2014,Jesus Ocampo,"60 Commercial Rd,Prahran",Melbourne,VIC,Small Business,9,Low,99,Small Pack,Regular Air,12/8/2014,16.8,40.97,47,1925.59,0.04,77.02,1925.55,8.99,1934.54
+5705-1,12/4/2014,Ed Braxton,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Medium,93,Small Box,Regular Air,12/5/2014,14.95,34.76,8,278.08,0.07,19.47,278.01,8.22,286.23
+5706-1,12/5/2014,Janet Martin,"24 Addison Rd,Marrickville",Sydney,NSW,Corporate,13,Medium,47,Small Box,Express Air,12/6/2014,2.25,3.69,41,151.29,0.08,12.1,151.21,2.5,153.71
+5708-1,12/6/2014,Vivek Gonzalez,"53 Riley Street,Woolloomooloo",Sydney,NSW,Consumer,1,Not Specified,134,Small Box,Express Air,12/8/2014,1.82,2.84,21,59.64,0.01,0.6,59.63,5.44,65.07
+5710-1,12/8/2014,Robert Barroso,"163 Concord Road,North Strathfield",Sydney,NSW,Small Business,10,High,54,Small Box,Regular Air,12/10/2014,178.83,415.88,4,1663.52,0.03,49.91,1663.49,11.37,1674.86
+5711-1,12/9/2014,Linda Southworth,"359 Crown Street,Surry Hills",Sydney,NSW,Consumer,4,Medium,48,Small Box,Regular Air,12/11/2014,12.39,19.98,48,959.04,0.01,9.59,959.03,5.77,964.8
+5712-1,12/10/2014,Bart Watters,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Corporate,12,Not Specified,119,Small Pack,Regular Air,12/11/2014,4.19,10.23,46,470.58,0.01,4.71,470.57,4.68,475.25
+5713-1,12/10/2014,Marc Crier,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Low,34,Small Pack,Regular Air,12/12/2014,1.87,8.12,11,89.32,0.06,5.36,89.26,2.83,92.09
+5715-1,12/13/2014,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,High,17,Small Box,Regular Air,12/15/2014,4.59,7.28,36,262.08,0.05,13.1,262.03,11.15,273.18
+5717-1,12/16/2014,Harry Greene,"470 Anzac Parade,Kingsford",Sydney,NSW,Corporate,1,Medium,87,Small Box,Regular Air,12/18/2014,2.18,3.52,23,80.96,0.07,5.67,80.89,6.83,87.72
+5718-1,12/22/2014,Theone Pippenger,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Medium,135,Wrap Bag,Regular Air,12/23/2014,0.92,1.81,48,86.88,0.1,8.69,86.78,1.56,88.34
+5719-1,12/25/2014,Brian Stugart,"88 Oxford St,Woollahra",Sydney,NSW,Consumer,10,Medium,72,Large Box,Regular Air,12/27/2014,216,449.99,10,4499.9,0.01,45,4499.89,24.49,4524.38
+5720-1,12/26/2014,Arthur Gainer,"180 High Street,Windsor",Melbourne,VIC,Consumer,8,High,57,Wrap Bag,Regular Air,12/29/2014,1.6,2.62,37,96.94,0.01,0.97,96.93,0.8,97.73
+5721-1,12/26/2014,Greg Guthrie,"523 King St,Newtown",Sydney,NSW,Small Business,7,High,22,Small Box,Regular Air,12/29/2014,3.52,5.68,42,238.56,0.05,11.93,238.51,1.39,239.9
+5722-1,12/27/2014,Matthew Grinstein,"105 Pitt St,Sydney",Sydney,NSW,Small Business,10,Critical,27,Small Box,Express Air,12/28/2014,1.59,2.61,37,96.57,0.09,8.69,96.48,0.5,96.98
+5724-1,12/27/2014,Todd Boyes,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Small Business,14,High,93,Small Box,Regular Air,12/27/2014,14.95,34.76,10,347.6,0.03,10.43,347.57,8.22,355.79
+5724-2,12/27/2014,Todd Boyes,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Small Business,14,High,111,Wrap Bag,Regular Air,12/29/2014,2.31,3.78,41,154.98,0.02,3.1,154.96,0.71,155.67
+5728-1,12/28/2014,Charles Crestani,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,High,122,Small Box,Regular Air,12/30/2014,7.13,20.98,47,986.06,0.01,9.86,986.05,5.42,991.47
+5730-1,12/28/2014,Tim Taslimi,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Not Specified,94,Small Box,Regular Air,12/28/2014,22.18,54.1,5,270.5,0.04,10.82,270.46,19.99,290.45
+5731-1,12/30/2014,Christine Sundaresam,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Small Business,14,Not Specified,134,Small Box,Regular Air,12/31/2014,1.82,2.84,27,76.68,0.03,2.3,76.65,5.44,82.09
+5732-1,1/1/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Not Specified,141,Small Pack,Regular Air,1/3/2015,2.87,6.84,35,239.4,0.01,2.39,239.39,4.42,243.81
+5734-1,1/2/2015,Ellis Ballard,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Low,38,Small Box,Regular Air,1/4/2015,19.78,45.99,50,2299.5,0,0,2299.5,4.99,2304.49
+5736-1,1/2/2015,Dave Hallsten,"1 John St,Waterloo",Sydney,NSW,Home Office,10,Medium,142,Wrap Bag,Regular Air,1/4/2015,2.68,6.08,30,182.4,0.04,7.3,182.36,1.17,183.53
+5737-1,1/7/2015,Barry Franz,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,Medium,11,Small Box,Regular Air,1/9/2015,5.33,8.6,48,412.8,0.02,8.26,412.78,6.19,418.97
+5738-1,1/7/2015,Sarah Brown,"10 O'Connell St,Sydney",Sydney,NSW,Consumer,7,Not Specified,75,Small Box,Express Air,1/9/2015,4.46,10.89,37,402.93,0,0,402.93,4.5,407.43
+5740-1,1/9/2015,Katrina Willman,"120 Hardware St,Melbourne",Melbourne,VIC,Consumer,9,High,12,Wrap Bag,Regular Air,1/11/2015,0.87,1.81,9,16.29,0.09,1.47,16.2,0.75,16.95
+5741-1,1/10/2015,Max Jones,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Home Office,8,Medium,36,Small Box,Regular Air,1/12/2015,13.88,22.38,50,1119,0.07,78.33,1118.93,15.1,1134.03
+5742-1,1/10/2015,Joy Smith,"221 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,Low,70,Wrap Bag,Regular Air,1/10/2015,1.31,2.84,21,59.64,0,0,59.64,0.93,60.57
+5743-1,1/11/2015,Katherine Nockton,"Crown Complex,Southbank",Melbourne,VIC,Corporate,9,Not Specified,52,Small Pack,Regular Air,1/12/2015,20.18,35.41,1,35.41,0,0,35.41,1.99,37.4
+5745-1,1/11/2015,Troy Blackwell,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Home Office,3,Not Specified,5,Wrap Bag,Regular Air,1/13/2015,0.9,2.1,23,48.3,0.06,2.9,48.24,0.7,48.94
+5747-1,1/12/2015,Jim Sink,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Corporate,14,Not Specified,22,Small Box,Regular Air,1/14/2015,3.52,5.68,18,102.24,0.06,6.13,102.18,1.39,103.57
+5749-1,1/12/2015,Jenna Caffey,"470 Anzac Parade,Kingsford",Sydney,NSW,Consumer,1,Critical,56,Wrap Bag,Regular Air,1/13/2015,2.9,4.76,42,199.92,0.07,13.99,199.85,0.88,200.73
+5750-1,1/13/2015,Stephanie Ulpright,"541 Church St ,Richmond",Melbourne,VIC,Consumer,9,High,141,Small Pack,Regular Air,1/14/2015,2.87,6.84,26,177.84,0.08,14.23,177.76,4.42,182.18
+5752-1,1/13/2015,Max Jones,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Home Office,8,Not Specified,5,Wrap Bag,Regular Air,1/15/2015,0.9,2.1,34,71.4,0.02,1.43,71.38,0.7,72.08
+5754-1,1/14/2015,Maya Herman,"273 George Street,Sydney",Sydney,NSW,Corporate,5,Critical,36,Small Box,Regular Air,1/15/2015,13.88,22.38,39,872.82,0.07,61.1,872.75,15.1,887.85
+5755-1,1/15/2015,Clay Rozendal,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Corporate,8,Critical,130,Small Box,Regular Air,1/17/2015,1.84,2.88,27,77.76,0.06,4.67,77.7,0.99,78.69
+5757-1,1/16/2015,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,High,125,Jumbo Drum,Delivery Truck,1/17/2015,315.61,500.97,37,18535.89,0,0,18535.89,69.3,18605.19
+5759-1,1/17/2015,Art Foster,"Westfield Parramatta,Parramatta",Sydney,NSW,Home Office,11,High,34,Small Pack,Regular Air,1/18/2015,1.87,8.12,47,381.64,0.07,26.71,381.57,2.83,384.4
+5760-1,1/17/2015,Doug Jacobs,"1/160 Anzac Parade,Kensington",Sydney,NSW,Home Office,6,Medium,8,Small Box,Express Air,1/19/2015,99.39,162.93,48,7820.64,0.04,312.83,7820.6,19.99,7840.59
+5762-1,1/20/2015,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Consumer,14,Not Specified,138,Wrap Bag,Regular Air,1/21/2015,4.48,8.14,23,187.22,0.07,13.11,187.15,3.12,190.27
+5762-2,1/20/2015,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Consumer,14,Not Specified,42,Small Box,Regular Air,1/21/2015,1.18,1.88,33,62.04,0.05,3.1,61.99,1.49,63.48
+5766-1,1/21/2015,Jennifer Braxton,"523 King St,Newtown",Sydney,NSW,Small Business,7,High,47,Small Box,Regular Air,1/23/2015,2.25,3.69,13,47.97,0.05,2.4,47.92,2.5,50.42
+5768-1,1/22/2015,Bill Donatelli,"359 Crown Street,Surry Hills",Sydney,NSW,Corporate,4,Critical,25,Medium Box,Regular Air,1/23/2015,8.82,20.99,3,62.97,0.01,0.63,62.96,4.81,67.77
+5768-2,1/22/2015,Bill Donatelli,"359 Crown Street,Surry Hills",Sydney,NSW,Corporate,4,Critical,36,Small Box,Express Air,1/22/2015,13.88,22.38,42,939.96,0.07,65.8,939.89,15.1,954.99
+5768-2,1/22/2015,Bill Donatelli,"359 Crown Street,Surry Hills",Sydney,NSW,Corporate,4,Critical,28,Small Box,Regular Air,1/24/2015,6.39,19.98,45,899.1,0.06,53.95,899.04,4,903.04
+5773-1,1/23/2015,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Not Specified,3,Wrap Bag,Regular Air,1/25/2015,2.41,3.71,14,51.94,0.09,4.67,51.85,1.93,53.78
+5775-1,1/26/2015,Darrin Sayre,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,Not Specified,15,Wrap Bag,Regular Air,1/28/2015,0.71,1.14,42,47.88,0.06,2.87,47.82,0.7,48.52
+5777-1,1/28/2015,Phillip Flathmann,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Small Business,12,Medium,100,Small Box,Regular Air,1/29/2015,2.29,3.69,4,14.76,0.01,0.15,14.75,0.5,15.25
+5778-1,1/30/2015,Corinna Mitchell,"27 Greenfield Parade,Bankstown",Sydney,NSW,Corporate,12,Not Specified,29,Small Box,Regular Air,1/31/2015,32.02,152.48,21,3202.08,0.03,96.06,3202.05,4,3206.05
+5779-1,1/31/2015,Carl Ludwig,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,High,72,Jumbo Drum,Delivery Truck,2/2/2015,278.99,449.99,25,11249.75,0.01,112.5,11249.74,49,11298.74
+5781-1,2/1/2015,Cari Schnelling,"273 George Street,Sydney",Sydney,NSW,Home Office,5,High,88,Large Box,Regular Air,2/3/2015,56.16,136.98,2,273.96,0.08,21.92,273.88,24.49,298.37
+5782-1,2/1/2015,Julia Dunbar,"Qantas Domestic Terminal,Mascot",Sydney,NSW,Consumer,4,Critical,83,Small Box,Regular Air,2/3/2015,18.38,29.17,43,1254.31,0.05,62.72,1254.26,6.27,1260.53
+5783-1,2/2/2015,Paul Knutson,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,Critical,72,Jumbo Drum,Delivery Truck,2/3/2015,278.99,449.99,16,7199.84,0.09,647.99,7199.75,49,7248.75
+5784-1,2/3/2015,Ionia McGrath,"Westfield Parramatta,Parramatta",Sydney,NSW,Small Business,11,High,25,Medium Box,Regular Air,2/6/2015,8.82,20.99,23,482.77,0.1,48.28,482.67,4.81,487.48
+5786-1,2/3/2015,Claire Good,"7/370-374 Victoria Ave,Chatswood",Sydney,NSW,Home Office,11,Medium,53,Wrap Bag,Express Air,2/3/2015,1.76,3.38,5,16.9,0.08,1.35,16.82,0.85,17.67
+5787-1,2/3/2015,Tom Stivers,"21 Wentworth St,Parramatta",Sydney,NSW,Corporate,7,Low,31,Small Pack,Regular Air,3/2/2015,4.79,11.97,17,203.49,0.03,6.1,203.46,5.81,209.27
+5788-1,2/4/2015,Brad Thomas,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Home Office,1,Medium,37,Wrap Bag,Regular Air,2/6/2015,21.56,36.55,34,1242.7,0.03,37.28,1242.67,13.89,1256.56
+5790-1,2/4/2015,David Smith,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Small Business,3,Critical,111,Wrap Bag,Regular Air,2/6/2015,2.31,3.78,34,128.52,0.03,3.86,128.49,0.71,129.2
+5791-1,2/7/2015,Carlos Soltero,"1/41B Elizabeth Bay Rd,Elizabeth Bay",Sydney,NSW,Small Business,10,Medium,50,Small Box,Regular Air,2/18/2015,60.59,100.98,13,1312.74,0.04,52.51,1312.7,7.18,1319.88
+5793-1,2/8/2015,Doug Bickford,"221 Barkly St,St Kilda",Melbourne,VIC,Small Business,9,Medium,8,Small Box,Regular Air,2/10/2015,99.39,162.93,39,6354.27,0.03,190.63,6354.24,19.99,6374.23
+5795-1,2/9/2015,Linda Southworth,"359 Crown Street,Surry Hills",Sydney,NSW,Consumer,4,Low,60,Wrap Bag,Express Air,2/16/2015,3.32,5.18,11,56.98,0.06,3.42,56.92,2.04,58.96
+5797-1,2/12/2015,Michelle Moray,"310 Wattle St,Ultimo",Sydney,NSW,Corporate,7,Low,89,Small Pack,Regular Air,2/12/2015,5.19,12.98,50,649,0.08,51.92,648.92,3.14,652.06
+5799-1,2/12/2015,Dorris Love,"359 Crown Street,Surry Hills",Sydney,NSW,Home Office,4,Not Specified,45,Small Box,Regular Air,2/13/2015,156.5,300.97,41,12339.77,0.1,1233.98,12339.67,7.18,12346.85
+5800-1,2/14/2015,Ralph Arnett,"88 Oxford St,Woollahra",Sydney,NSW,Consumer,10,Medium,17,Small Box,Express Air,2/15/2015,4.59,7.28,5,36.4,0.05,1.82,36.35,11.15,47.5
+5801-1,2/17/2015,Shahid Shariari,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Corporate,3,Medium,31,Small Pack,Regular Air,2/19/2015,4.79,11.97,30,359.1,0.08,28.73,359.02,5.81,364.83
+5803-1,2/18/2015,Jeremy Pistek,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Corporate,3,High,79,Small Box,Regular Air,2/20/2015,1.84,2.88,22,63.36,0.1,6.34,63.26,1.49,64.75
+5804-1,2/18/2015,Sandra Glassco,"224A Gertrude St,Fitzroy",Melbourne,VIC,Home Office,8,High,102,Small Box,Regular Air,2/21/2015,3.37,5.53,12,66.36,0.06,3.98,66.3,6.98,73.28
+5804-2,2/18/2015,Sandra Glassco,"224A Gertrude St,Fitzroy",Melbourne,VIC,Home Office,8,High,116,Wrap Bag,Regular Air,2/19/2015,2.16,3.85,12,46.2,0.1,4.62,46.1,0.7,46.8
+5806-1,2/23/2015,Brian Thompson,"154 Castlereagh St,Sydney",Sydney,NSW,Home Office,2,Critical,13,Small Box,Regular Air,2/26/2015,4.89,7.64,32,244.48,0.06,14.67,244.42,1.39,245.81
+5807-1,2/24/2015,Ann Blume,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Critical,100,Small Box,Regular Air,2/24/2015,2.29,3.69,12,44.28,0.02,0.89,44.26,0.5,44.76
+5809-1,2/27/2015,Roy French,"78 Stanley St,Darlinghurst",Sydney,NSW,Consumer,4,High,130,Small Box,Express Air,2/28/2015,1.84,2.88,9,25.92,0,0,25.92,0.99,26.91
+5811-1,3/1/2015,Anne McFarland,"834 Bourke St,Waterloo",Sydney,NSW,Consumer,10,Low,30,Small Box,Regular Air,3/1/2015,10.07,15.98,26,415.48,0.01,4.15,415.47,4,419.47
+5813-1,3/2/2015,Sarah Bern,"1-2/299 Sussex St,Sydney",Sydney,NSW,Corporate,7,Medium,143,Small Box,Express Air,3/3/2015,3.99,6.23,4,24.92,0.1,2.49,24.82,6.97,31.79
+5814-1,3/2/2015,Thomas Thornton,"222 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,Critical,18,Wrap Bag,Regular Air,3/4/2015,1.3,2.88,43,123.84,0.1,12.38,123.74,1.01,124.75
+5815-1,3/3/2015,Nicole Brennan,"310 Wattle St,Ultimo",Sydney,NSW,Home Office,7,High,101,Wrap Bag,Regular Air,3/4/2015,5.22,9.85,41,403.85,0.05,20.19,403.8,4.82,408.62
+5816-1,3/4/2015,Tracy Poddar,"834 Bourke St,Waterloo",Sydney,NSW,Corporate,10,High,116,Wrap Bag,Regular Air,3/6/2015,2.16,3.85,4,15.4,0.09,1.39,15.31,0.7,16.01
+5818-1,3/6/2015,Trudy Brown,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,High,11,Small Box,Regular Air,3/7/2015,5.33,8.6,2,17.2,0.05,0.86,17.15,6.19,23.34
+5819-1,3/11/2015,Anthony Garverick,"470 Anzac Parade,Kingsford",Sydney,NSW,Small Business,1,High,40,Wrap Bag,Regular Air,3/12/2015,3.75,7.08,12,84.96,0.1,8.5,84.86,2.35,87.21
+5821-1,3/12/2015,Susan Pistek,"2a/285A Crown St,Surry Hills",Sydney,NSW,Home Office,4,Critical,77,Small Box,Regular Air,3/13/2015,1.94,3.08,4,12.32,0.03,0.37,12.29,0.99,13.28
+5822-1,3/15/2015,Carlos Soltero,"1/41B Elizabeth Bay Rd,Elizabeth Bay",Sydney,NSW,Consumer,10,High,87,Small Box,Regular Air,3/17/2015,2.18,3.52,49,172.48,0.08,13.8,172.4,6.83,179.23
+5824-1,3/16/2015,Keith Dawkins,"402 Argyle St,Moss Vale",Sydney,NSW,Home Office,6,Not Specified,125,Jumbo Drum,Delivery Truck,3/17/2015,315.61,500.97,3,1502.91,0.06,90.17,1502.85,69.3,1572.15
+5826-1,3/16/2015,Harold Pawlan,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,High,93,Small Box,Regular Air,3/16/2015,14.95,34.76,43,1494.68,0,0,1494.68,8.22,1502.9
+5827-1,3/17/2015,Natalie Webber,"98-104 Parramatta Rd,Camperdown",Sydney,NSW,Consumer,4,Critical,37,Wrap Bag,Regular Air,3/19/2015,21.56,36.55,2,73.1,0.03,2.19,73.07,13.89,86.96
+5829-1,3/17/2015,Jonathan Howell,"180 High Street,Windsor",Melbourne,VIC,Consumer,8,Medium,48,Small Box,Regular Air,3/17/2015,12.39,19.98,32,639.36,0.05,31.97,639.31,5.77,645.08
+5831-1,3/18/2015,Erin Creighton,"523 King St,Newtown",Sydney,NSW,Corporate,7,Critical,141,Small Pack,Regular Air,3/21/2015,2.87,6.84,35,239.4,0.02,4.79,239.38,4.42,243.8
+5832-1,3/20/2015,Sibella Parks,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Critical,43,Small Box,Express Air,3/21/2015,6.4,29.1,50,1455,0.09,130.95,1454.91,4,1458.91
+5834-1,3/21/2015,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Small Business,9,Critical,40,Wrap Bag,Regular Air,3/22/2015,3.75,7.08,31,219.48,0.01,2.19,219.47,2.35,221.82
+5835-1,3/22/2015,Tom Ashbrook,"Westfield Sydney,Sydney",Sydney,NSW,Home Office,6,High,17,Small Box,Express Air,3/23/2015,4.59,7.28,40,291.2,0.04,11.65,291.16,11.15,302.31
+5837-1,3/24/2015,Astrea Jones,"485 Crown St,Surry Hills",Sydney,NSW,Corporate,5,Medium,102,Small Box,Regular Air,3/26/2015,3.37,5.53,23,127.19,0.1,12.72,127.09,6.98,134.07
+5838-1,3/24/2015,Brad Norvell,"120 Hardware St,Melbourne",Melbourne,VIC,Corporate,9,Critical,22,Small Box,Regular Air,3/25/2015,3.52,5.68,8,45.44,0.02,0.91,45.42,1.39,46.81
+5840-1,3/25/2015,Ed Braxton,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Not Specified,25,Medium Box,Regular Air,3/27/2015,8.82,20.99,45,944.55,0.03,28.34,944.52,4.81,949.33
+5841-1,3/25/2015,Erin Creighton,"523 King St,Newtown",Sydney,NSW,Corporate,7,Not Specified,80,Wrap Bag,Express Air,3/27/2015,1.53,2.78,34,94.52,0,0,94.52,1.34,95.86
+5842-1,3/30/2015,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,VIC,Small Business,8,Medium,35,Small Box,Regular Air,4/1/2015,54.52,100.97,13,1312.61,0.06,78.76,1312.55,7.18,1319.73
+5843-1,4/4/2015,Valerie Mitchum,"Westfield Sydney,Sydney",Sydney,NSW,Home Office,6,Medium,4,Jumbo Drum,Delivery Truck,4/5/2015,75,120.97,38,4596.86,0.09,413.72,4596.77,26.3,4623.07
+5845-1,4/4/2015,Michael Paige,"506 Swan Street,Richmond",Melbourne,VIC,Small Business,8,High,114,Wrap Bag,Regular Air,4/5/2015,2.59,3.98,2,7.96,0.04,0.32,7.92,2.97,10.89
+5847-1,4/8/2015,Carol Triggs,"644 George St,Sydney",Sydney,NSW,Home Office,13,Critical,102,Small Box,Regular Air,4/9/2015,3.37,5.53,9,49.77,0.09,4.48,49.68,6.98,56.66
+5848-1,4/8/2015,Craig Molinari,"Shop 1 797 Botany Rd,Rosebery",Sydney,NSW,Small Business,4,Not Specified,51,Wrap Bag,Regular Air,4/9/2015,3.48,5.43,13,70.59,0.02,1.41,70.57,0.95,71.52
+5850-1,4/10/2015,Bradley Nguyen,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,High,144,Small Box,Regular Air,4/13/2015,3.53,8.62,50,431,0.07,30.17,430.93,4.5,435.43
+5851-1,4/10/2015,Tom Stivers,"21 Wentworth St,Parramatta",Sydney,NSW,Small Business,7,Critical,28,Small Box,Regular Air,4/12/2015,6.39,19.98,35,699.3,0.1,69.93,699.2,4,703.2
+5852-1,4/10/2015,Katrina Edelman,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Corporate,14,Critical,80,Wrap Bag,Regular Air,4/11/2015,1.53,2.78,19,52.82,0.06,3.17,52.76,1.34,54.1
+5854-1,4/11/2015,Anthony Rawles,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Small Business,3,Medium,30,Small Box,Regular Air,4/12/2015,10.07,15.98,40,639.2,0.01,6.39,639.19,4,643.19
+5856-1,4/13/2015,Alejandro Grove,"155 Oxford Street,Darlinghurst",Sydney,NSW,Corporate,2,High,116,Wrap Bag,Regular Air,4/14/2015,2.16,3.85,42,161.7,0.01,1.62,161.69,0.7,162.39
+5857-1,4/18/2015,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,Medium,102,Small Box,Regular Air,4/19/2015,3.37,5.53,30,165.9,0.01,1.66,165.89,6.98,172.87
+5859-1,4/18/2015,Arthur Gainer,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Medium,102,Small Box,Regular Air,4/19/2015,3.37,5.53,27,149.31,0.04,5.97,149.27,6.98,156.25
+5861-1,4/18/2015,Trudy Schmidt,"333-339 Enmore Rd,Marrickville",Sydney,NSW,Small Business,14,Medium,84,Small Box,Regular Air,4/18/2015,3.5,5.74,23,132.02,0.06,7.92,131.96,5.01,136.97
+5863-1,4/19/2015,Thais Sissman,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Not Specified,28,Small Box,Express Air,4/19/2015,6.39,19.98,6,119.88,0.08,9.59,119.8,4,123.8
+5865-1,4/20/2015,Art Ferguson,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Corporate,3,High,61,Wrap Bag,Express Air,4/22/2015,2.98,5.84,12,70.08,0.02,1.4,70.06,0.83,70.89
+5867-1,4/23/2015,Deborah Brumfield,"501 George St,Sydney",Sydney,NSW,Small Business,2,High,113,Large Box,Regular Air,4/23/2015,377.99,599.99,50,29999.5,0.09,2699.96,29999.41,24.49,30023.9
+5868-1,4/24/2015,Christopher Schild,"4A Lyons St,Strathfield",Sydney,NSW,Corporate,1,Low,53,Wrap Bag,Regular Air,4/24/2015,1.76,3.38,31,104.78,0.04,4.19,104.74,0.85,105.59
+5869-1,4/25/2015,Peter McVee,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Critical,71,Wrap Bag,Regular Air,4/26/2015,0.24,1.26,35,44.1,0.1,4.41,44,0.7,44.7
+5869-2,4/25/2015,Peter McVee,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Critical,2,Wrap Bag,Regular Air,4/27/2015,2.39,4.26,8,34.08,0.1,3.41,33.98,1.2,35.18
+5870-1,4/25/2015,Frank Carlisle,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Critical,72,Large Box,Regular Air,4/27/2015,216,449.99,2,899.98,0.08,72,899.9,24.49,924.39
+5872-1,4/26/2015,Greg Tran,"Crown Complex,Southbank",Melbourne,VIC,Home Office,9,Critical,36,Small Box,Regular Air,4/28/2015,13.88,22.38,6,134.28,0,0,134.28,15.1,149.38
+5873-1,4/28/2015,Dianna Arnett,"99 Lygon Street,East Brunswick",Melbourne,VIC,Home Office,8,Low,74,Small Box,Express Air,4/30/2015,3.65,5.98,50,299,0.09,26.91,298.91,1.49,300.4
+5875-1,4/28/2015,Cindy Schnelling,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Corporate,8,Not Specified,125,Jumbo Drum,Delivery Truck,5/1/2015,315.61,500.97,44,22042.68,0.09,1983.84,22042.59,69.3,22111.89
+5877-1,4/29/2015,Chuck Clark,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Low,130,Small Box,Regular Air,5/4/2015,1.84,2.88,29,83.52,0.03,2.51,83.49,0.99,84.48
+5879-1,4/30/2015,Pauline Webber,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Consumer,9,High,81,Small Box,Regular Air,5/2/2015,2.26,3.58,7,25.06,0.09,2.26,24.97,5.47,30.44
+5881-1,5/1/2015,Chad McGuire,"73 MacLeay St,Potts Point",Sydney,NSW,Small Business,6,Not Specified,137,Small Box,Regular Air,5/2/2015,4.03,9.38,31,290.78,0.08,23.26,290.7,7.28,297.98
+5882-1,5/2/2015,Denny Blanton,"105 Pitt St,Sydney",Sydney,NSW,Home Office,10,Critical,16,Small Pack,Regular Air,5/3/2015,3.42,8.34,21,175.14,0.03,5.25,175.11,2.64,177.75
+5884-1,5/3/2015,Suzanne McNair,"Crown Complex,Southbank",Melbourne,VIC,Corporate,8,Critical,30,Small Box,Regular Air,5/5/2015,10.07,15.98,26,415.48,0.03,12.46,415.45,4,419.45
+5885-1,5/4/2015,Guy Armstrong,"6 Mary St,Newtown",Sydney,NSW,Corporate,2,High,126,Small Box,Regular Air,5/5/2015,84.22,210.55,18,3789.9,0.05,189.5,3789.85,9.99,3799.84
+5886-1,5/6/2015,Michelle Lonsdale,"180 High Street,Windsor",Melbourne,VIC,Home Office,8,Low,36,Small Box,Regular Air,5/8/2015,13.88,22.38,45,1007.1,0.05,50.36,1007.05,15.1,1022.15
+5887-1,5/11/2015,Bill Stewart,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Medium,119,Small Pack,Regular Air,5/13/2015,4.19,10.23,46,470.58,0.05,23.53,470.53,4.68,475.21
+5887-2,5/11/2015,Bill Stewart,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Medium,74,Small Box,Regular Air,5/13/2015,3.65,5.98,4,23.92,0.07,1.67,23.85,1.49,25.34
+5891-1,5/12/2015,Sean ODonnell,"541 Church St ,Richmond",Melbourne,VIC,Corporate,9,High,129,Wrap Bag,Regular Air,5/14/2015,1.88,3.14,50,157,0,0,157,1.14,158.14
+5893-1,5/14/2015,Ricardo Block,"106 Ebley Street,Bondi Junction",Sydney,NSW,Corporate,5,Medium,71,Wrap Bag,Express Air,5/14/2015,0.24,1.26,35,44.1,0.06,2.65,44.04,0.7,44.74
+5894-1,5/14/2015,Shui Tom,"1 John Street,Waterloo",Sydney,NSW,Home Office,10,High,54,Small Box,Regular Air,5/16/2015,178.83,415.88,11,4574.68,0.06,274.48,4574.62,11.37,4585.99
+5896-1,5/15/2015,Penelope Sewall,"96 Liverpool St,Sydney",Sydney,NSW,Home Office,2,High,89,Small Pack,Regular Air,5/17/2015,5.19,12.98,23,298.54,0.01,2.99,298.53,3.14,301.67
+5897-1,5/17/2015,Muhammed MacIntyre,"106 Ebley Street,Bondi Junction",Sydney,NSW,Small Business,5,High,69,Wrap Bag,Regular Air,5/18/2015,3.88,6.47,7,45.29,0.02,0.91,45.27,1.22,46.49
+5898-1,5/17/2015,Frank Hawley,"Shop 1 797 Botany Rd,Rosebery",Sydney,NSW,Home Office,4,Not Specified,48,Small Box,Regular Air,5/20/2015,12.39,19.98,33,659.34,0.09,59.34,659.25,5.77,665.02
+5900-1,5/18/2015,Sibella Parks,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Not Specified,6,Small Box,Regular Air,5/18/2015,1.19,1.98,29,57.42,0.09,5.17,57.33,4.77,62.1
+5902-1,5/18/2015,Brian DeCherney,"523 King St,Newtown",Sydney,NSW,Corporate,7,Low,52,Small Pack,Regular Air,5/25/2015,20.18,35.41,1,35.41,0.1,3.54,35.31,1.99,37.3
+5904-1,5/19/2015,Carlos Meador,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Critical,79,Small Box,Regular Air,5/20/2015,1.84,2.88,16,46.08,0.05,2.3,46.03,1.49,47.52
+5906-1,5/20/2015,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,High,79,Small Box,Regular Air,5/23/2015,1.84,2.88,26,74.88,0.08,5.99,74.8,1.49,76.29
+5907-1,5/20/2015,Allen Armold,"224A Gertrude St,Fitzroy",Melbourne,VIC,Home Office,8,Critical,52,Small Pack,Regular Air,5/22/2015,20.18,35.41,49,1735.09,0.02,34.7,1735.07,1.99,1737.06
+5908-1,5/20/2015,Alan Shonely,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Small Business,12,Critical,21,Small Box,Regular Air,5/21/2015,81.59,159.99,19,3039.81,0.1,303.98,3039.71,5.5,3045.21
+5909-1,5/22/2015,Thomas Boland,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Corporate,3,Critical,111,Wrap Bag,Regular Air,5/24/2015,2.31,3.78,19,71.82,0.03,2.15,71.79,0.71,72.5
+5911-1,5/24/2015,Maurice Satty,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Medium,5,Wrap Bag,Regular Air,5/25/2015,0.9,2.1,17,35.7,0.09,3.21,35.61,0.7,36.31
+5913-1,5/24/2015,Mike Gockenbach,"180 High Street,Windsor",Melbourne,VIC,Consumer,8,Low,40,Wrap Bag,Regular Air,5/28/2015,3.75,7.08,49,346.92,0,0,346.92,2.35,349.27
+5914-1,5/26/2015,Patrick Ryan,"Cnr Williams Road & Lechlade Ave,South Yarra",Melbourne,VIC,Corporate,9,Critical,7,Wrap Bag,Regular Air,5/28/2015,1.09,2.6,8,20.8,0.04,0.83,20.76,2.4,23.16
+5916-1,5/27/2015,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Not Specified,28,Small Box,Regular Air,5/29/2015,6.39,19.98,7,139.86,0.09,12.59,139.77,4,143.77
+5917-1,5/28/2015,Lynn Smith,"61A Bay Road,Wollstonecraft",Sydney,NSW,Corporate,2,Not Specified,7,Wrap Bag,Express Air,5/29/2015,1.09,2.6,42,109.2,0.05,5.46,109.15,2.4,111.55
+5919-1,5/29/2015,Cindy Schnelling,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Corporate,8,High,130,Small Box,Regular Air,5/31/2015,1.84,2.88,24,69.12,0.07,4.84,69.05,0.99,70.04
+5921-1,5/31/2015,George Bell,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,Not Specified,25,Medium Box,Express Air,6/2/2015,8.82,20.99,18,377.82,0,0,377.82,4.81,382.63
+5923-1,5/31/2015,Pete Armstrong,"506 Swan Street,Richmond",Melbourne,VIC,Consumer,8,Medium,34,Small Pack,Regular Air,6/1/2015,1.87,8.12,3,24.36,0.03,0.73,24.33,2.83,27.16
+5925-1,5/31/2015,Lauren Leatherbury,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Home Office,12,Low,93,Small Box,Regular Air,6/5/2015,14.95,34.76,43,1494.68,0.08,119.57,1494.6,8.22,1502.82
+5927-1,6/1/2015,Nathan Mautz,"412 Brunswick St,Fitzroy",Melbourne,VIC,Corporate,8,Low,119,Small Pack,Regular Air,6/6/2015,4.19,10.23,35,358.05,0.01,3.58,358.04,4.68,362.72
+5928-1,6/8/2015,Michael Chen,"Shop 3/144 Waterloo Road,Greenacre",Sydney,NSW,Consumer,2,Critical,96,Small Box,Regular Air,6/10/2015,62.4,155.99,21,3275.79,0.08,262.06,3275.71,8.08,3283.79
+5930-1,6/8/2015,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Home Office,3,Not Specified,113,Large Box,Regular Air,6/9/2015,377.99,599.99,41,24599.59,0.09,2213.96,24599.5,24.49,24623.99
+5931-1,6/10/2015,Alan Schoenberger,"333-339 Enmore Rd,Marrickville",Sydney,NSW,Corporate,14,Critical,8,Small Box,Regular Air,6/12/2015,99.39,162.93,36,5865.48,0.09,527.89,5865.39,19.99,5885.38
+5932-1,6/10/2015,Liz MacKendrick,"224A Gertrude St,Fitzroy",Melbourne,VIC,Corporate,8,Low,22,Small Box,Regular Air,6/14/2015,3.52,5.68,8,45.44,0.05,2.27,45.39,1.39,46.78
+5933-1,6/11/2015,Tamara Chand,"96 Liverpool St,Sydney",Sydney,NSW,Consumer,2,Low,104,Small Pack,Regular Air,6/11/2015,3.51,8.57,22,188.54,0.1,18.85,188.44,6.14,194.58
+5935-1,6/11/2015,Charles Crestani,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,High,106,Wrap Bag,Express Air,6/13/2015,0.93,1.6,24,38.4,0.04,1.54,38.36,1.29,39.65
+5937-1,6/13/2015,Rick Hansen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Corporate,12,Not Specified,19,Small Pack,Regular Air,6/16/2015,5.5,12.22,8,97.76,0.1,9.78,97.66,2.85,100.51
+5938-1,6/14/2015,Annie Cyprus,"180 High Street,Windsor",Melbourne,VIC,Home Office,8,High,70,Wrap Bag,Regular Air,6/15/2015,1.31,2.84,23,65.32,0.06,3.92,65.26,0.93,66.19
+5939-1,6/20/2015,Richard Bierner,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Not Specified,17,Small Box,Regular Air,6/22/2015,4.59,7.28,16,116.48,0.07,8.15,116.41,11.15,127.56
+5941-1,6/21/2015,Erica Bern,"10 O'Connell St,Sydney",Sydney,NSW,Corporate,7,Medium,47,Small Box,Regular Air,6/23/2015,2.25,3.69,42,154.98,0.06,9.3,154.92,2.5,157.42
+5943-1,6/25/2015,Denise Monton,"2/797 Botany Rd,Rosebery",Sydney,NSW,Home Office,2,Medium,7,Wrap Bag,Regular Air,6/25/2015,1.09,2.6,26,67.6,0.08,5.41,67.52,2.4,69.92
+5943-2,6/25/2015,Denise Monton,"2/797 Botany Rd,Rosebery",Sydney,NSW,Home Office,2,Medium,91,Small Box,Regular Air,6/27/2015,42.11,80.98,34,2753.32,0.02,55.07,2753.3,7.18,2760.48
+5944-1,6/25/2015,Beth Paige,"73 York St,Sydney",Sydney,NSW,Consumer,1,High,42,Small Box,Express Air,6/26/2015,1.18,1.88,5,9.4,0.08,0.75,9.32,1.49,10.81
+5947-1,6/27/2015,Stefania Perrino,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Medium,74,Small Box,Regular Air,6/29/2015,3.65,5.98,50,299,0.02,5.98,298.98,1.49,300.47
+5949-1,6/27/2015,Arianne Irving,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Corporate,8,High,80,Wrap Bag,Regular Air,6/27/2015,1.53,2.78,44,122.32,0.07,8.56,122.25,1.34,123.59
+5951-1,6/27/2015,Lauren Leatherbury,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Corporate,12,Not Specified,87,Small Box,Regular Air,6/29/2015,2.18,3.52,1,3.52,0.04,0.14,3.48,6.83,10.31
+5952-1,6/28/2015,Brian Dahlen,"1-2/299 Sussex St,Sydney",Sydney,NSW,Small Business,7,Medium,90,Small Box,Express Air,6/30/2015,2.45,3.89,32,124.48,0.1,12.45,124.38,7.01,131.39
+5953-1,6/28/2015,Joseph Airdo,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Medium,79,Small Box,Regular Air,6/30/2015,1.84,2.88,25,72,0.04,2.88,71.96,1.49,73.45
+5955-1,6/28/2015,Max Engle,"501 George St,Sydney",Sydney,NSW,Corporate,2,Not Specified,73,Small Box,Regular Air,6/29/2015,6.51,30.98,6,185.88,0.01,1.86,185.87,6.5,192.37
+5956-1,6/29/2015,Michelle Huthwaite,"155 Oxford Street,Darlinghurst",Sydney,NSW,Home Office,2,Low,130,Small Box,Regular Air,7/3/2015,1.84,2.88,49,141.12,0.01,1.41,141.11,0.99,142.1
+5958-1,7/2/2015,Randy Ferguson,"438 Victoria Avenue,Chatswood",Sydney,NSW,Home Office,6,Low,19,Small Pack,Regular Air,7/9/2015,5.5,12.22,46,562.12,0.03,16.86,562.09,2.85,564.94
+5960-1,7/2/2015,Karen Ferguson,"1-2/299 Sussex St,Sydney",Sydney,NSW,Home Office,7,Critical,59,Wrap Bag,Regular Air,7/4/2015,11.11,19.84,1,19.84,0.05,0.99,19.79,4.1,23.89
+5962-1,7/4/2015,Ralph Kennedy,"53-55 Liverpool Street,Sydney",Sydney,NSW,Corporate,1,Not Specified,105,Small Pack,Regular Air,7/4/2015,11.38,18.65,44,820.6,0.03,24.62,820.57,3.77,824.34
+5964-1,7/4/2015,Patrick Ryan,"Cnr Williams Road & Lechlade Ave,South Yarra",Melbourne,VIC,Corporate,9,High,67,Small Box,Regular Air,7/5/2015,2.74,4.49,15,67.35,0.05,3.37,67.3,1.49,68.79
+5965-1,7/5/2015,Larry Tron,"4A Lyons St,Strathfield",Sydney,NSW,Home Office,1,Critical,25,Medium Box,Regular Air,7/7/2015,8.82,20.99,49,1028.51,0.06,61.71,1028.45,4.81,1033.26
+5967-1,7/9/2015,Keith Dawkins,"402 Argyle St,Moss Vale",Sydney,NSW,Home Office,6,Not Specified,88,Large Box,Regular Air,7/10/2015,56.16,136.98,7,958.86,0.02,19.18,958.84,24.49,983.33
+5968-1,7/11/2015,Matthew Grinstein,"105 Pitt St,Sydney",Sydney,NSW,Small Business,10,Medium,140,Wrap Bag,Regular Air,7/13/2015,0.94,1.88,22,41.36,0.07,2.9,41.29,0.79,42.08
+5969-1,7/12/2015,Bryan Spruell,"1 John Street,Waterloo",Sydney,NSW,Home Office,10,Low,98,Small Box,Regular Air,7/14/2015,11.04,16.98,1,16.98,0.03,0.51,16.95,12.39,29.34
+5971-1,7/14/2015,Raymond Fair,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Low,51,Wrap Bag,Express Air,7/19/2015,3.48,5.43,48,260.64,0.05,13.03,260.59,0.95,261.54
+5973-1,7/15/2015,Barry Gonzalez,"797 Botany Rd,Rosebery",Sydney,NSW,Consumer,4,Low,101,Wrap Bag,Regular Air,7/19/2015,5.22,9.85,21,206.85,0.1,20.69,206.75,4.82,211.57
+5974-1,7/16/2015,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,Low,135,Wrap Bag,Regular Air,7/20/2015,0.92,1.81,48,86.88,0.02,1.74,86.86,1.56,88.42
+5976-1,7/17/2015,Barry Blumstein,"6 Mary St,Newtown",Sydney,NSW,Small Business,2,High,3,Wrap Bag,Regular Air,7/17/2015,2.41,3.71,13,48.23,0.06,2.89,48.17,1.93,50.1
+5977-1,7/18/2015,Cynthia Delaney,"1/160 Anzac Parade,Kensington",Sydney,NSW,Corporate,6,High,92,Small Pack,Regular Air,7/20/2015,2.5,5.68,21,119.28,0.07,8.35,119.21,3.6,122.81
+5978-1,7/18/2015,Susan Vittorini,"3 Carrington Road ,Box Hill",Melbourne,VIC,Corporate,9,High,81,Small Box,Regular Air,7/20/2015,2.26,3.58,43,153.94,0.08,12.32,153.86,5.47,159.33
+5980-1,7/19/2015,Laura Armstrong,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Small Business,8,Medium,84,Small Box,Regular Air,7/20/2015,3.5,5.74,41,235.34,0.08,18.83,235.26,5.01,240.27
+5982-1,7/20/2015,Neil French,"523 King St,Newtown",Sydney,NSW,Consumer,7,Critical,110,Small Pack,Regular Air,7/23/2015,4.1,9.31,26,242.06,0.06,14.52,242,3.98,245.98
+5983-1,7/23/2015,Magdelene Morse,"53 Riley Street,Woolloomooloo",Sydney,NSW,Home Office,1,Low,29,Small Box,Regular Air,7/30/2015,32.02,152.48,14,2134.72,0.03,64.04,2134.69,4,2138.69
+5984-1,7/23/2015,Frank Atkinson,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Not Specified,60,Wrap Bag,Express Air,7/24/2015,3.32,5.18,1,5.18,0,0,5.18,2.04,7.22
+5985-1,7/23/2015,Scott Cohen,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Consumer,8,Critical,42,Small Box,Regular Air,7/24/2015,1.18,1.88,8,15.04,0.05,0.75,14.99,1.49,16.48
+5987-1,7/24/2015,Christopher Conant,"120 Hardware St,Melbourne",Melbourne,VIC,Home Office,8,High,6,Small Box,Regular Air,7/26/2015,1.19,1.98,21,41.58,0.01,0.42,41.57,4.77,46.34
+5988-1,7/24/2015,Fred Chung,"81 MacLeay St,Potts Point",Sydney,NSW,Corporate,2,High,103,Wrap Bag,Regular Air,7/26/2015,1.76,2.94,35,102.9,0.09,9.26,102.81,0.81,103.62
+5990-1,7/25/2015,Annie Thurman,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,High,129,Wrap Bag,Express Air,7/26/2015,1.88,3.14,43,135.02,0.07,9.45,134.95,1.14,136.09
+5990-2,7/25/2015,Annie Thurman,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,High,82,Small Pack,Regular Air,7/27/2015,1.46,3.57,19,67.83,0.08,5.43,67.75,4.17,71.92
+5993-1,7/25/2015,Greg Tran,"Crown Complex,Southbank",Melbourne,VIC,Home Office,9,Critical,64,Small Box,Regular Air,7/28/2015,1.98,3.15,17,53.55,0.05,2.68,53.5,0.49,53.99
+5994-1,7/26/2015,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Consumer,3,Medium,17,Small Box,Express Air,7/27/2015,4.59,7.28,20,145.6,0.1,14.56,145.5,11.15,156.65
+5996-1,7/26/2015,Carl Jackson,"6 Mary St,Newtown",Sydney,NSW,Corporate,2,High,97,Small Box,Regular Air,7/26/2015,4.53,7.3,12,87.6,0.03,2.63,87.57,7.72,95.29
+5997-1,7/27/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Low,85,Wrap Bag,Express Air,7/31/2015,0.93,1.48,37,54.76,0.04,2.19,54.72,0.7,55.42
+5997-2,7/27/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Low,59,Wrap Bag,Regular Air,8/1/2015,11.11,19.84,28,555.52,0.08,44.44,555.44,4.1,559.54
+6000-1,7/29/2015,Jack Lebron,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,High,80,Wrap Bag,Regular Air,7/31/2015,1.53,2.78,38,105.64,0.1,10.56,105.54,1.34,106.88
+6001-1,7/29/2015,Toby Grace,"324A King St,Newtown",Sydney,NSW,Home Office,3,Not Specified,10,Small Box,Regular Air,7/30/2015,54.29,90.48,15,1357.2,0.01,13.57,1357.19,19.99,1377.18
+6002-1,7/30/2015,Lycoris Saunders,"501 George St,Sydney",Sydney,NSW,Home Office,2,High,100,Small Box,Express Air,7/31/2015,2.29,3.69,48,177.12,0.1,17.71,177.02,0.5,177.52
+6003-1,7/30/2015,Julie Prescott,"438 Victoria Avenue,Chatswood",Sydney,NSW,Home Office,6,Medium,132,Small Box,Express Air,7/31/2015,14.7,29.99,27,809.73,0.05,40.49,809.68,5.5,815.18
+6005-1,8/1/2015,Karl Brown,"470 Anzac Parade,Kingsford",Sydney,NSW,Home Office,1,Critical,91,Small Box,Regular Air,8/3/2015,42.11,80.98,22,1781.56,0.1,178.16,1781.46,7.18,1788.64
+6006-1,8/2/2015,Nora Pelletier,"5/250 Old Northern Road,Castle Hill",Sydney,NSW,Home Office,12,Not Specified,72,Large Box,Regular Air,8/4/2015,216,449.99,29,13049.71,0,0,13049.71,24.49,13074.2
+6007-1,8/2/2015,Tracy Collins,"Crown Complex,Southbank",Melbourne,VIC,Consumer,8,Not Specified,48,Small Box,Regular Air,8/4/2015,12.39,19.98,44,879.12,0.07,61.54,879.05,5.77,884.82
+6009-1,8/3/2015,Dave Hallsten,"1 John St,Waterloo",Sydney,NSW,Corporate,10,Low,62,Small Box,Regular Air,8/8/2015,1.33,2.08,20,41.6,0.1,4.16,41.5,1.49,42.99
+6011-1,8/7/2015,Astrea Jones,"485 Crown St,Surry Hills",Sydney,NSW,Corporate,5,Critical,114,Wrap Bag,Regular Air,8/8/2015,2.59,3.98,16,63.68,0.09,5.73,63.59,2.97,66.56
+6012-1,8/8/2015,Tanja Norvell,"541 Church St,Richmond",Melbourne,VIC,Corporate,9,High,11,Small Box,Express Air,8/9/2015,5.33,8.6,15,129,0.04,5.16,128.96,6.19,135.15
+6014-1,8/10/2015,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Small Business,14,Not Specified,127,Small Box,Regular Air,8/11/2015,2.76,4.38,24,105.12,0.02,2.1,105.1,6.21,111.31
+6014-2,8/10/2015,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Small Business,14,Not Specified,110,Small Pack,Regular Air,8/13/2015,4.1,9.31,30,279.3,0.03,8.38,279.27,3.98,283.25
+6017-1,8/11/2015,Raymond Book,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,High,113,Large Box,Regular Air,8/12/2015,377.99,599.99,46,27599.54,0.07,1931.97,27599.47,24.49,27623.96
+6019-1,8/11/2015,Christine Sundaresam,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Small Business,14,High,103,Wrap Bag,Regular Air,8/14/2015,1.76,2.94,39,114.66,0.04,4.59,114.62,0.81,115.43
+6021-1,8/11/2015,Steve Carroll,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Consumer,12,High,30,Small Box,Express Air,8/12/2015,10.07,15.98,7,111.86,0.04,4.47,111.82,4,115.82
+6023-1,8/12/2015,Grant Carroll,"10 O'Connell St,Sydney",Sydney,NSW,Corporate,7,Not Specified,73,Small Box,Regular Air,8/15/2015,6.51,30.98,8,247.84,0.06,14.87,247.78,6.5,254.28
+6025-1,8/14/2015,Nona Balk,"120 Hardware St,Melbourne",Melbourne,VIC,Corporate,8,Medium,40,Wrap Bag,Regular Air,8/16/2015,3.75,7.08,48,339.84,0.03,10.2,339.81,2.35,342.16
+6027-1,8/15/2015,Jim Kriz,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Consumer,3,High,84,Small Box,Express Air,8/17/2015,3.5,5.74,32,183.68,0.08,14.69,183.6,5.01,188.61
+6029-1,8/21/2015,Nora Pelletier,"5/250 Old Northern Road,Castle Hill",Sydney,NSW,Home Office,12,Not Specified,87,Small Box,Regular Air,8/23/2015,2.18,3.52,38,133.76,0.09,12.04,133.67,6.83,140.5
+6030-1,8/22/2015,Bryan Spruell,"1 John Street,Waterloo",Sydney,NSW,Home Office,10,Low,30,Small Box,Regular Air,8/27/2015,10.07,15.98,6,95.88,0.1,9.59,95.78,4,99.78
+6032-1,8/23/2015,Fred McMath,"10 Bligh St,Melbourne",Melbourne,VIC,Small Business,9,Low,144,Small Box,Express Air,8/30/2015,3.53,8.62,8,68.96,0,0,68.96,4.5,73.46
+6034-1,8/24/2015,Alejandro Ballentine,"412 Brunswick St,Fitzroy",Melbourne,VIC,Small Business,8,High,126,Small Box,Express Air,8/25/2015,84.22,210.55,2,421.1,0.05,21.06,421.05,9.99,431.04
+6036-1,8/24/2015,Eleni McCrary,"79 Elliott St,Balmain",Sydney,NSW,Corporate,7,Low,128,Wrap Bag,Regular Air,8/28/2015,1.09,1.82,42,76.44,0.08,6.12,76.36,1,77.36
+6037-1,8/24/2015,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Small Business,5,Critical,99,Small Pack,Regular Air,8/26/2015,16.8,40.97,28,1147.16,0.04,45.89,1147.12,8.99,1156.11
+6038-1,8/26/2015,Kelly Williams,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,Medium,120,Small Box,Regular Air,8/28/2015,52.04,83.93,3,251.79,0,0,251.79,19.99,271.78
+6039-1,8/26/2015,Edward Becker,"501 George St,Sydney",Sydney,NSW,Corporate,2,Not Specified,100,Small Box,Regular Air,8/27/2015,2.29,3.69,39,143.91,0.03,4.32,143.88,0.5,144.38
+6041-1,8/27/2015,Lycoris Saunders,"501 George St,Sydney",Sydney,NSW,Corporate,2,High,89,Small Pack,Express Air,8/28/2015,5.19,12.98,42,545.16,0.05,27.26,545.11,3.14,548.25
+6042-1,8/28/2015,Phillip Flathmann,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Small Business,12,Critical,77,Small Box,Regular Air,8/30/2015,1.94,3.08,6,18.48,0.02,0.37,18.46,0.99,19.45
+6044-1,8/30/2015,Maxwell Schwartz,"3 Orwell St,Potts Point",Sydney,NSW,Corporate,5,Medium,95,Small Box,Regular Air,9/1/2015,41.28,95.99,26,2495.74,0.02,49.91,2495.72,8.99,2504.71
+6046-1,8/31/2015,Sally Knutson,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Low,58,Small Box,Regular Air,8/31/2015,3.4,5.4,14,75.6,0.02,1.51,75.58,7.78,83.36
+6048-1,8/31/2015,Larry Hughes,"541 Church St,Richmond",Melbourne,VIC,Home Office,9,Critical,75,Small Box,Regular Air,9/1/2015,4.46,10.89,50,544.5,0.09,49.01,544.41,4.5,548.91
+6050-1,9/2/2015,Giulietta Baptist,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Home Office,1,Medium,50,Small Box,Regular Air,9/5/2015,60.59,100.98,9,908.82,0.1,90.88,908.72,7.18,915.9
+6052-1,9/2/2015,Cindy Stewart,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,Medium,45,Small Box,Regular Air,9/4/2015,156.5,300.97,20,6019.4,0.05,300.97,6019.35,7.18,6026.53
+6054-1,9/3/2015,Grant Thornton,"98 Holdsworth Street,Woollahra",Sydney,NSW,Corporate,6,Low,75,Small Box,Regular Air,9/7/2015,4.46,10.89,3,32.67,0.08,2.61,32.59,4.5,37.09
+6055-1,9/4/2015,Meg Tillman,"531 King St,Newtown",Sydney,NSW,Small Business,3,Medium,44,Small Box,Regular Air,9/7/2015,3.84,6.3,40,252,0.04,10.08,251.96,0.5,252.46
+6056-1,9/4/2015,Victor Price,"180 High Street,Windsor",Melbourne,VIC,Consumer,8,Medium,4,Jumbo Drum,Delivery Truck,9/6/2015,75,120.97,46,5564.62,0.07,389.52,5564.55,26.3,5590.85
+6057-1,9/6/2015,Roy Collins,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Critical,50,Small Box,Regular Air,9/7/2015,60.59,100.98,44,4443.12,0.09,399.88,4443.03,7.18,4450.21
+6058-1,9/7/2015,Naresj Patel,"106 Ebley Street,Bondi Junction",Sydney,NSW,Small Business,5,High,31,Small Pack,Regular Air,9/9/2015,4.79,11.97,48,574.56,0.02,11.49,574.54,5.81,580.35
+6059-1,9/8/2015,Beth Thompson,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Corporate,3,High,60,Wrap Bag,Regular Air,9/10/2015,3.32,5.18,20,103.6,0.06,6.22,103.54,2.04,105.58
+6061-1,9/8/2015,Laura Armstrong,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Small Business,8,High,71,Wrap Bag,Regular Air,9/10/2015,0.24,1.26,31,39.06,0.06,2.34,39,0.7,39.7
+6063-1,9/10/2015,Luke Weiss,"88 Oxford St,Woollahra",Sydney,NSW,Corporate,10,Critical,47,Small Box,Express Air,9/11/2015,2.25,3.69,23,84.87,0.02,1.7,84.85,2.5,87.35
+6065-1,9/11/2015,Cyra Reiten,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Consumer,12,Not Specified,103,Wrap Bag,Express Air,9/11/2015,1.76,2.94,47,138.18,0.04,5.53,138.14,0.81,138.95
+6066-1,9/12/2015,Bobby Elias,"506 Swan Street,Richmond",Melbourne,VIC,Small Business,8,Not Specified,12,Wrap Bag,Regular Air,9/13/2015,0.87,1.81,6,10.86,0.07,0.76,10.79,0.75,11.54
+6067-1,9/15/2015,Ricardo Emerson,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Critical,85,Wrap Bag,Regular Air,9/17/2015,0.93,1.48,1,1.48,0.01,0.01,1.47,0.7,2.17
+6068-1,9/16/2015,Mitch Webber,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Corporate,1,Low,104,Small Pack,Express Air,9/21/2015,3.51,8.57,49,419.93,0.01,4.2,419.92,6.14,426.06
+6070-1,9/17/2015,Naresj Patel,"106 Ebley Street,Bondi Junction",Sydney,NSW,Small Business,5,Not Specified,20,Wrap Bag,Regular Air,9/17/2015,1.82,2.98,3,8.94,0.04,0.36,8.9,1.58,10.48
+6071-1,9/25/2015,Denise Leinenbach,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Home Office,8,Not Specified,41,Small Box,Regular Air,9/26/2015,13.64,20.98,10,209.8,0.06,12.59,209.74,1.49,211.23
+6072-1,9/25/2015,Roy Phan,"506 Swan Street,Richmond",Melbourne,VIC,Corporate,8,Critical,87,Small Box,Regular Air,9/27/2015,2.18,3.52,13,45.76,0.08,3.66,45.68,6.83,52.51
+6074-1,9/26/2015,Yana Sorensen,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,High,58,Small Box,Regular Air,9/28/2015,3.4,5.4,10,54,0.04,2.16,53.96,7.78,61.74
+6076-1,9/27/2015,Anthony Johnson,"53-55 Liverpool St,Sydney",Sydney,NSW,Small Business,1,Not Specified,48,Small Box,Regular Air,9/29/2015,12.39,19.98,20,399.6,0.05,19.98,399.55,5.77,405.32
+6077-1,9/27/2015,Brad Norvell,"120 Hardware St,Melbourne",Melbourne,VIC,Corporate,9,Low,48,Small Box,Regular Air,9/27/2015,12.39,19.98,34,679.32,0.06,40.76,679.26,5.77,685.03
+6079-1,9/28/2015,Maria Bertelson,"188 Pitt Street,Sydney",Sydney,NSW,Home Office,1,Not Specified,40,Wrap Bag,Regular Air,9/30/2015,3.75,7.08,37,261.96,0.08,20.96,261.88,2.35,264.23
+6081-1,9/29/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Medium,84,Small Box,Express Air,9/30/2015,3.5,5.74,26,149.24,0.03,4.48,149.21,5.01,154.22
+6083-1,10/1/2015,Damala Kotsonis,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Corporate,12,Low,124,Wrap Bag,Regular Air,10/10/2015,1.05,1.95,4,7.8,0.09,0.7,7.71,1.63,9.34
+6085-1,10/9/2015,Janet Lee,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Consumer,1,High,125,Jumbo Drum,Delivery Truck,10/11/2015,315.61,500.97,25,12524.25,0.02,250.49,12524.23,69.3,12593.53
+6086-1,10/12/2015,Bobby Trafton,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Corporate,3,High,42,Small Box,Regular Air,10/14/2015,1.18,1.88,29,54.52,0.1,5.45,54.42,1.49,55.91
+6088-1,10/13/2015,Clytie Kelty,"8 Khartoum Rd,Macquarie Park",Sydney,NSW,Small Business,13,Low,72,Jumbo Drum,Delivery Truck,10/15/2015,278.99,449.99,47,21149.53,0.02,422.99,21149.51,49,21198.51
+6090-1,10/15/2015,Barbara Fisher,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Critical,58,Small Box,Regular Air,10/16/2015,3.4,5.4,8,43.2,0,0,43.2,7.78,50.98
+6091-1,10/15/2015,Lisa DeCherney,"324A King St,Newtown",Sydney,NSW,Consumer,3,Low,131,Wrap Bag,Express Air,10/15/2015,1.53,2.47,45,111.15,0.07,7.78,111.08,1.02,112.1
+6091-2,10/15/2015,Lisa DeCherney,"324A King St,Newtown",Sydney,NSW,Consumer,3,Low,51,Wrap Bag,Regular Air,10/19/2015,3.48,5.43,11,59.73,0,0,59.73,0.95,60.68
+6094-1,10/20/2015,Eva Jacobs,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Home Office,12,Low,6,Small Box,Regular Air,10/24/2015,1.19,1.98,4,7.92,0.08,0.63,7.84,4.77,12.61
+6095-1,10/21/2015,Kelly Lampkin,"310 Wattle St,Ultimo",Sydney,NSW,Home Office,7,Medium,123,Wrap Bag,Express Air,10/23/2015,2.13,3.49,3,10.47,0.01,0.1,10.46,0.76,11.22
+6096-1,10/21/2015,Sung Shariari,"6/15 Cross Street,Double Bay",Sydney,NSW,Corporate,5,High,42,Small Box,Regular Air,10/23/2015,1.18,1.88,6,11.28,0.07,0.79,11.21,1.49,12.7
+6098-1,10/24/2015,Annie Thurman,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Consumer,9,Critical,97,Small Box,Regular Air,10/26/2015,4.53,7.3,34,248.2,0.03,7.45,248.17,7.72,255.89
+6099-1,10/24/2015,Shahid Hopkins,"438 Victoria Avenue,Chatswood",Sydney,NSW,Small Business,6,High,47,Small Box,Regular Air,10/26/2015,2.25,3.69,47,173.43,0,0,173.43,2.5,175.93
+6100-1,10/28/2015,William Brown,"3 Carrington Road ,Box Hill",Melbourne,VIC,Corporate,9,Not Specified,63,Medium Box,Regular Air,10/30/2015,7.92,12.99,46,597.54,0.01,5.98,597.53,9.44,606.97
+6102-1,10/31/2015,Gary Zandusky,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Home Office,3,High,54,Small Box,Regular Air,10/31/2015,178.83,415.88,21,8733.48,0.09,786.01,8733.39,11.37,8744.76
+6103-1,10/31/2015,Tamara Manning,"184 King Street,Newtown",Sydney,NSW,Corporate,10,High,45,Small Box,Regular Air,11/1/2015,156.5,300.97,23,6922.31,0.06,415.34,6922.25,7.18,6929.43
+6104-1,11/1/2015,Bobby Trafton,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Low,2,Wrap Bag,Regular Air,11/3/2015,2.39,4.26,47,200.22,0.07,14.02,200.15,1.2,201.35
+6104-2,11/1/2015,Bobby Trafton,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Low,18,Wrap Bag,Regular Air,11/6/2015,1.3,2.88,17,48.96,0.09,4.41,48.87,1.01,49.88
+6108-1,11/6/2015,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,High,132,Small Box,Express Air,11/6/2015,14.7,29.99,20,599.8,0.04,23.99,599.76,5.5,605.26
+6109-1,11/6/2015,Mitch Gastineau,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Low,10,Small Box,Regular Air,11/13/2015,54.29,90.48,49,4433.52,0.05,221.68,4433.47,19.99,4453.46
+6110-1,11/7/2015,Cindy Schnelling,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Corporate,8,Critical,33,Wrap Bag,Regular Air,11/8/2015,3.47,6.68,12,80.16,0.06,4.81,80.1,1.5,81.6
+6112-1,11/10/2015,Peter Fuller,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Corporate,14,Low,85,Wrap Bag,Regular Air,11/14/2015,0.93,1.48,19,28.12,0,0,28.12,0.7,28.82
+6113-1,11/10/2015,Chuck Clark,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Medium,137,Small Box,Regular Air,11/10/2015,4.03,9.38,24,225.12,0.05,11.26,225.07,7.28,232.35
+6114-1,11/11/2015,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Home Office,14,High,27,Small Box,Regular Air,11/13/2015,1.59,2.61,40,104.4,0.03,3.13,104.37,0.5,104.87
+6116-1,11/12/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Small Business,8,Not Specified,119,Small Pack,Regular Air,11/14/2015,4.19,10.23,46,470.58,0.08,37.65,470.5,4.68,475.18
+6118-1,11/15/2015,Alan Hwang,"223 Barkly St,St Kilda",Melbourne,VIC,Corporate,9,Low,145,Wrap Bag,Regular Air,11/24/2015,3.95,6.08,41,249.28,0.03,7.48,249.25,1.82,251.07
+6119-1,11/16/2015,Jenna Caffey,"470 Anzac Parade,Kingsford",Sydney,NSW,Consumer,1,Critical,69,Wrap Bag,Regular Air,11/17/2015,3.88,6.47,22,142.34,0.04,5.69,142.3,1.22,143.52
+6121-1,11/17/2015,Beth Fritzler,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Small Business,4,Critical,119,Small Pack,Regular Air,11/19/2015,4.19,10.23,16,163.68,0.02,3.27,163.66,4.68,168.34
+6123-1,11/17/2015,Shahid Hopkins,"438 Victoria Avenue,Chatswood",Sydney,NSW,Small Business,6,Low,75,Small Box,Regular Air,11/24/2015,4.46,10.89,10,108.9,0.1,10.89,108.8,4.5,113.3
+6124-1,11/20/2015,Lycoris Saunders,"501 George St,Sydney",Sydney,NSW,Home Office,2,High,77,Small Box,Regular Air,11/22/2015,1.94,3.08,11,33.88,0.09,3.05,33.79,0.99,34.78
+6125-1,11/22/2015,Ellis Ballard,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Medium,80,Wrap Bag,Regular Air,11/23/2015,1.53,2.78,21,58.38,0.06,3.5,58.32,1.34,59.66
+6127-1,11/24/2015,Henry Goldwyn,"541 Church St,Richmond",Melbourne,VIC,Small Business,9,Low,29,Small Box,Regular Air,11/24/2015,39.64,152.48,17,2592.16,0.04,103.69,2592.12,6.5,2598.62
+6128-1,11/28/2015,Dennis Bolton,"8 Quay Street,Haymarket",Sydney,NSW,Small Business,5,Critical,69,Wrap Bag,Regular Air,11/30/2015,3.88,6.47,16,103.52,0.01,1.04,103.51,1.22,104.73
+6129-1,11/28/2015,Jeremy Pistek,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Corporate,3,Critical,114,Wrap Bag,Regular Air,12/1/2015,2.59,3.98,11,43.78,0.07,3.06,43.71,2.97,46.68
+6130-1,11/30/2015,Paul MacIntyre,"60 Commercial Rd,Prahran",Melbourne,VIC,Corporate,9,High,14,Small Box,Regular Air,12/1/2015,36.02,58.1,27,1568.7,0.07,109.81,1568.63,1.49,1570.12
+6132-1,11/30/2015,Julie Creighton,"22 Civic Rd,Auburn",Sydney,NSW,Corporate,3,Not Specified,68,Wrap Bag,Regular Air,12/1/2015,4.37,9.11,30,273.3,0.03,8.2,273.27,2.25,275.52
+6134-1,12/4/2015,Lindsay Castell,"Qantas Domestic Terminal,Mascot",Sydney,NSW,Small Business,4,High,130,Small Box,Regular Air,12/5/2015,1.84,2.88,28,80.64,0.1,8.06,80.54,0.99,81.53
+6135-1,12/6/2015,Erin Creighton,"523 King St,Newtown",Sydney,NSW,Corporate,7,Low,80,Wrap Bag,Regular Air,12/8/2015,1.17,2.78,39,108.42,0.05,5.42,108.37,1.2,109.57
+6136-1,12/6/2015,Dan Lawera,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Corporate,12,Not Specified,42,Small Box,Regular Air,12/7/2015,1.18,1.88,20,37.6,0.07,2.63,37.53,1.49,39.02
+6138-1,12/8/2015,Valerie Dominguez,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Low,57,Wrap Bag,Regular Air,12/12/2015,1.6,2.62,26,68.12,0.08,5.45,68.04,0.8,68.84
+6140-1,12/9/2015,Craig Carroll,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,High,7,Wrap Bag,Regular Air,12/9/2015,1.09,2.6,14,36.4,0.08,2.91,36.32,2.4,38.72
+6141-1,12/9/2015,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,VIC,Home Office,8,Medium,146,Wrap Bag,Express Air,12/10/2015,0.32,1.68,6,10.08,0.05,0.5,10.03,1.02,11.05
+6142-1,12/10/2015,Paul Knutson,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,Critical,45,Small Box,Express Air,12/12/2015,156.5,300.97,8,2407.76,0.05,120.39,2407.71,7.18,2414.89
+6143-1,12/16/2015,Patrick OBrill,"53 Riley Street,Woolloomooloo",Sydney,NSW,Home Office,1,Critical,28,Small Box,Express Air,12/18/2015,6.39,19.98,18,359.64,0.04,14.39,359.6,4,363.6
+6143-2,12/16/2015,Patrick OBrill,"53 Riley Street,Woolloomooloo",Sydney,NSW,Home Office,1,Critical,93,Small Box,Regular Air,12/18/2015,14.95,34.76,46,1598.96,0.09,143.91,1598.87,8.22,1607.09
+6144-1,12/16/2015,Charles Crestani,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,Medium,8,Small Box,Regular Air,12/17/2015,99.39,162.93,41,6680.13,0.01,66.8,6680.12,19.99,6700.11
+6146-1,12/19/2015,Olvera Toch,"3 Carrington Road ,Box Hill",Melbourne,VIC,Home Office,9,Not Specified,60,Wrap Bag,Regular Air,12/21/2015,3.32,5.18,25,129.5,0.1,12.95,129.4,2.04,131.44
+6148-1,12/19/2015,Lena Creighton,"127 Liverpool St,Sydney",Sydney,NSW,Corporate,2,Critical,75,Small Box,Regular Air,12/21/2015,4.46,10.89,30,326.7,0.08,26.14,326.62,4.5,331.12
+6150-1,12/22/2015,Carol Triggs,"644 George St,Sydney",Sydney,NSW,Home Office,13,Not Specified,38,Small Box,Regular Air,12/24/2015,19.78,45.99,11,505.89,0.07,35.41,505.82,4.99,510.81
+6151-1,12/24/2015,Sarah Foster,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Corporate,4,Critical,42,Small Box,Regular Air,12/26/2015,1.18,1.88,39,73.32,0.07,5.13,73.25,1.49,74.74
+6152-1,12/25/2015,Art Miller,"8 Quay Street,Haymarket",Sydney,NSW,Corporate,5,Low,113,Large Box,Regular Air,1/1/2016,377.99,599.99,17,10199.83,0.08,815.99,10199.75,24.49,10224.24
+6154-1,12/25/2015,Karl Brown,"470 Anzac Parade,Kingsford",Sydney,NSW,Corporate,1,High,9,Wrap Bag,Regular Air,12/26/2015,1.09,1.68,24,40.32,0.05,2.02,40.27,1,41.27
+6155-1,12/28/2015,Gary McGarr,"10 Bligh St,Melbourne",Melbourne,VIC,Home Office,9,High,25,Medium Box,Regular Air,12/29/2015,8.82,20.99,30,629.7,0.03,18.89,629.67,4.81,634.48
+6157-1,12/28/2015,Ken Dana,"73 York St,Sydney",Sydney,NSW,Small Business,1,Critical,42,Small Box,Regular Air,12/30/2015,1.18,1.88,1,1.88,0.09,0.17,1.79,1.49,3.28
+6158-1,12/28/2015,Sally Knutson,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Corporate,3,Low,99,Small Pack,Express Air,1/4/2016,16.8,40.97,49,2007.53,0.1,200.75,2007.43,8.99,2016.42
+6159-1,12/31/2015,Matt Collister,"99 Glebe Point Rd,Glebe",Sydney,NSW,Home Office,6,High,97,Small Box,Regular Air,1/1/2016,4.53,7.3,38,277.4,0.05,13.87,277.35,7.72,285.07
+6159-2,12/31/2015,Matt Collister,"99 Glebe Point Rd,Glebe",Sydney,NSW,Home Office,6,Medium,100,Small Box,Regular Air,1/1/2016,2.29,3.69,41,151.29,0.01,1.51,151.28,0.5,151.78
+6159-2,12/31/2015,Matt Collister,"99 Glebe Point Rd,Glebe",Sydney,NSW,Home Office,6,High,68,Wrap Bag,Express Air,1/1/2016,4.37,9.11,21,191.31,0.03,5.74,191.28,2.25,193.53
+6165-1,1/2/2016,Bart Folk,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Corporate,14,Not Specified,132,Small Box,Regular Air,1/3/2016,14.7,29.99,14,419.86,0.04,16.79,419.82,5.5,425.32
+6166-1,1/9/2016,Lena Creighton,"127 Liverpool St,Sydney",Sydney,NSW,Home Office,2,High,33,Wrap Bag,Regular Air,1/11/2016,3.47,6.68,10,66.8,0.08,5.34,66.72,1.5,68.22
+6167-1,1/12/2016,Dave Hallsten,"1 John St,Waterloo",Sydney,NSW,Home Office,10,High,41,Small Box,Regular Air,1/14/2016,13.64,20.98,34,713.32,0.07,49.93,713.25,1.49,714.74
+6169-1,1/17/2016,Cyra Reiten,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Consumer,12,Medium,34,Small Pack,Regular Air,1/17/2016,1.87,8.12,36,292.32,0.1,29.23,292.22,2.83,295.05
+6170-1,1/17/2016,Maria Bertelson,"188 Pitt Street,Sydney",Sydney,NSW,Home Office,1,Medium,31,Small Pack,Regular Air,1/19/2016,4.79,11.97,28,335.16,0.03,10.05,335.13,5.81,340.94
+6172-1,1/18/2016,Nicole Brennan,"310 Wattle St,Ultimo",Sydney,NSW,Home Office,7,Not Specified,30,Small Box,Regular Air,1/20/2016,8.31,15.98,4,63.92,0.09,5.75,63.83,6.5,70.33
+6174-1,1/19/2016,Tamara Willingham,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Corporate,4,High,75,Small Box,Regular Air,1/19/2016,4.46,10.89,25,272.25,0.03,8.17,272.22,4.5,276.72
+6175-1,1/19/2016,Sue Ann Reed,"501 George St,Sydney",Sydney,NSW,Consumer,2,Critical,23,Small Pack,Regular Air,1/19/2016,0.94,2.08,33,68.64,0.05,3.43,68.59,2.56,71.15
+6176-1,1/19/2016,Justin MacKendrick,"53-55 Liverpool Street,Sydney",Sydney,NSW,Corporate,1,Critical,45,Small Box,Regular Air,1/19/2016,156.5,300.97,43,12941.71,0.08,1035.34,12941.63,7.18,12948.81
+6177-1,1/24/2016,Joy Bell,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Home Office,14,Critical,89,Small Pack,Regular Air,1/25/2016,5.19,12.98,50,649,0.08,51.92,648.92,3.14,652.06
+6179-1,1/26/2016,Aleksandra Gannaway,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Corporate,1,High,3,Wrap Bag,Express Air,1/28/2016,2.41,3.71,16,59.36,0.1,5.94,59.26,1.93,61.19
+6181-1,1/28/2016,Patrick ODonnell,"21 Wentworth St,Parramatta",Sydney,NSW,Home Office,7,Medium,29,Small Box,Regular Air,1/29/2016,39.64,152.48,27,4116.96,0.1,411.7,4116.86,6.5,4123.36
+6183-1,1/28/2016,Noel Staavos,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Home Office,3,Critical,114,Wrap Bag,Regular Air,1/30/2016,2.59,3.98,41,163.18,0.1,16.32,163.08,2.97,166.05
+6184-1,1/29/2016,Bryan Spruell,"1 John Street,Waterloo",Sydney,NSW,Home Office,10,Not Specified,80,Wrap Bag,Regular Air,1/31/2016,1.53,2.78,38,105.64,0,0,105.64,1.34,106.98
+6186-1,2/1/2016,Patrick Gardner,"224A Gertrude St,Fitzroy",Melbourne,VIC,Consumer,8,High,6,Small Box,Regular Air,2/2/2016,1.19,1.98,12,23.76,0.07,1.66,23.69,4.77,28.46
+6187-1,2/3/2016,Darrin Martin,"221 Barkly St,St Kilda",Melbourne,VIC,Small Business,9,Low,145,Wrap Bag,Regular Air,2/5/2016,3.95,6.08,42,255.36,0.09,22.98,255.27,1.82,257.09
+6189-1,2/4/2016,Cyma Kinney,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Small Business,4,Not Specified,99,Small Pack,Express Air,2/5/2016,16.8,40.97,49,2007.53,0.04,80.3,2007.49,8.99,2016.48
+6190-1,2/8/2016,Ed Braxton,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Medium,37,Wrap Bag,Regular Air,2/9/2016,21.56,36.55,6,219.3,0.01,2.19,219.29,13.89,233.18
+6191-1,2/9/2016,Roy Skaria,"2/797 Botany Rd,Rosebery",Sydney,NSW,Corporate,2,Low,114,Wrap Bag,Regular Air,2/14/2016,2.59,3.98,50,199,0.08,15.92,198.92,2.97,201.89
+6193-1,2/10/2016,Roy Skaria,"2/797 Botany Rd,Rosebery",Sydney,NSW,Corporate,2,Medium,59,Wrap Bag,Regular Air,2/11/2016,11.11,19.84,10,198.4,0.05,9.92,198.35,4.1,202.45
+6194-1,2/11/2016,Ralph Knight,"5/63-71 Enmore Rd,Newtown",Sydney,NSW,Consumer,10,Medium,95,Small Box,Regular Air,2/13/2016,41.28,95.99,14,1343.86,0.04,53.75,1343.82,8.99,1352.81
+6196-1,2/11/2016,Eva Jacobs,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Home Office,12,Low,8,Small Box,Regular Air,2/20/2016,99.39,162.93,22,3584.46,0.07,250.91,3584.39,19.99,3604.38
+6197-1,2/12/2016,Alejandro Ballentine,"412 Brunswick St,Fitzroy",Melbourne,VIC,Small Business,8,Critical,101,Wrap Bag,Regular Air,2/13/2016,5.22,9.85,48,472.8,0.09,42.55,472.71,4.82,477.53
+6197-2,2/12/2016,Alejandro Ballentine,"412 Brunswick St,Fitzroy",Melbourne,VIC,Small Business,8,Critical,103,Wrap Bag,Regular Air,2/13/2016,1.76,2.94,18,52.92,0.01,0.53,52.91,0.81,53.72
+6201-1,2/13/2016,Gary Hansen,"273 George Street,Sydney",Sydney,NSW,Consumer,5,High,19,Small Pack,Regular Air,2/14/2016,5.5,12.22,10,122.2,0.1,12.22,122.1,2.85,124.95
+6203-1,2/13/2016,Scot Coram,"2-4 College Street, Darlinghurst",Sydney,NSW,Corporate,12,High,119,Small Pack,Express Air,2/16/2016,4.19,10.23,19,194.37,0.08,15.55,194.29,4.68,198.97
+6204-1,2/13/2016,Pete Armstrong,"506 Swan Street,Richmond",Melbourne,VIC,Consumer,8,High,56,Wrap Bag,Regular Air,2/16/2016,2.9,4.76,33,157.08,0.06,9.42,157.02,0.88,157.9
+6206-1,2/16/2016,Dionis Lloyd,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Not Specified,97,Small Box,Regular Air,2/17/2016,4.53,7.3,36,262.8,0.1,26.28,262.7,7.72,270.42
+6208-1,2/16/2016,Don Jones,"6-8 O'Connell Street,Newtown",Sydney,NSW,Corporate,12,Low,114,Wrap Bag,Regular Air,2/21/2016,2.59,3.98,11,43.78,0.01,0.44,43.77,2.97,46.74
+6209-1,2/17/2016,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Not Specified,57,Wrap Bag,Regular Air,2/18/2016,1.6,2.62,48,125.76,0.1,12.58,125.66,0.8,126.46
+6211-1,2/20/2016,Andy Reiter,"Cnr Williams Road & Lechlade Ave,South Yarra",Melbourne,VIC,Corporate,9,Critical,132,Small Box,Regular Air,2/22/2016,14.7,29.99,11,329.89,0.08,26.39,329.81,5.5,335.31
+6213-1,2/22/2016,Clay Cheatham,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Small Business,12,Not Specified,72,Jumbo Drum,Delivery Truck,2/23/2016,278.99,449.99,38,17099.62,0.01,171,17099.61,49,17148.61
+6214-1,2/23/2016,Quincy Jones,"Shop 3/144 Waterloo Road,Greenacre",Sydney,NSW,Small Business,2,Medium,121,Small Box,Regular Air,2/24/2016,21.97,35.44,48,1701.12,0.08,136.09,1701.04,4.92,1705.96
+6215-1,2/26/2016,Linda Southworth,"359 Crown Street,Surry Hills",Sydney,NSW,Consumer,4,Low,61,Wrap Bag,Regular Air,3/4/2016,2.98,5.84,19,110.96,0.01,1.11,110.95,0.83,111.78
+6217-1,2/29/2016,Bill Donatelli,"359 Crown Street,Surry Hills",Sydney,NSW,Small Business,4,Medium,10,Small Box,Regular Air,2/29/2016,54.29,90.48,16,1447.68,0,0,1447.68,19.99,1467.67
+6219-1,3/5/2016,Steven Cartwright,"523 King St,Newtown",Sydney,NSW,Home Office,7,Low,106,Wrap Bag,Regular Air,3/9/2016,0.93,1.6,43,68.8,0.01,0.69,68.79,1.29,70.08
+6220-1,3/6/2016,Erica Smith,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Low,95,Small Box,Regular Air,3/11/2016,41.28,95.99,40,3839.6,0.05,191.98,3839.55,8.99,3848.54
+6221-1,3/6/2016,Robert Marley,"211/25-29 Dixon St,Haymarket",Sydney,NSW,Corporate,14,Not Specified,143,Small Box,Express Air,3/7/2016,3.99,6.23,33,205.59,0.08,16.45,205.51,6.97,212.48
+6222-1,3/7/2016,Rick Hansen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Home Office,12,Medium,99,Small Pack,Regular Air,3/8/2016,16.8,40.97,14,573.58,0,0,573.58,8.99,582.57
+6223-1,3/9/2016,Shirley Schmidt,"60 Commercial Rd,Prahran",Melbourne,VIC,Corporate,9,Medium,28,Small Box,Regular Air,3/10/2016,6.39,19.98,39,779.22,0.05,38.96,779.17,4,783.17
+6224-1,3/11/2016,Brooke Gillingham,"21 Wentworth St,Parramatta",Sydney,NSW,Small Business,7,Medium,93,Small Box,Regular Air,3/13/2016,14.95,34.76,27,938.52,0.1,93.85,938.42,8.22,946.64
+6225-1,3/12/2016,Magdelene Morse,"53 Riley Street,Woolloomooloo",Sydney,NSW,Home Office,1,Medium,140,Wrap Bag,Regular Air,3/12/2016,0.94,1.88,36,67.68,0.04,2.71,67.64,0.79,68.43
+6226-1,3/12/2016,Andrew Allen,"797 Botany Rd,Rosebery",Sydney,NSW,Corporate,4,Low,106,Wrap Bag,Regular Air,3/17/2016,0.93,1.6,40,64,0.01,0.64,63.99,1.29,65.28
+6227-1,3/14/2016,Sandra Flanagan,"359 Crown Street,Surry Hills",Sydney,NSW,Home Office,4,Low,48,Small Box,Regular Air,3/18/2016,12.39,19.98,47,939.06,0,0,939.06,5.77,944.83
+6228-1,3/17/2016,Monica Federle,"834 Bourke St,Waterloo",Sydney,NSW,Corporate,10,Critical,71,Wrap Bag,Regular Air,3/20/2016,0.24,1.26,47,59.22,0.07,4.15,59.15,0.7,59.85
+6230-1,3/17/2016,Carol Darley,"Crown Complex,Southbank",Melbourne,VIC,Small Business,9,Medium,34,Small Pack,Express Air,3/18/2016,1.87,8.12,37,300.44,0.01,3,300.43,2.83,303.26
+6231-1,3/18/2016,Robert Marley,"211/25-29 Dixon St,Haymarket",Sydney,NSW,Corporate,14,Low,133,Small Box,Regular Air,3/23/2016,1.84,2.88,18,51.84,0.02,1.04,51.82,5.33,57.15
+6232-1,3/18/2016,MaryBeth Skach,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,High,40,Wrap Bag,Regular Air,3/18/2016,3.75,7.08,16,113.28,0.02,2.27,113.26,2.35,115.61
+6234-1,3/20/2016,Michael Kennedy,"3 Orwell St,Potts Point",Sydney,NSW,Corporate,5,Not Specified,56,Wrap Bag,Regular Air,3/22/2016,2.9,4.76,23,109.48,0.05,5.47,109.43,0.88,110.31
+6235-1,3/21/2016,Deanra Eno,"412 Brunswick St,Fitzroy",Melbourne,VIC,Corporate,8,Medium,25,Medium Box,Regular Air,3/22/2016,8.82,20.99,2,41.98,0.07,2.94,41.91,4.81,46.72
+6237-1,3/25/2016,Toby Knight,"Crown Complex,Southbank",Melbourne,VIC,Corporate,8,Not Specified,111,Wrap Bag,Regular Air,3/25/2016,2.31,3.78,28,105.84,0,0,105.84,0.71,106.55
+6238-1,3/26/2016,Nick Crebassa,"2a/285A Crown St,Surry Hills",Sydney,NSW,Corporate,4,Low,92,Small Pack,Regular Air,3/28/2016,2.5,5.68,45,255.6,0.01,2.56,255.59,3.6,259.19
+6240-1,3/26/2016,Cyma Kinney,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Small Business,4,Critical,27,Small Box,Regular Air,3/28/2016,1.59,2.61,8,20.88,0.02,0.42,20.86,0.5,21.36
+6242-1,3/27/2016,Craig Leslie,"10 Bligh St,Melbourne",Melbourne,VIC,Consumer,10,High,72,Large Box,Regular Air,3/28/2016,216,449.99,49,22049.51,0.06,1322.97,22049.45,24.49,22073.94
+6243-1,3/27/2016,Deirdre Greer,"33/4 Barangaroo Avenue,Sydney",Sydney,NSW,Home Office,6,Low,4,Jumbo Drum,Delivery Truck,4/3/2016,75,120.97,42,5080.74,0,0,5080.74,26.3,5107.04
+6244-1,3/29/2016,Sung Shariari,"6/15 Cross Street,Double Bay",Sydney,NSW,Corporate,5,Critical,89,Small Pack,Regular Air,3/30/2016,5.19,12.98,45,584.1,0.05,29.21,584.05,3.14,587.19
+6246-1,3/29/2016,Alan Dominguez,"60 Commercial Rd,Prahran",Melbourne,VIC,Corporate,9,Low,77,Small Box,Regular Air,3/31/2016,1.94,3.08,42,129.36,0.09,11.64,129.27,0.99,130.26
+6248-1,3/30/2016,Ruben Dartt,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Not Specified,23,Small Pack,Regular Air,3/31/2016,0.94,2.08,2,4.16,0.01,0.04,4.15,2.56,6.71
+6250-1,4/2/2016,Hunter Glantz,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Low,36,Small Box,Regular Air,4/10/2016,13.88,22.38,16,358.08,0.09,32.23,357.99,15.1,373.09
+6252-1,4/3/2016,Christina Vanderzanden,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Low,71,Wrap Bag,Express Air,4/3/2016,0.24,1.26,40,50.4,0.04,2.02,50.36,0.7,51.06
+6254-1,4/5/2016,Adrian Shami,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,Low,110,Small Pack,Regular Air,4/11/2016,4.1,9.31,35,325.85,0.05,16.29,325.8,3.98,329.78
+6256-1,4/6/2016,Emily Grady,"359 Crown Street,Surry Hills",Sydney,NSW,Home Office,4,Not Specified,80,Wrap Bag,Regular Air,4/8/2016,1.53,2.78,10,27.8,0.01,0.28,27.79,1.34,29.13
+6258-1,4/11/2016,Barry Weirich,"105 Pitt St,Sydney",Sydney,NSW,Corporate,10,Not Specified,143,Small Box,Regular Air,4/13/2016,3.99,6.23,21,130.83,0.05,6.54,130.78,6.97,137.75
+6260-1,4/11/2016,Berenike Kampe,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Critical,135,Wrap Bag,Regular Air,4/11/2016,0.92,1.81,22,39.82,0.09,3.58,39.73,1.56,41.29
+6261-1,4/11/2016,Corey Lock,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Home Office,12,High,2,Wrap Bag,Express Air,4/12/2016,2.39,4.26,34,144.84,0.03,4.35,144.81,1.2,146.01
+6263-1,4/13/2016,Denny Joy,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,Critical,72,Jumbo Drum,Delivery Truck,4/15/2016,278.99,449.99,43,19349.57,0.06,1160.97,19349.51,49,19398.51
+6264-1,4/17/2016,Darrin Sayre,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Consumer,4,Low,124,Wrap Bag,Regular Air,4/19/2016,1.05,1.95,23,44.85,0.09,4.04,44.76,1.63,46.39
+6266-1,4/18/2016,Don Weiss,"79 Elliott St,Balmain",Sydney,NSW,Corporate,7,Medium,88,Large Box,Regular Air,4/19/2016,56.16,136.98,14,1917.72,0,0,1917.72,24.49,1942.21
+6266-2,4/18/2016,Don Weiss,"79 Elliott St,Balmain",Sydney,NSW,Corporate,7,Medium,85,Wrap Bag,Regular Air,4/20/2016,0.93,1.48,3,4.44,0.1,0.44,4.34,0.7,5.04
+6269-1,4/23/2016,Cindy Chapman,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Not Specified,71,Wrap Bag,Regular Air,4/24/2016,0.24,1.26,11,13.86,0,0,13.86,0.7,14.56
+6270-1,4/23/2016,Heather Kirkland,"541 Church St,Richmond",Melbourne,VIC,Home Office,9,Not Specified,37,Wrap Bag,Regular Air,4/25/2016,21.56,36.55,17,621.35,0.09,55.92,621.26,13.89,635.15
+6272-1,4/23/2016,Thomas Thornton,"222 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,Not Specified,20,Wrap Bag,Regular Air,4/24/2016,1.82,2.98,32,95.36,0.01,0.95,95.35,1.58,96.93
+6273-1,4/24/2016,Shahid Collister,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Home Office,4,High,87,Small Box,Regular Air,4/26/2016,2.18,3.52,32,112.64,0.07,7.88,112.57,6.83,119.4
+6274-1,4/25/2016,Toby Carlisle,"6/15 Cross Street,Double Bay",Sydney,NSW,Home Office,5,Not Specified,30,Small Box,Regular Air,4/26/2016,8.31,15.98,18,287.64,0.1,28.76,287.54,6.5,294.04
+6275-1,4/25/2016,Stuart Van,"Westfield Sydney,Sydney",Sydney,NSW,Consumer,6,Medium,51,Wrap Bag,Regular Air,4/27/2016,3.48,5.43,37,200.91,0.09,18.08,200.82,0.95,201.77
+6276-1,4/27/2016,Valerie Takahito,"Crown Complex,Southbank",Melbourne,VIC,Consumer,9,High,47,Small Box,Regular Air,4/28/2016,2.25,3.69,46,169.74,0.04,6.79,169.7,2.5,172.2
+6278-1,5/1/2016,Sally Knutson,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Not Specified,79,Small Box,Regular Air,5/3/2016,1.84,2.88,45,129.6,0.02,2.59,129.58,1.49,131.07
+6278-2,5/1/2016,Sally Knutson,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Not Specified,75,Small Box,Regular Air,5/2/2016,4.46,10.89,39,424.71,0.06,25.48,424.65,4.5,429.15
+6280-1,5/2/2016,Greg Hansen,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,High,19,Small Pack,Regular Air,5/4/2016,5.5,12.22,46,562.12,0.06,33.73,562.06,2.85,564.91
+6280-2,5/2/2016,Greg Hansen,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,High,81,Small Box,Regular Air,5/3/2016,2.26,3.58,8,28.64,0.09,2.58,28.55,5.47,34.02
+6281-1,5/2/2016,Scott Cohen,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Consumer,8,Not Specified,92,Small Pack,Regular Air,5/3/2016,2.5,5.68,25,142,0.1,14.2,141.9,3.6,145.5
+6285-1,5/5/2016,Shaun Weien,"310 Wattle St,Ultimo",Sydney,NSW,Home Office,7,Medium,1,Small Box,Regular Air,5/7/2016,3.52,5.58,13,72.54,0.06,4.35,72.48,2.99,75.47
+6287-1,5/8/2016,Michelle Moray,"310 Wattle St,Ultimo",Sydney,NSW,Corporate,7,Low,76,Wrap Bag,Regular Air,5/12/2016,1.95,3.98,27,107.46,0.06,6.45,107.4,0.83,108.23
+6288-1,5/8/2016,Quincy Jones,"Shop 3/144 Waterloo Road,Greenacre",Sydney,NSW,Corporate,2,Low,15,Wrap Bag,Regular Air,5/8/2016,0.71,1.14,20,22.8,0.09,2.05,22.71,0.7,23.41
+6290-1,5/9/2016,Cindy Stewart,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,High,126,Small Box,Regular Air,5/11/2016,84.22,210.55,4,842.2,0.05,42.11,842.15,9.99,852.14
+6291-1,5/10/2016,Roy Collins,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Not Specified,22,Small Box,Regular Air,5/12/2016,3.52,5.68,34,193.12,0.06,11.59,193.06,1.39,194.45
+6293-1,5/12/2016,John Lee,"180 High Street,Windsor",Melbourne,VIC,Corporate,8,Critical,87,Small Box,Regular Air,5/14/2016,2.18,3.52,42,147.84,0.04,5.91,147.8,6.83,154.63
+6294-1,5/14/2016,Sonia Sunley,"1/50-58 Hunter St,Sydney",Sydney,NSW,Corporate,14,Not Specified,100,Small Box,Regular Air,5/16/2016,2.29,3.69,47,173.43,0.05,8.67,173.38,0.5,173.88
+6295-1,5/14/2016,George Ashbrook,"506 Swan Street,Richmond",Melbourne,VIC,Small Business,8,Not Specified,62,Small Box,Regular Air,5/16/2016,1.33,2.08,43,89.44,0.05,4.47,89.39,1.49,90.88
+6296-1,5/18/2016,Frank Price,"224A Gertrude St,Fitzroy",Melbourne,VIC,Corporate,8,Not Specified,93,Small Box,Regular Air,5/20/2016,14.95,34.76,8,278.08,0,0,278.08,8.22,286.3
+6298-1,5/19/2016,Rose OBrian,"157 Norton St,Leichhardt",Sydney,NSW,Home Office,11,Medium,103,Wrap Bag,Regular Air,5/20/2016,1.76,2.94,31,91.14,0.04,3.65,91.1,0.81,91.91
+6300-1,5/21/2016,Dana Kaydos,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Critical,19,Small Pack,Regular Air,5/22/2016,5.5,12.22,10,122.2,0.01,1.22,122.19,2.85,125.04
+6301-1,5/21/2016,Eric Barreto,"359 Crown Street,Surry Hills",Sydney,NSW,Small Business,4,Critical,115,Small Box,Regular Air,5/21/2016,52.07,83.98,46,3863.08,0.06,231.78,3863.02,5.01,3868.03
+6302-1,5/21/2016,John Lucas,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,Critical,93,Small Box,Regular Air,5/22/2016,14.95,34.76,47,1633.72,0.09,147.03,1633.63,8.22,1641.85
+6303-1,5/22/2016,Thais Sissman,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Medium,75,Small Box,Regular Air,5/24/2016,4.46,10.89,1,10.89,0,0,10.89,4.5,15.39
+6304-1,5/22/2016,Eva Jacobs,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Home Office,12,Not Specified,42,Small Box,Regular Air,5/23/2016,1.18,1.88,22,41.36,0.09,3.72,41.27,1.49,42.76
+6306-1,5/23/2016,Daniel Lacy,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Small Business,3,High,2,Wrap Bag,Express Air,5/24/2016,2.39,4.26,5,21.3,0.01,0.21,21.29,1.2,22.49
+6307-1,5/26/2016,Jim Karlsson,"1-2/299 Sussex St,Sydney",Sydney,NSW,Small Business,7,Medium,120,Small Box,Regular Air,5/27/2016,52.04,83.93,5,419.65,0.04,16.79,419.61,19.99,439.6
+6309-1,5/27/2016,Lela Donovan,"255 Devonshire St,Surry Hills",Sydney,NSW,Corporate,7,Not Specified,11,Small Box,Regular Air,5/27/2016,5.33,8.6,1,8.6,0.06,0.52,8.54,6.19,14.73
+6311-1,5/29/2016,Peter Buhler,"2-4 College Street, Darlinghurst",Sydney,NSW,Consumer,12,Medium,93,Small Box,Regular Air,5/30/2016,14.95,34.76,32,1112.32,0.02,22.25,1112.3,8.22,1120.52
+6313-1,5/30/2016,Emily Grady,"359 Crown Street,Surry Hills",Sydney,NSW,Home Office,4,Medium,73,Small Box,Regular Air,5/30/2016,6.2,30.98,24,743.52,0.08,59.48,743.44,4,747.44
+6315-1,5/31/2016,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Consumer,3,Low,23,Small Pack,Regular Air,6/2/2016,0.94,2.08,49,101.92,0.08,8.15,101.84,2.56,104.4
+6316-1,5/31/2016,Bill Donatelli,"359 Crown Street,Surry Hills",Sydney,NSW,Small Business,4,High,132,Small Box,Regular Air,6/3/2016,14.7,29.99,1,29.99,0.04,1.2,29.95,5.5,35.45
+6317-1,6/2/2016,Jim Kriz,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Consumer,3,Critical,145,Wrap Bag,Regular Air,6/4/2016,3.95,6.08,50,304,0.09,27.36,303.91,1.82,305.73
+6319-1,6/3/2016,Brad Eason,"1737 Botany Rd,Banksmeadow",Sydney,NSW,Small Business,12,Critical,77,Small Box,Regular Air,6/4/2016,1.94,3.08,11,33.88,0.03,1.02,33.85,0.99,34.84
+6320-1,6/3/2016,Jeremy Farry,"181 Enmore Rd,Enmore",Sydney,NSW,Small Business,13,Not Specified,15,Wrap Bag,Regular Air,6/5/2016,0.71,1.14,3,3.42,0.1,0.34,3.32,0.7,4.02
+6321-1,6/11/2016,Chuck Clark,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Critical,70,Wrap Bag,Regular Air,6/12/2016,1.31,2.84,9,25.56,0.08,2.04,25.48,0.93,26.41
+6322-1,6/13/2016,Vicky Freymann,"501 George St,Sydney",Sydney,NSW,Home Office,2,Critical,29,Small Box,Regular Air,6/15/2016,32.02,152.48,12,1829.76,0.1,182.98,1829.66,4,1833.66
+6324-1,6/14/2016,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,VIC,Home Office,8,Low,25,Medium Box,Regular Air,6/14/2016,8.82,20.99,2,41.98,0.01,0.42,41.97,4.81,46.78
+6325-1,6/14/2016,Edward Nazzal,"2a/285A Crown St,Surry Hills",Sydney,NSW,Home Office,4,High,29,Small Box,Regular Air,6/16/2016,32.02,152.48,37,5641.76,0.1,564.18,5641.66,4,5645.66
+6325-2,6/14/2016,Edward Nazzal,"2a/285A Crown St,Surry Hills",Sydney,NSW,Home Office,4,High,52,Small Pack,Regular Air,6/16/2016,20.18,35.41,30,1062.3,0.08,84.98,1062.22,1.99,1064.21
+6327-1,6/14/2016,Christina Anderson,"438 Victoria Avenue,Chatswood",Sydney,NSW,Corporate,6,Critical,8,Small Box,Express Air,6/15/2016,99.39,162.93,36,5865.48,0.05,293.27,5865.43,19.99,5885.42
+6328-1,6/14/2016,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,VIC,Home Office,8,Low,15,Wrap Bag,Regular Air,6/19/2016,0.71,1.14,31,35.34,0.07,2.47,35.27,0.7,35.97
+6329-1,6/15/2016,Arthur Prichep,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Home Office,4,Low,36,Small Box,Regular Air,6/17/2016,13.88,22.38,11,246.18,0.01,2.46,246.17,15.1,261.27
+6330-1,6/15/2016,Neil Knudson,"4A Lyons St,Strathfield",Sydney,NSW,Corporate,1,Not Specified,5,Wrap Bag,Express Air,6/17/2016,0.9,2.1,31,65.1,0.08,5.21,65.02,0.7,65.72
+6332-1,6/18/2016,Shaun Weien,"310 Wattle St,Ultimo",Sydney,NSW,Home Office,7,Low,21,Small Box,Regular Air,6/20/2016,81.59,159.99,31,4959.69,0.01,49.6,4959.68,5.5,4965.18
+6333-1,6/19/2016,John Huston,"154 Castlereagh St,Sydney",Sydney,NSW,Consumer,2,Medium,92,Small Pack,Regular Air,6/20/2016,2.5,5.68,27,153.36,0.03,4.6,153.33,3.6,156.93
+6335-1,6/20/2016,Clay Ludtke,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Consumer,14,High,37,Wrap Bag,Regular Air,6/21/2016,21.56,36.55,34,1242.7,0.1,124.27,1242.6,13.89,1256.49
+6336-1,6/20/2016,Harold Dahlen,"53-55 Liverpool St,Sydney",Sydney,NSW,Consumer,1,Medium,80,Wrap Bag,Express Air,6/20/2016,1.53,2.78,47,130.66,0.1,13.07,130.56,1.34,131.9
+6336-2,6/20/2016,Harold Dahlen,"53-55 Liverpool St,Sydney",Sydney,NSW,Consumer,1,Medium,57,Wrap Bag,Regular Air,6/23/2016,1.6,2.62,30,78.6,0.05,3.93,78.55,0.8,79.35
+6339-1,6/25/2016,Cindy Chapman,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Not Specified,56,Wrap Bag,Regular Air,6/27/2016,2.9,4.76,5,23.8,0.09,2.14,23.71,0.88,24.59
+6340-1,6/29/2016,Brian DeCherney,"523 King St,Newtown",Sydney,NSW,Corporate,7,Critical,109,Small Box,Regular Air,7/1/2016,3.14,4.91,28,137.48,0.08,11,137.4,0.5,137.9
+6342-1,6/30/2016,Matthew Clasen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Consumer,12,Low,36,Small Box,Regular Air,7/2/2016,13.88,22.38,9,201.42,0.03,6.04,201.39,15.1,216.49
+6343-1,6/30/2016,Lindsay Castell,"Qantas Domestic Terminal,Mascot",Sydney,NSW,Corporate,4,High,71,Wrap Bag,Regular Air,7/1/2016,0.24,1.26,47,59.22,0,0,59.22,0.7,59.92
+6345-1,7/2/2016,Susan Pistek,"2a/285A Crown St,Surry Hills",Sydney,NSW,Home Office,4,High,130,Small Box,Regular Air,7/4/2016,1.84,2.88,18,51.84,0.03,1.56,51.81,0.99,52.8
+6346-1,7/2/2016,Astrea Jones,"485 Crown St,Surry Hills",Sydney,NSW,Corporate,5,Critical,57,Wrap Bag,Regular Air,7/4/2016,1.6,2.62,16,41.92,0.09,3.77,41.83,0.8,42.63
+6348-1,7/3/2016,Philip Fox,"73 York St,Sydney",Sydney,NSW,Home Office,1,Medium,12,Wrap Bag,Regular Air,7/5/2016,0.87,1.81,50,90.5,0.08,7.24,90.42,0.75,91.17
+6349-1,7/5/2016,Denise Monton,"2/797 Botany Rd,Rosebery",Sydney,NSW,Home Office,2,Not Specified,81,Small Box,Express Air,7/7/2016,2.26,3.58,36,128.88,0.04,5.16,128.84,5.47,134.31
+6351-1,7/7/2016,Thea Hendricks,"412 Brunswick St,Fitzroy",Melbourne,VIC,Home Office,8,High,9,Wrap Bag,Regular Air,7/8/2016,1.09,1.68,50,84,0.09,7.56,83.91,1,84.91
+6352-1,7/11/2016,Katherine Murray,"18 Whistler St,Sydney",Sydney,NSW,Home Office,12,Medium,51,Wrap Bag,Regular Air,7/12/2016,3.48,5.43,2,10.86,0.03,0.33,10.83,0.95,11.78
+6353-1,7/12/2016,Debra Catini,"506 Swan Street,Richmond",Melbourne,VIC,Small Business,8,Medium,74,Small Box,Regular Air,7/13/2016,3.65,5.98,22,131.56,0.07,9.21,131.49,1.49,132.98
+6354-1,7/16/2016,Maribeth Dona,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Home Office,8,High,29,Small Box,Regular Air,7/18/2016,32.02,152.48,2,304.96,0.03,9.15,304.93,4,308.93
+6355-1,7/17/2016,Kean Thornton,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Not Specified,106,Wrap Bag,Regular Air,7/18/2016,0.93,1.6,39,62.4,0.1,6.24,62.3,1.29,63.59
+6356-1,7/27/2016,Michelle Huthwaite,"155 Oxford Street,Darlinghurst",Sydney,NSW,Home Office,2,Critical,147,Large Box,Regular Air,7/29/2016,269.99,449.99,3,1349.97,0.06,81,1349.91,24.49,1374.4
+6358-1,7/28/2016,Nicole Brennan,"310 Wattle St,Ultimo",Sydney,NSW,Home Office,7,Medium,36,Small Box,Regular Air,7/30/2016,13.88,22.38,18,402.84,0.05,20.14,402.79,15.1,417.89
+6359-1,8/2/2016,Dean Percer,"222 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Not Specified,54,Small Box,Regular Air,8/4/2016,178.83,415.88,4,1663.52,0.04,66.54,1663.48,11.37,1674.85
+6361-1,8/3/2016,Michael Stewart,"523 King St,Newtown",Sydney,NSW,Small Business,7,Not Specified,31,Small Pack,Regular Air,8/4/2016,4.79,11.97,49,586.53,0.09,52.79,586.44,5.81,592.25
+6362-1,8/4/2016,Bruce Stewart,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,High,35,Small Box,Regular Air,8/6/2016,54.52,100.97,41,4139.77,0.03,124.19,4139.74,7.18,4146.92
+6364-1,8/5/2016,Beth Thompson,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Corporate,3,High,80,Wrap Bag,Regular Air,8/6/2016,1.17,2.78,6,16.68,0.01,0.17,16.67,1.2,17.87
+6365-1,8/7/2016,Maureen Gastineau,"10 O'Connell St,Sydney",Sydney,NSW,Consumer,7,Not Specified,120,Small Box,Regular Air,8/8/2016,52.04,83.93,37,3105.41,0.03,93.16,3105.38,19.99,3125.37
+6367-1,8/8/2016,Michelle Arnett,"1-2/299 Sussex St,Sydney",Sydney,NSW,Home Office,7,High,90,Small Box,Regular Air,8/9/2016,2.45,3.89,18,70.02,0.04,2.8,69.98,7.01,76.99
+6369-1,8/11/2016,Dennis Bolton,"8 Quay Street,Haymarket",Sydney,NSW,Consumer,5,High,100,Small Box,Regular Air,8/13/2016,2.29,3.69,13,47.97,0.04,1.92,47.93,0.5,48.43
+6370-1,8/11/2016,Sung Shariari,"6/15 Cross Street,Double Bay",Sydney,NSW,Corporate,5,Medium,71,Wrap Bag,Regular Air,8/13/2016,0.24,1.26,34,42.84,0,0,42.84,0.7,43.54
+6371-1,8/15/2016,Dave Hallsten,"1 John St,Waterloo",Sydney,NSW,Corporate,10,Low,90,Small Box,Express Air,8/20/2016,2.45,3.89,30,116.7,0.09,10.5,116.61,7.01,123.62
+6373-1,8/17/2016,Pete Armstrong,"506 Swan Street,Richmond",Melbourne,VIC,Consumer,8,High,56,Wrap Bag,Regular Air,8/18/2016,2.9,4.76,1,4.76,0.02,0.1,4.74,0.88,5.62
+6374-1,8/18/2016,Emily Grady,"359 Crown Street,Surry Hills",Sydney,NSW,Home Office,4,High,97,Small Box,Express Air,8/20/2016,4.53,7.3,41,299.3,0.05,14.97,299.25,7.72,306.97
+6376-1,8/18/2016,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,VIC,Home Office,8,Low,47,Small Box,Regular Air,8/22/2016,2.25,3.69,16,59.04,0.02,1.18,59.02,2.5,61.52
+6377-1,8/20/2016,Ed Ludwig,"221 Barkly St,St Kilda",Melbourne,VIC,Consumer,9,Low,111,Wrap Bag,Regular Air,8/25/2016,2.31,3.78,28,105.84,0.06,6.35,105.78,0.71,106.49
+6379-1,8/23/2016,Maria Zettner,"531 King St,Newtown",Sydney,NSW,Corporate,3,Not Specified,59,Wrap Bag,Regular Air,8/25/2016,11.11,19.84,22,436.48,0.06,26.19,436.42,4.1,440.52
+6380-1,8/24/2016,Lindsay Shagiari,"5/250 Old Northern Road ,Castle Hill",Sydney,NSW,Home Office,12,Low,38,Small Box,Regular Air,8/24/2016,19.78,45.99,46,2115.54,0.1,211.55,2115.44,4.99,2120.43
+6382-1,8/24/2016,Henry Goldwyn,"541 Church St,Richmond",Melbourne,VIC,Small Business,9,Not Specified,27,Small Box,Regular Air,8/27/2016,1.59,2.61,34,88.74,0,0,88.74,0.5,89.24
+6384-1,8/24/2016,Jasper Cacioppo,"24 Addison Rd,Marrickville",Sydney,NSW,Home Office,13,Low,113,Large Box,Regular Air,9/2/2016,377.99,599.99,16,9599.84,0,0,9599.84,24.49,9624.33
+6384-2,8/24/2016,Jasper Cacioppo,"24 Addison Rd,Marrickville",Sydney,NSW,Home Office,13,Low,59,Wrap Bag,Regular Air,9/2/2016,11.11,19.84,39,773.76,0.01,7.74,773.75,4.1,777.85
+6387-1,8/24/2016,Quincy Jones,"Shop 3/144 Waterloo Road,Greenacre",Sydney,NSW,Small Business,2,Medium,80,Wrap Bag,Regular Air,8/24/2016,1.53,2.78,23,63.94,0.01,0.64,63.93,1.34,65.27
+6389-1,8/24/2016,Kelly Williams,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,Medium,65,Small Box,Regular Air,8/25/2016,16.85,27.18,50,1359,0.02,27.18,1358.98,8.23,1367.21
+6390-1,8/31/2016,Clay Ludtke,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Consumer,14,Critical,60,Wrap Bag,Regular Air,9/2/2016,3.32,5.18,32,165.76,0.06,9.95,165.7,2.04,167.74
+6391-1,9/3/2016,Cynthia Voltz,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Corporate,14,Not Specified,30,Small Box,Regular Air,9/5/2016,10.07,15.98,30,479.4,0.08,38.35,479.32,4,483.32
+6392-1,9/5/2016,Kristina Nunn,"22 Civic Rd,Auburn",Sydney,NSW,Consumer,3,Medium,111,Wrap Bag,Regular Air,9/7/2016,2.31,3.78,38,143.64,0.03,4.31,143.61,0.71,144.32
+6393-1,9/6/2016,Darrin Van Huff,"53-55 Liverpool St,Sydney",Sydney,NSW,Home Office,1,Medium,96,Small Box,Express Air,9/8/2016,62.4,155.99,22,3431.78,0.02,68.64,3431.76,8.08,3439.84
+6394-1,9/6/2016,Raymond Fair,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,High,108,Wrap Bag,Regular Air,9/8/2016,1.92,3.26,38,123.88,0.02,2.48,123.86,1.86,125.72
+6396-1,9/13/2016,Christina Vanderzanden,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Low,137,Small Box,Express Air,9/20/2016,4.03,9.38,46,431.48,0.09,38.83,431.39,7.28,438.67
+6397-1,9/14/2016,Nathan Gelder,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,High,103,Wrap Bag,Regular Air,9/16/2016,1.76,2.94,26,76.44,0.03,2.29,76.41,0.81,77.22
+6399-1,9/15/2016,Brooke Gillingham,"21 Wentworth St,Parramatta",Sydney,NSW,Small Business,7,High,112,Jumbo Drum,Delivery Truck,9/16/2016,219.61,535.64,44,23568.16,0.03,707.04,23568.13,14.7,23582.83
+6401-1,9/17/2016,Giulietta Baptist,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Home Office,1,Low,28,Small Box,Regular Air,9/19/2016,6.39,19.98,44,879.12,0.03,26.37,879.09,4,883.09
+6402-1,9/18/2016,John Castell,"38/133-145 Castlereagh St,Sydney",Sydney,NSW,Consumer,6,Low,109,Small Box,Regular Air,9/18/2016,3.14,4.91,13,63.83,0.01,0.64,63.82,0.5,64.32
+6403-1,9/18/2016,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Small Business,14,Medium,11,Small Box,Regular Air,9/20/2016,5.33,8.6,2,17.2,0.03,0.52,17.17,6.19,23.36
+6403-2,9/18/2016,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Small Business,14,Medium,86,Small Box,Regular Air,9/19/2016,67.73,165.2,10,1652,0.08,132.16,1651.92,19.99,1671.91
+6407-1,9/20/2016,Ashley Jarboe,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Low,31,Small Pack,Regular Air,9/20/2016,4.79,11.97,38,454.86,0.02,9.1,454.84,5.81,460.65
+6409-1,9/20/2016,Matthew Clasen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Consumer,12,Low,51,Wrap Bag,Regular Air,9/20/2016,3.48,5.43,12,65.16,0.01,0.65,65.15,0.95,66.1
+6411-1,9/21/2016,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Corporate,5,Medium,90,Small Box,Regular Air,9/21/2016,2.45,3.89,50,194.5,0.08,15.56,194.42,7.01,201.43
+6413-1,9/22/2016,Richard Bierner,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,Medium,24,Wrap Bag,Regular Air,9/23/2016,2.52,4,22,88,0.09,7.92,87.91,1.3,89.21
+6414-1,9/23/2016,Christine Phan,"10 O'Connell St,Sydney",Sydney,NSW,Small Business,7,Medium,58,Small Box,Regular Air,9/26/2016,3.4,5.4,38,205.2,0.03,6.16,205.17,7.78,212.95
+6415-1,9/25/2016,Valerie Dominguez,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Critical,75,Small Box,Regular Air,9/26/2016,4.46,10.89,19,206.91,0.07,14.48,206.84,4.5,211.34
+6417-1,9/26/2016,Christopher Martinez,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Medium,36,Small Box,Regular Air,9/28/2016,13.88,22.38,34,760.92,0.07,53.26,760.85,15.1,775.95
+6417-2,9/26/2016,Christopher Martinez,"188 Pitt Street,Sydney",Sydney,NSW,Small Business,1,Medium,132,Small Box,Express Air,9/27/2016,14.7,29.99,36,1079.64,0.03,32.39,1079.61,5.5,1085.11
+6418-1,9/26/2016,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,VIC,Corporate,8,Low,121,Small Box,Regular Air,10/5/2016,21.97,35.44,44,1559.36,0.01,15.59,1559.35,4.92,1564.27
+6422-1,9/28/2016,Troy Staebel,"1-2/299 Sussex St,Sydney",Sydney,NSW,Small Business,7,High,55,Small Box,Regular Air,9/30/2016,19.83,30.98,30,929.4,0.03,27.88,929.37,19.51,948.88
+6423-1,9/30/2016,Laura Armstrong,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Small Business,8,High,17,Small Box,Regular Air,10/2/2016,4.59,7.28,50,364,0.01,3.64,363.99,11.15,375.14
+6425-1,10/1/2016,Phillip Flathmann,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Small Business,12,Medium,55,Small Box,Regular Air,10/2/2016,19.83,30.98,37,1146.26,0.01,11.46,1146.25,19.51,1165.76
+6426-1,10/1/2016,David Flashing,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Home Office,12,Medium,18,Wrap Bag,Regular Air,10/2/2016,1.3,2.88,46,132.48,0.05,6.62,132.43,1.01,133.44
+6427-1,10/6/2016,Katherine Ducich,"61A Bay Road,Wollstonecraft",Sydney,NSW,Corporate,2,High,22,Small Box,Regular Air,10/8/2016,3.52,5.68,23,130.64,0.02,2.61,130.62,1.39,132.01
+6429-1,10/8/2016,Sylvia Foulston,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,High,98,Small Box,Regular Air,10/8/2016,11.04,16.98,43,730.14,0.09,65.71,730.05,12.39,742.44
+6430-1,10/11/2016,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Small Business,9,Low,111,Wrap Bag,Regular Air,10/15/2016,2.31,3.78,22,83.16,0.1,8.32,83.06,0.71,83.77
+6432-1,10/12/2016,Thea Hendricks,"412 Brunswick St,Fitzroy",Melbourne,VIC,Home Office,8,Not Specified,10,Small Box,Regular Air,10/14/2016,54.29,90.48,25,2262,0.02,45.24,2261.98,19.99,2281.97
+6433-1,10/13/2016,Naresj Patel,"106 Ebley Street,Bondi Junction",Sydney,NSW,Corporate,5,Low,65,Small Box,Regular Air,10/18/2016,16.85,27.18,38,1032.84,0.01,10.33,1032.83,8.23,1041.06
+6434-1,10/14/2016,Cynthia Arntzen,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Small Business,1,Medium,28,Small Box,Regular Air,10/17/2016,6.39,19.98,9,179.82,0.06,10.79,179.76,4,183.76
+6436-1,10/15/2016,Barry Franz,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Corporate,9,Not Specified,88,Large Box,Regular Air,10/15/2016,56.16,136.98,27,3698.46,0.09,332.86,3698.37,24.49,3722.86
+6438-1,10/16/2016,Odella Nelson,"523 King St,Newtown",Sydney,NSW,Small Business,7,Medium,7,Wrap Bag,Regular Air,10/18/2016,1.09,2.6,12,31.2,0.05,1.56,31.15,2.4,33.55
+6440-1,10/18/2016,Doug Jacobs,"1/160 Anzac Parade,Kensington",Sydney,NSW,Home Office,6,Medium,88,Large Box,Regular Air,10/21/2016,56.16,136.98,21,2876.58,0.05,143.83,2876.53,24.49,2901.02
+6442-1,10/19/2016,Chuck Clark,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Critical,89,Small Pack,Regular Air,10/21/2016,5.19,12.98,49,636.02,0.09,57.24,635.93,3.14,639.07
+6443-1,10/20/2016,Edward Nazzal,"2a/285A Crown St,Surry Hills",Sydney,NSW,Home Office,4,Not Specified,81,Small Box,Regular Air,10/20/2016,2.26,3.58,34,121.72,0.07,8.52,121.65,5.47,127.12
+6445-1,10/22/2016,Todd Boyes,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Small Business,14,Not Specified,27,Small Box,Regular Air,10/24/2016,1.59,2.61,44,114.84,0.07,8.04,114.77,0.5,115.27
+6447-1,10/23/2016,Nicole Brennan,"310 Wattle St,Ultimo",Sydney,NSW,Consumer,7,Critical,25,Medium Box,Regular Air,10/25/2016,8.82,20.99,17,356.83,0,0,356.83,4.81,361.64
+6449-1,10/23/2016,Sean ODonnell,"541 Church St ,Richmond",Melbourne,VIC,Corporate,9,Low,88,Large Box,Regular Air,10/30/2016,56.16,136.98,3,410.94,0.1,41.09,410.84,24.49,435.33
+6451-1,10/23/2016,Patrick Bzostek,"1/50-58 Hunter St,Sydney",Sydney,NSW,Consumer,14,Medium,79,Small Box,Regular Air,10/25/2016,1.84,2.88,32,92.16,0.01,0.92,92.15,1.49,93.64
+6453-1,10/25/2016,Tanja Norvell,"541 Church St,Richmond",Melbourne,VIC,Corporate,9,Critical,27,Small Box,Express Air,10/27/2016,1.59,2.61,25,65.25,0.04,2.61,65.21,0.5,65.71
+6455-1,10/25/2016,Caroline Jumper,"145 Ramsay St,Haberfield",Sydney,NSW,Corporate,4,High,5,Wrap Bag,Regular Air,10/27/2016,0.9,2.1,33,69.3,0.05,3.47,69.25,0.7,69.95
+6457-1,10/27/2016,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Medium,35,Small Box,Regular Air,10/28/2016,54.52,100.97,29,2928.13,0.05,146.41,2928.08,7.18,2935.26
+6457-2,10/27/2016,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,VIC,Home Office,9,Medium,114,Wrap Bag,Regular Air,10/27/2016,2.59,3.98,4,15.92,0.09,1.43,15.83,2.97,18.8
+6460-1,10/28/2016,Joni Sundaresam,"8 Rankins Lane ,Melbourne",Melbourne,VIC,Home Office,8,Low,75,Small Box,Express Air,11/6/2016,4.46,10.89,30,326.7,0.08,26.14,326.62,4.5,331.12
+6461-1,10/28/2016,Logan Haushalter,"222 Barkly St,St Kilda",Melbourne,VIC,Corporate,9,Critical,64,Small Box,Regular Air,10/30/2016,1.98,3.15,24,75.6,0.02,1.51,75.58,0.49,76.07
+6463-1,10/29/2016,Pierre Wener,"531 King St,Newtown",Sydney,NSW,Home Office,3,Critical,28,Small Box,Regular Air,10/30/2016,6.39,19.98,9,179.82,0.09,16.18,179.73,4,183.73
+6465-1,10/31/2016,Rick Wilson,"81 MacLeay St,Potts Point",Sydney,NSW,Corporate,2,Medium,39,Medium Box,Regular Air,10/31/2016,9.91,15.99,33,527.67,0.01,5.28,527.66,11.28,538.94
+6467-1,10/31/2016,Roy Phan,"506 Swan Street,Richmond",Melbourne,VIC,Corporate,8,Medium,74,Small Box,Regular Air,11/1/2016,3.65,5.98,23,137.54,0.01,1.38,137.53,1.49,139.02
+6469-1,10/31/2016,George Zrebassa,"81 MacLeay St,Potts Point",Sydney,NSW,Home Office,2,Not Specified,84,Small Box,Regular Air,11/3/2016,3.5,5.74,48,275.52,0.05,13.78,275.47,5.01,280.48
+6471-1,11/2/2016,Liz Carlisle,"797 Botany Rd,Rosebery",Sydney,NSW,Corporate,4,Critical,29,Small Box,Regular Air,11/3/2016,39.64,152.48,44,6709.12,0.03,201.27,6709.09,6.5,6715.59
+6472-1,11/2/2016,Cassandra Brandow,"106 Ebley Street,Bondi Junction",Sydney,NSW,Home Office,5,Not Specified,92,Small Pack,Regular Air,11/3/2016,2.5,5.68,34,193.12,0,0,193.12,3.6,196.72
+6473-1,11/2/2016,Valerie Mitchum,"Westfield Sydney,Sydney",Sydney,NSW,Home Office,6,Not Specified,99,Small Pack,Regular Air,11/4/2016,16.8,40.97,26,1065.22,0.06,63.91,1065.16,8.99,1074.15
+6475-1,11/2/2016,Roland Murray,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Home Office,12,Low,18,Wrap Bag,Regular Air,11/6/2016,1.3,2.88,41,118.08,0.1,11.81,117.98,1.01,118.99
+6477-1,11/3/2016,Sheri Gordon,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Not Specified,44,Small Box,Regular Air,11/4/2016,3.84,6.3,35,220.5,0.03,6.62,220.47,0.5,220.97
+6479-1,11/5/2016,Bill Shonely,"73 MacLeay St,Potts Point",Sydney,NSW,Small Business,6,Low,84,Small Box,Regular Air,11/12/2016,3.5,5.74,5,28.7,0.07,2.01,28.63,5.01,33.64
+6480-1,11/8/2016,Ken Black,"Westfield Sydney,Sydney",Sydney,NSW,Consumer,6,Low,49,Small Box,Regular Air,11/13/2016,8.92,29.74,31,921.94,0,0,921.94,6.64,928.58
+6482-1,11/8/2016,Carol Triggs,"644 George St,Sydney",Sydney,NSW,Home Office,13,Low,128,Wrap Bag,Regular Air,11/10/2016,1.09,1.82,40,72.8,0.05,3.64,72.75,1,73.75
+6483-1,11/8/2016,Stephanie Ulpright,"541 Church St ,Richmond",Melbourne,VIC,Consumer,9,Not Specified,5,Wrap Bag,Regular Air,11/8/2016,0.9,2.1,27,56.7,0.04,2.27,56.66,0.7,57.36
+6484-1,11/9/2016,Luke Foster,"2-4 College Street, Darlinghurst",Sydney,NSW,Corporate,12,High,23,Small Pack,Regular Air,11/11/2016,0.94,2.08,39,81.12,0.04,3.24,81.08,2.56,83.64
+6485-1,11/10/2016,Cyra Reiten,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Consumer,12,Not Specified,52,Small Pack,Regular Air,11/12/2016,20.18,35.41,21,743.61,0.09,66.92,743.52,1.99,745.51
+6487-1,11/12/2016,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,NSW,Small Business,5,Not Specified,55,Small Box,Regular Air,11/12/2016,19.83,30.98,15,464.7,0,0,464.7,19.51,484.21
+6489-1,11/13/2016,Ryan Crowe,"324A King St,Newtown",Sydney,NSW,Small Business,3,Low,64,Small Box,Regular Air,11/15/2016,1.98,3.15,41,129.15,0.06,7.75,129.09,0.49,129.58
+6491-1,11/14/2016,Alan Barnes,"99 Glebe Point Rd,Glebe",Sydney,NSW,Corporate,6,Medium,7,Wrap Bag,Regular Air,11/15/2016,1.09,2.6,11,28.6,0.09,2.57,28.51,2.4,30.91
+6493-1,11/16/2016,Jonathan Doherty,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,High,46,Wrap Bag,Regular Air,11/16/2016,2.29,3.58,32,114.56,0.09,10.31,114.47,1.63,116.1
+6495-1,11/17/2016,Michael Paige,"506 Swan Street,Richmond",Melbourne,VIC,Small Business,8,High,41,Small Box,Regular Air,11/19/2016,13.64,20.98,42,881.16,0.1,88.12,881.06,1.49,882.55
+6496-1,11/17/2016,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,NSW,Corporate,14,Medium,98,Small Box,Regular Air,11/19/2016,11.04,16.98,46,781.08,0.09,70.3,780.99,12.39,793.38
+6497-1,11/20/2016,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,VIC,Home Office,9,Critical,124,Wrap Bag,Regular Air,11/21/2016,1.05,1.95,20,39,0.06,2.34,38.94,1.63,40.57
+6498-1,11/22/2016,Becky Pak,"79 Elliott St,Balmain",Sydney,NSW,Corporate,7,Low,22,Small Box,Regular Air,11/27/2016,3.52,5.68,10,56.8,0.09,5.11,56.71,1.39,58.1
+6499-1,11/23/2016,Matt Connell,"470 Anzac Parade,Kingsford",Sydney,NSW,Corporate,1,Critical,40,Wrap Bag,Regular Air,11/25/2016,3.75,7.08,29,205.32,0.07,14.37,205.25,2.35,207.6
+6500-1,11/26/2016,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,NSW,Small Business,3,Medium,58,Small Box,Regular Air,11/28/2016,3.4,5.4,1,5.4,0,0,5.4,7.78,13.18
+6502-1,11/26/2016,Laurel Elliston,"1 John St,Waterloo",Sydney,NSW,Home Office,10,Medium,130,Small Box,Regular Air,11/28/2016,1.84,2.88,6,17.28,0.06,1.04,17.22,0.99,18.21
+6503-1,11/26/2016,Erin Ashbrook,"61 York St,Sydney",Sydney,NSW,Consumer,5,Low,12,Wrap Bag,Regular Air,11/30/2016,0.87,1.81,18,32.58,0.06,1.95,32.52,0.75,33.27
+6504-1,11/27/2016,Pauline Chand,"501 George St,Sydney",Sydney,NSW,Corporate,2,Not Specified,96,Small Box,Regular Air,11/29/2016,62.4,155.99,24,3743.76,0.04,149.75,3743.72,8.08,3751.8
+6505-1,11/27/2016,John Murray,"Sydney Fish Market, Bank Street, Sydney",Sydney,NSW,Small Business,4,Low,72,Jumbo Drum,Delivery Truck,11/27/2016,278.99,449.99,18,8099.82,0.09,728.98,8099.73,49,8148.73
+6506-1,11/28/2016,Matthew Grinstein,"105 Pitt St,Sydney",Sydney,NSW,Small Business,10,Critical,77,Small Box,Regular Air,11/29/2016,1.94,3.08,18,55.44,0.02,1.11,55.42,0.99,56.41
+6507-1,11/29/2016,Grant Carroll,"10 O'Connell St,Sydney",Sydney,NSW,Small Business,7,Not Specified,142,Wrap Bag,Regular Air,11/30/2016,2.68,6.08,49,297.92,0.08,23.83,297.84,1.17,299.01
+6509-1,12/1/2016,Steve Nguyen,"61 York St,Sydney",Sydney,NSW,Consumer,5,High,35,Small Box,Regular Air,12/2/2016,54.52,100.97,42,4240.74,0.1,424.07,4240.64,7.18,4247.82
+6510-1,12/3/2016,Anthony Rawles,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,NSW,Small Business,3,Medium,79,Small Box,Regular Air,12/5/2016,1.84,2.88,40,115.2,0,0,115.2,1.49,116.69
+6511-1,12/4/2016,Jennifer Jackson,"Crown Complex,Southbank",Melbourne,VIC,Home Office,8,High,28,Small Box,Regular Air,12/5/2016,6.39,19.98,29,579.42,0.06,34.77,579.36,4,583.36
+6512-1,12/5/2016,Frank Atkinson,"188 Pitt Street,Sydney",Sydney,NSW,Corporate,1,High,82,Small Pack,Express Air,12/7/2016,1.46,3.57,10,35.7,0.01,0.36,35.69,4.17,39.86
+6514-1,12/6/2016,Ben Peterman,"485 Crown St,Surry Hills",Sydney,NSW,Corporate,5,Low,29,Small Box,Regular Air,12/8/2016,32.02,152.48,46,7014.08,0.01,70.14,7014.07,4,7018.07
+6515-1,12/8/2016,Erica Hernandez,"12 Princess Hwy,Sylvania",Sydney,NSW,Small Business,12,Low,17,Small Box,Regular Air,12/15/2016,4.59,7.28,18,131.04,0.09,11.79,130.95,11.15,142.1
+6515-2,12/8/2016,Erica Hernandez,"12 Princess Hwy,Sylvania",Sydney,NSW,Small Business,12,Low,15,Wrap Bag,Regular Air,12/12/2016,0.71,1.14,28,31.92,0.09,2.87,31.83,0.7,32.53
+6517-1,12/8/2016,Amy Hunt,"60 Commercial Rd,Prahran",Melbourne,VIC,Small Business,9,High,93,Small Box,Regular Air,12/10/2016,14.95,34.76,10,347.6,0.06,20.86,347.54,8.22,355.76
+6521-1,12/9/2016,Guy Armstrong,"6 Mary St,Newtown",Sydney,NSW,Corporate,2,High,7,Wrap Bag,Regular Air,12/10/2016,1.09,2.6,8,20.8,0.02,0.42,20.78,2.4,23.18
+6523-1,12/10/2016,Cindy Chapman,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Critical,71,Wrap Bag,Regular Air,12/12/2016,0.24,1.26,37,46.62,0.03,1.4,46.59,0.7,47.29
+6525-1,12/10/2016,Ken Lonsdale,"99 Lygon Street,East Brunswick",Melbourne,VIC,Consumer,8,Low,2,Wrap Bag,Regular Air,12/14/2016,2.39,4.26,44,187.44,0.01,1.87,187.43,1.2,188.63
+6527-1,12/10/2016,Gary Hwang,"60 York St,Sydney",Sydney,NSW,Home Office,10,Not Specified,23,Small Pack,Regular Air,12/12/2016,0.94,2.08,36,74.88,0.1,7.49,74.78,2.56,77.34
+6528-1,12/10/2016,Brad Thomas,"152 Bunnerong Road,Eastgardens",Sydney,NSW,Corporate,1,Low,20,Wrap Bag,Regular Air,12/15/2016,1.82,2.98,45,134.1,0.05,6.71,134.05,1.58,135.63
+6529-1,12/14/2016,Dorris Love,"359 Crown Street,Surry Hills",Sydney,NSW,Home Office,4,High,49,Small Box,Regular Air,12/15/2016,8.92,29.74,22,654.28,0.07,45.8,654.21,6.64,660.85
+6530-1,12/15/2016,Monica Federle,"834 Bourke St,Waterloo",Sydney,NSW,Corporate,10,Low,19,Small Pack,Express Air,12/24/2016,5.5,12.22,17,207.74,0.01,2.08,207.73,2.85,210.58
+6531-1,12/17/2016,Theresa Coyne,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Home Office,1,High,24,Wrap Bag,Regular Air,12/19/2016,2.52,4,28,112,0.04,4.48,111.96,1.3,113.26
+6532-1,12/18/2016,Christopher Martinez,"188 Pitt Street,Sydney",Sydney,NSW,Home Office,1,Critical,119,Small Pack,Regular Air,12/19/2016,4.19,10.23,19,194.37,0.05,9.72,194.32,4.68,199
+6534-1,12/19/2016,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,NSW,Home Office,14,Critical,29,Small Box,Regular Air,12/21/2016,32.02,152.48,12,1829.76,0.07,128.08,1829.69,4,1833.69
+6535-1,12/21/2016,Benjamin Farhat,"188 Pitt Street,Sydney",Sydney,NSW,Home Office,1,Critical,23,Small Pack,Regular Air,12/22/2016,0.94,2.08,49,101.92,0.07,7.13,101.85,2.56,104.41
+6536-1,12/22/2016,Giulietta Weimer,"48 Albion St,Surry Hills",Sydney,NSW,Home Office,6,Critical,42,Small Box,Regular Air,12/23/2016,1.18,1.88,19,35.72,0.06,2.14,35.66,1.49,37.15
+6538-1,12/24/2016,Lisa Hazard,"Cnr Williams Road & Lechlade Ave,South Yarra",Melbourne,VIC,Home Office,9,High,90,Small Box,Regular Air,12/25/2016,2.45,3.89,3,11.67,0,0,11.67,7.01,18.68
+6540-1,12/25/2016,Steve Nguyen,"61 York St,Sydney",Sydney,NSW,Small Business,5,Not Specified,115,Small Box,Regular Air,12/26/2016,52.07,83.98,38,3191.24,0,0,3191.24,5.01,3196.25
+6541-1,12/28/2016,Cindy Chapman,"53-55 Liverpool St,Sydney",Sydney,NSW,Consumer,1,High,107,Small Box,Regular Air,12/30/2016,3.75,5.77,42,242.34,0,0,242.34,4.97,247.31
+6542-1,12/28/2016,Tracy Zic,"24 Addison Rd,Marrickville",Sydney,NSW,Consumer,13,Medium,80,Wrap Bag,Regular Air,12/29/2016,1.17,2.78,48,133.44,0.03,4,133.41,1.2,134.61
+6543-1,12/28/2016,Guy Armstrong,"6 Mary St,Newtown",Sydney,NSW,Corporate,2,Medium,30,Small Box,Regular Air,12/29/2016,10.07,15.98,14,223.72,0.05,11.19,223.67,4,227.67
+6544-1,12/31/2016,Shahid Shariari,"3/219 Canley Vale Road,Canley Heights",Sydney,NSW,Corporate,3,Low,42,Small Box,Regular Air,1/4/2017,1.18,1.88,22,41.36,0.04,1.65,41.32,1.49,42.81
+6546-1,1/3/2017,Julia Barnett,"485 Crown St,Surry Hills",Sydney,NSW,Home Office,5,Not Specified,29,Small Box,Regular Air,1/4/2017,32.02,152.48,46,7014.08,0.04,280.56,7014.04,4,7018.04
+6548-1,1/4/2017,Muhammed Yedwab,"18 Whistler St,Sydney",Sydney,NSW,Consumer,12,Not Specified,130,Small Box,Regular Air,1/5/2017,1.84,2.88,26,74.88,0.01,0.75,74.87,0.99,75.86
+6550-1,1/4/2017,Cynthia Arntzen,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,NSW,Small Business,1,Medium,57,Wrap Bag,Regular Air,1/6/2017,1.6,2.62,35,91.7,0.04,3.67,91.66,0.8,92.46
+6552-1,1/6/2017,Stephanie Phelps,"324A King St,Newtown",Sydney,NSW,Consumer,3,Medium,50,Small Box,Regular Air,1/7/2017,60.59,100.98,12,1211.76,0,0,1211.76,7.18,1218.94
+6553-1,1/10/2017,Dave Hallsten,"1 John St,Waterloo",Sydney,NSW,Home Office,10,Medium,130,Small Box,Regular Air,1/11/2017,1.84,2.88,22,63.36,0.02,1.27,63.34,0.99,64.33
+6555-1,1/11/2017,Bart Watters,"Westfield 1 Anderson St,Chatswood",Sydney,NSW,Corporate,12,Critical,89,Small Pack,Regular Air,1/13/2017,5.19,12.98,49,636.02,0.02,12.72,636,3.14,639.14
+6557-1,1/14/2017,Patrick ODonnell,"21 Wentworth St,Parramatta",Sydney,NSW,Home Office,7,Medium,81,Small Box,Regular Air,1/15/2017,2.26,3.58,38,136.04,0.03,4.08,136.01,5.47,141.48
+6558-1,1/17/2017,Ann Steele,"6-8 O'Connell Street,Newtown",Sydney,NSW,Corporate,12,Critical,17,Small Box,Regular Air,1/18/2017,4.59,7.28,39,283.92,0.08,22.71,283.84,11.15,294.99
+6560-1,1/18/2017,Sung Chung,"127 Liverpool St,Sydney",Sydney,NSW,Home Office,2,Not Specified,15,Wrap Bag,Express Air,1/20/2017,0.71,1.14,14,15.96,0,0,15.96,0.7,16.66
+6561-1,1/19/2017,Luke Weiss,"88 Oxford St,Woollahra",Sydney,NSW,Corporate,10,Not Specified,25,Medium Box,Regular Air,1/21/2017,8.82,20.99,29,608.71,0.03,18.26,608.68,4.81,613.49
+6562-1,1/19/2017,Laurel Workman,"38/133-145 Castlereagh St,Sydney",Sydney,NSW,Home Office,6,Medium,89,Small Pack,Express Air,1/21/2017,5.19,12.98,10,129.8,0.05,6.49,129.75,3.14,132.89
+6564-1,1/19/2017,Carol Darley,"Crown Complex,Southbank",Melbourne,VIC,Small Business,9,Low,55,Small Box,Express Air,1/26/2017,19.83,30.98,41,1270.18,0.04,50.81,1270.14,19.51,1289.65
+6565-1,1/20/2017,Julia Barnett,"485 Crown St,Surry Hills",Sydney,NSW,Corporate,5,Not Specified,17,Small Box,Regular Air,1/21/2017,4.59,7.28,24,174.72,0.1,17.47,174.62,11.15,185.77
+6567-1,1/23/2017,Jeremy Pistek,"85-113 Dunning Ave,Roseberry",Sydney,NSW,Corporate,3,Not Specified,116,Wrap Bag,Regular Air,1/25/2017,2.16,3.85,18,69.3,0.04,2.77,69.26,0.7,69.96
+6569-1,1/24/2017,Ken Heidel,"438 Victoria Avenue,Chatswood",Sydney,NSW,Corporate,6,Not Specified,84,Small Box,Regular Air,1/26/2017,3.5,5.74,46,264.04,0.05,13.2,263.99,5.01,269
+6571-1,1/26/2017,Harold Pawlan,"180 High Street,Windsor",Melbourne,VIC,Small Business,8,High,45,Small Box,Regular Air,1/27/2017,156.5,300.97,29,8728.13,0.03,261.84,8728.1,7.18,8735.28
+6572-1,1/27/2017,Kean Thornton,"Westfield Sydney,Sydney",Sydney,NSW,Corporate,6,Critical,143,Small Box,Regular Air,1/28/2017,3.99,6.23,25,155.75,0.07,10.9,155.68,6.97,162.65
+6574-1,1/30/2017,Rick Hansen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,NSW,Home Office,12,Not Specified,4,Jumbo Drum,Delivery Truck,2/2/2017,75,120.97,4,483.88,0.07,33.87,483.81,26.3,510.11
+6576-1,2/1/2017,Joy Daniels,"12 Princess Hwy,Sylvania",Sydney,NSW,Corporate,12,Low,82,Small Pack,Regular Air,2/5/2017,1.46,3.57,25,89.25,0.01,0.89,89.24,4.17,93.41
+6577-1,2/2/2017,Cindy Chapman,"53-55 Liverpool St,Sydney",Sydney,NSW,Corporate,1,Not Specified,40,Wrap Bag,Regular Air,2/4/2017,3.75,7.08,46,325.68,0.1,32.57,325.58,2.35,327.93
+6579-1,2/3/2017,Alex Russell,"99 Lygon Street,East Brunswick",Melbourne,VIC,Home Office,8,High,27,Small Box,Regular Air,2/5/2017,1.59,2.61,38,99.18,0.04,3.97,99.14,0.5,99.64
+6581-1,2/4/2017,Roland Black,"438 Victoria Avenue,Chatswood",Sydney,NSW,Small Business,6,High,41,Small Box,Regular Air,2/5/2017,13.64,20.98,41,860.18,0.05,43.01,860.13,1.49,861.62
+6582-1,2/5/2017,Art Foster,"Westfield Parramatta,Parramatta",Sydney,NSW,Home Office,11,Medium,41,Small Box,Regular Air,2/7/2017,13.64,20.98,2,41.96,0.01,0.42,41.95,1.49,43.44
+6584-1,2/7/2017,Maribeth Yedwab,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Home Office,8,Low,28,Small Box,Regular Air,2/7/2017,6.39,19.98,31,619.38,0,0,619.38,4,623.38
+6586-1,2/7/2017,Theresa Swint,"240-242 Johnston Street,Fitzroy",Melbourne,VIC,Consumer,8,Medium,85,Wrap Bag,Regular Air,2/7/2017,0.93,1.48,10,14.8,0.1,1.48,14.7,0.7,15.4
